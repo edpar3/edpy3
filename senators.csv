@@ -1,0 +1,2142 @@
+name,party,state,initial_date,group,end_date,historical_rank
+"Bassett, Richard",Anti-Admin/Pro-Admin,DE,"March 4, 1789",First,"March 3, 1793",1
+"Butler, Pierce",Pro-Admin/Anti-Admin/R,SC,"March 4, 1789",First,"October 25, 1796",2
+"Carroll, Charles",Pro-Admin,MD,"March 4, 1789",First,"November 30, 1792",3
+"Dalton, Tristram",Pro-Admin,MA,"March 4, 1789",First,"March 3, 1791",4
+"Ellsworth, Oliver",Pro-Admin/F,CT,"March 4, 1789",First,"March 8, 1796",5
+"Elmer, Jonathan",Pro-Admin,NJ,"March 4, 1789",First,"March 3, 1791",6
+"Few, William",Anti-Admin,GA,"March 4, 1789",First,"March 3, 1793",7
+"Grayson, William",Anti-Admin,VA,"March 4, 1789",First,"March 12, 1790",8
+"Gunn, James",Anti-Admin/F,GA,"March 4, 1789",First,"March 3, 1801",9
+"Henry, John",Pro-Admin/F,MD,"March 4, 1789",First,"July 10, 1797",10
+"Izard, Ralph",Pro-Admin,SC,"March 4, 1789",First,"March 3, 1795",11
+"Johnson, William, S.",Pro-Admin,CT,"March 4, 1789",First,"March 4, 1791",12
+"Langdon, John",Pro-Admin/Anti-Admin/R,NH,"March 4, 1789",First,"March 3, 1801",13
+"Lee, Richard, Henry",Anti-Admin,VA,"March 4, 1789",First,"October 8, 1792",14
+"Maclay, William",Anti-Admin,PA,"March 4, 1789",First,"March 3, 1791",15
+"Morris, Robert",Pro-Admin,PA,"March 4, 1789",First,"March 3, 1795",16
+"Paterson, William",Pro-Admin,NJ,"March 4, 1789",First,"November 13, 1790",17
+"Read, George",Pro-Admin,DE,"March 4, 1789",First,"September 18, 1793",18
+"Schuyler, Philip, John",Pro-Admin,NY,"March 4, 1789",First,"March 3, 1791",19
+"Strong, Caleb",Pro-Admin/F,MA,"March 4, 1789",First,"June 1, 1796",20
+"Wingate, Paine",Anti-Admin,NH,"March 4, 1789",First,"March 3, 1793",21
+"King, Rufus",Pro-Admin/F,NY,"July 16, 1789",First,"May 23, 1796",22
+"Johnston, Samuel",Pro-Admin,NC,"November 26, 1789",First,"March 3, 1793",23
+"Hawkins, Benjamin",Pro-Admin/Anti-Admin,NC,"December 8, 1789",First,"March 3, 1795",24
+"Walker, John",Pro-Admin,VA,"March 31, 1790",First,"November 9, 1790",25
+"Foster, Theodore",Pro-Admin/F/R,RI,"June 12, 1790",First,"March 3, 1803",26
+"Stanton, Joseph, , Jr.",Anti-Admin,RI,"June 12, 1790",First,"March 3, 1793",27
+"Monroe, James",Anti-Admin,VA,"November 9, 1790",First,"May 27, 1794",28
+"Dickinson, Philemon",Pro-Admin,NJ,"November 13, 1790",First,"March 3, 1793",29
+"Bradley, Stephen, R.",Anti-Admin,VT,"March 4, 1791",Second,"March 3, 1795",30
+"Burr, Aaron",Anti-Admin/R,NY,"March 4, 1791",Second,"March 3, 1797",31
+"Cabot, George",Pro-Admin/F,MA,"March 4, 1791",Second,"June 9, 1796",32
+"Rutherfurd, John",Pro-Admin/F,NJ,"March 4, 1791",Second,"November 26, 1798",33
+"Sherman, Roger",Pro-Admin,CT,"June 13, 1791",Second,"July 23, 1793",34
+"Robinson, Moses",Anti-Admin/R,VT,"October 17, 1791",Second,"October 15, 1796",35
+"Brown, John",Anti-Admin/R,KY,"June 18, 1792",Second,"March 3, 1805",36
+"Edwards, John",Anti-Admin,KY,"June 18, 1792",Second,"March 3, 1795",37
+"Taylor, John",Anti-Admin,VA,"October 18, 1792",Second,"May 11, 1794",38
+"Potts, Richard",Pro-Admin/F,MD,"January 10, 1793",Second,"October 24, 1796",39
+"Bradford, William",Pro-Admin/F,RI,"March 4, 1793",Third,October 1797,40
+"Frelinghuysen, Frederick",Pro-Admin/F,NJ,"March 4, 1793",Third,"November 12, 1796",41
+"Jackson, James",Anti-Admin,GA,"March 4, 1793",Third,"October 31, 1795",42
+"Livermore, Samuel",Pro-Admin/F,NH,"March 4, 1793",Third,"June 12, 1801",43
+"Martin, Alexander",Anti-Admin/R,NC,"March 4, 1793",Third,"March 3, 1799",44
+"Vining, John",Pro-Admin/F,DE,"March 4, 1793",Third,"January 19, 1798",45
+"Mitchell, Stephen, M.",Pro-Admin,CT,"December 2, 1793",Third,"March 3, 1795",46
+"Ross, James",Pro-Admin/F,PA,"April 24, 1794",Third,"March 3, 1803",47
+"Mason, Stevens, T.",R,VA,"November 18, 1794",Third,"May 10, 1803",48
+"Tazewell, Henry",Anti-Admin/R,VA,"November 18, 1794",Third,"January 24, 1799",49
+"Latimer, Henry",F,DE,"February 7, 1795",Third,"February 28, 1801",50
+"Bingham, William",F,PA,"March 4, 1795",Fourth,"March 3, 1801",51
+"Bloodworth, Timothy",R,NC,"March 4, 1795",Fourth,"March 3, 1801",52
+"Marshall, Humphrey",F,KY,"March 4, 1795",Fourth,"March 3, 1801",53
+"Paine, Elijah",F,VT,"March 4, 1795",Fourth,"September 1, 1801",54
+"Read, Jacob",F,SC,"March 4, 1795",Fourth,"March 3, 1801",55
+"Trumbull, Jonathan, , Jr.",F,CT,"March 4, 1795",Fourth,"June 10, 1796",56
+"Walton, George",F,GA,"November 16, 1795",Fourth,"April 12, 1796",57
+"Tattnall, Josiah",R,GA,"April 12, 1796",Fourth,"March 3, 1799",58
+"Hillhouse, James",F,CT,"May 18, 1796",Fourth,"June 10, 1810",59
+"Goodhue, Benjamin",F,MA,"June 11, 1796",Fourth,"November 8, 1800",60
+"Sedgwick, Theodore",F,MA,"June 11, 1796",Fourth,"March 3, 1799",61
+"Blount, William",R,TN,"August 2, 1796",Fourth,"July 8, 1797",62
+"Cocke, William",R,TN,"August 2, 1796",Fourth,"September 26, 1797",63
+"Tracy, Uriah",F,CT,"October 13, 1796",Fourth,"July 19, 1807",64
+"Tichenor, Isaac",F,VT,"October 18, 1796",Fourth,"October 17, 1797",65
+"Laurance, John",F,NY,"November 9, 1796",Fourth,August 1800,66
+"Stockton, Richard",F,NJ,"November 12, 1796",Fourth,"March 3, 1799",67
+"Howard, John, E.",F,MD,"November 21, 1796",Fourth,"March 3, 1803",68
+"Hunter, John",R,SC,"December 8, 1796",Fourth,"November 26, 1798",69
+"Schuyler, Philip, John",F,NY,"March 4, 1797",Fifth,"January 3, 1798",19
+"Anderson, Joseph",R,TN,"September 26, 1797",Fifth,"March 3, 1799",70
+"Jackson, Andrew",R,TN,"September 26, 1797",Fifth,April 1798,71
+"Chipman, Nathaniel",F,VT,"October 17, 1797",Fifth,"March 3, 1803",72
+"Greene, Ray",F,RI,"November 13, 1797",Fifth,"March 5, 1801",73
+"Lloyd, James",F,MD,"December 8, 1797",Fifth,"December 1, 1800",74
+"Hobart, John, S.",F,NY,"January 11, 1798",Fifth,"April 16, 1798",75
+"Clayton, Joshua",F,DE,"January 19, 1798",Fifth,"August 11, 1798",76
+"North, William",F,NY,"May 15, 1798",Fifth,"August 17, 1798",77
+"Watson, James",F,NY,"August 17, 1798",Fifth,"March 19, 1800",78
+"Smith, Daniel",R,TN,"October 6, 1798",Fifth,"March 3, 1799",79
+"Davenport, Franklin",F,NJ,"December 5, 1798",Fifth,"March 3, 1799",80
+"Pinckney, Charles",R,SC,"December 6, 1798",Fifth,"June 6, 1801",81
+"Wells, William, Hill",F,DE,"January 17, 1799",Fifth,"November 6, 1804",82
+"Anderson, Joseph",R,TN,"March 4, 1799",Sixth,"March 3, 1815",70
+"Baldwin, Abraham",R,GA,"March 4, 1799",Sixth,"March 4, 1807",83
+"Cocke, William",R,TN,"March 4, 1799",Sixth,"March 3, 1805",63
+"Dayton, Jonathan",F,NJ,"March 4, 1799",Sixth,"March 3, 1805",84
+"Dexter, Samuel",F,MA,"March 4, 1799",Sixth,"May 30, 1800",85
+"Franklin, Jesse",R,NC,"March 4, 1799",Sixth,"March 3, 1805",86
+"Schureman, James",F,NJ,"March 4, 1799",Sixth,"February 16, 1801",87
+"Nicholas, Wilson, C.",R,VA,"December 5, 1799",Sixth,"May 22, 1804",88
+"Morris, Gouverneur",F,NY,"April 3, 1800",Sixth,"March 3, 1803",89
+"Foster, Dwight",F,MA,"June 6, 1800",Sixth,"March 3, 1803",90
+"Armstrong, John, , Jr.",R,NY,"November 6, 1800",Sixth,"February 5, 1802",91
+"Mason, Jonathan",F,MA,"November 14, 1800",Sixth,"March 3, 1803",92
+"Hindman, William",F,MD,"December 12, 1800",Sixth,"November 19, 1801",93
+"Ogden, Aaron",F,NJ,"February 28, 1801",Sixth,"March 3, 1803",94
+"White, Samuel",F,DE,"February 28, 1801",Sixth,"November 4, 1809",95
+"Breckinridge, John",R,KY,"March 4, 1801",Seventh,"August 7, 1805",96
+"Colhoun, John, Ewing",R,SC,"March 4, 1801",Seventh,"October 26, 1802",97
+"Jackson, James",R,GA,"March 4, 1801",Seventh,"March 19, 1806",42
+"Muhlenberg, John, Peter G.",R,PA,"March 4, 1801",Seventh,"June 30, 1801",98
+"Sheafe, James",F,NH,"March 4, 1801",Seventh,"June 14, 1802",99
+"Stone, David",R,NC,"March 4, 1801",Seventh,"February 17, 1807",100
+"Ellery, Christopher",R,RI,"May 16, 1801",Seventh,"March 3, 1805",101
+"Olcott, Simeon",F,NH,"June 17, 1801",Seventh,"March 3, 1805",102
+"Logan, George",R,PA,"July 13, 1801",Seventh,"March 3, 1807",103
+"Bradley, Stephen, R.",R,VT,"October 15, 1801",Seventh,"March 3, 1813",30
+"Wright, Robert",R,MD,"November 19, 1801",Seventh,"November 12, 1806",104
+"Sumter, Thomas",R,SC,"December 15, 1801",Seventh,"December 16, 1810",105
+"Clinton, De, Witt",R,NY,"February 9, 1802",Seventh,"November 4, 1803",106
+"Plumer, William",F,NH,"June 17, 1802",Seventh,"March 3, 1807",107
+"Butler, Pierce",R,SC,"November 4, 1802",Seventh,"November 21, 1804",2
+"Adams, John, Quincy",F,MA,"March 4, 1803",Eighth,"June 8, 1808",108
+"Bailey, Theodorus",R,NY,"March 4, 1803",Eighth,"January 16, 1804",109
+"Maclay, Samuel",R,PA,"March 4, 1803",Eighth,"January 4, 1809",110
+"Pickering, Timothy",R,MA,"March 4, 1803",Eighth,"March 3, 1811",111
+"Potter, Samuel, J.",R,RI,"March 4, 1803",Eighth,"October 14, 1804",112
+"Smith, Israel",R,VT,"March 4, 1803",Eighth,"October 1, 1807",113
+"Smith, Samuel",R,MD,"March 4, 1803",Eighth,"March 3, 1815",114
+"Taylor, John",R,VA,"March 4, 1803",Eighth,"December 7, 1803",38
+"Smith, John",R,OH,"April 1, 1803",Eighth,"April 25, 1808",115
+"Worthington, Thomas",R,OH,"April 1, 1803",Eighth,"March 3, 1807",116
+"Condit, John",R,NJ,"September 1, 1803",Eighth,"March 3, 1809",117
+"Armstrong, John, Jr.",R,NY,"November 10, 1803",Eighth,"February 4, 1804",91
+"Venable, Abraham, B.",R,VA,"December 7, 1803",Eighth,"June 7, 1804",118
+"Smith, John",R,NY,"February 4, 1804",Eighth,"March 3, 1813",119
+"Armstrong, John, Jr.",R,NY,"February 25, 1804",Eighth,"June 30, 1804",91
+"Giles, William, B.",R,VA,"August 11, 1804",Eighth,"December 4, 1804",120
+"Moore, Andrew",R,VA,"August 11, 1804",Eighth,"December 4, 1804",121
+"Howland, Benjamin",R,RI,"October 29, 1804",Eighth,"March 3, 1809",122
+"Mitchill, Samuel",R,NY,"November 9, 1804",Eighth,"March 3, 1809",123
+"Asheton, Sr, .",F,DE,"November 13, 1804",Eighth,"March 3, 1813",124
+"Giles, William, B.",R,VA,"December 4, 1804",Eighth,"March 3, 1815",120
+"Moore, Andrew",R,VA,"December 4, 1804",Eighth,"March 3, 1809",121
+"Gaillard, John",R/CRR/J,SC,"December 6, 1804",Eighth,"February 26, 1826",125
+"Fenner, James",R,RI,"March 4, 1805",Ninth,September 1807,126
+"Gilman, Nicholas",R,NH,"March 4, 1805",Ninth,"May 2, 1814",127
+"Kitchell, Aaron",R,NJ,"March 4, 1805",Ninth,"March 12, 1809",128
+"Smith, Daniel",R,TN,"March 4, 1805",Ninth,"March 31, 1809",79
+"Thruston, Buckner",R,KY,"March 4, 1805",Ninth,"December 18, 1809",129
+"Turner, James",R,NC,"March 4, 1805",Ninth,"November 21, 1816",130
+"Adair, John",R,KY,"November 8, 1805",Ninth,"November 18, 1806",131
+"Milledge, John",R,GA,"June 19, 1806",Ninth,"November 14, 1809",132
+"Reed, Philip",R,MD,"November 25, 1806",Ninth,"March 3, 1813",133
+"Clay, Henry",R,KY,"December 29, 1806",Ninth,"March 3, 1807",134
+"Franklin, Jesse",R,NC,"March 4, 1807",Tenth,"March 3, 1813",86
+"Gregg, Andrew",R,PA,"March 4, 1807",Tenth,"March 3, 1813",135
+"Mathewson, Elisha",R,RI,"March 4, 1807",Tenth,"March 3, 1811",136
+"Parker, Nahum",R,NH,"March 4, 1807",Tenth,"June 1, 1810",137
+"Pope, John",R,KY,"March 4, 1807",Tenth,"March 3, 1813",138
+"Tiffin, Edward",R,OH,"March 4, 1807",Tenth,"March 3, 1809",139
+"Jones, George",R,GA,"August 27, 1807",Tenth,"November 7, 1807",140
+"Robinson, Jonathan",R,VT,"October 10, 1807",Tenth,"March 3, 1815",141
+"Goodrich, Chauncey",F,CT,"October 25, 1807",Tenth,May 1813,142
+"Crawford, William, H.",R,GA,"November 7, 1807",Tenth,"March 23, 1813",143
+"Lloyd, James",F,MA,"June 9, 1808",Tenth,"May 1, 1813",144
+"Jonathan, Jr, .",R,OH,"December 12, 1808",Tenth,"December 8, 1810",145
+"Leib, Michael",R,PA,"January 9, 1809",Tenth,"February 14, 1814",146
+"Brent, Richard",R,VA,"March 4, 1809",Eleventh,"December 30, 1814",147
+"German, Obadiah",R,NY,"March 4, 1809",Eleventh,"March 3, 1815",148
+"Lambert, John",R,NJ,"March 4, 1809",Eleventh,"March 3, 1815",149
+"Malbone, Francis",F,RI,"March 4, 1809",Eleventh,"June 4, 1809",150
+"Condit, John",R,NJ,"March 21, 1809",Eleventh,"March 3, 1817",117
+"Whiteside, Jenkin",R,TN,"April 11, 1809",Eleventh,"October 8, 1811",151
+"Griswold, Stanley",R,OH,"May 18, 1809",Eleventh,"December 11, 1809",152
+"Champlin, Christopher, G.",F,RI,"June 26, 1809",Eleventh,"October 2, 1811",153
+"Tait, Charles",R,GA,"November 27, 1809",Eleventh,"March 3, 1819",154
+"Campbell, Alexander",R,OH,"December 11, 1809",Eleventh,"March 3, 1813",155
+"Clay, Henry",R,KY,"January 4, 1810",Eleventh,"March 3, 1811",134
+"Horsey, Outerbridge",F,DE,"January 12, 1810",Eleventh,"March 3, 1821",156
+"Dana, Samuel, W.",F,CT,"May 10, 1810",Eleventh,"March 3, 1821",157
+"Cutts, Charles",R,NH,"June 21, 1810",Eleventh,"June 10, 1813",158
+"Worthington, Thomas",R,OH,"December 15, 1810",Eleventh,"December 1, 1814",116
+"Taylor, John",R,SC,"December 31, 1810",Eleventh,November 1816,159
+"Bibb, George, M.",R,KY,"March 4, 1811",Twelfth,"August 23, 1814",160
+"Howell, Jeremiah, B.",R,RI,"March 4, 1811",Twelfth,"March 3, 1817",161
+"Varnum, Joseph, B.",R,MA,"June 8, 1811",Twelfth,"March 3, 1817",162
+"Campbell, George, W.",R,TN,"October 8, 1811",Twelfth,"February 11, 1814",163
+"Hunter, William",F,RI,"October 28, 1811",Twelfth,"March 3, 1821",164
+"Magruder, Allan, B.",R,LA,"September 3, 1812",Twelfth,"March 3, 1813",166
+"Posey, Thomas",R,LA,"October 8, 1812",Twelfth,"February 4, 1813",167
+"Brown, James",R,LA,"February 5, 1813",Twelfth,"March 3, 1817",168
+"Bledsoe, Jesse",R,KY,"March 4, 1813",Thirteenth,"January 14, 1815",169
+"Chase, Dudley",R,VT,"March 4, 1813",Thirteenth,"November 3, 1817",170
+"Fromentin, Eligius",R,LA,"March 4, 1813",Thirteenth,"March 3, 1819",171
+"King, Rufus",F/Adams-Clay F,NY,"March 4, 1813",Thirteenth,"March 3, 1825",22
+"Lacock, Abner",R,PA,"March 4, 1813",Thirteenth,"March 3, 1819",172
+"Morrow, Jeremiah",R,OH,"March 4, 1813",Thirteenth,"March 3, 1819",173
+"Stone, David",R,NC,"March 4, 1813",Thirteenth,"December 24, 1814",100
+"Bulloch, William, B.",R,GA,"April 8, 1813",Thirteenth,"November 6, 1813",174
+"Gore, Christopher",F,MA,"May 5, 1813",Thirteenth,"May 30, 1816",175
+"Daggett, David",F,CT,"May 13, 1813",Thirteenth,"March 3, 1819",176
+"Goldsborough, Robert, H.",F,MD,"May 21, 1813",Thirteenth,"March 3, 1819",177
+"Wells, William, Hill",F,DE,"May 28, 1813",Thirteenth,"March 3, 1817",82
+"Mason, Jeremiah",F,NH,"June 10, 1813",Thirteenth,"June 16, 1817",178
+"Bibb, William, Wyatt",R,GA,"November 6, 1813",Thirteenth,"November 9, 1816",179
+"Locke, Francis",NA,NC,"November 6, 1813",Thirteenth,"December 5, 1815",180
+"Roberts, Jonathan",R,PA,"February 24, 1814",Thirteenth,"March 3, 1821",181
+"Wharton, Jesse",R,TN,"March 17, 1814",Thirteenth,"October 10, 1815",182
+"Thompson, Thomas, W.",F,NH,"June 24, 1814",Thirteenth,"March 3, 1817",183
+"Walker, George",R,KY,"August 30, 1814",Thirteenth,"February 1, 1815",184
+"Kerr, Joseph",R,OH,"December 10, 1814",Thirteenth,"March 3, 1815",185
+"Barbour, James",R/CRR,VA,"January 2, 1815",Thirteenth,"March 27, 1825",186
+"Barry, William, T.",R,KY,"February 2, 1815",Thirteenth,"May 1, 1816",187
+"Talbot, Isham",R,KY,"February 2, 1815",Thirteenth,"March 3, 1819",188
+"Ruggles, Benjamin",R/CRR/Adams/AJ,OH,"March 4, 1815",Fourteenth,"March 3, 1833",189
+"Sanford, Nathan",R,NY,"March 4, 1815",Fourteenth,"March 3, 1821",190
+"Tichenor, Isaac",F,VT,"March 4, 1815",Fourteenth,"March 3, 1821",65
+"Wilson, James, J.",R,NJ,"March 4, 1815",Fourteenth,"January 8, 1821",191
+"Campbell, George, W.",R,TN,"October 10, 1815",Fourteenth,"April 20, 1818",163
+"Williams, John",R,TN,"October 10, 1815",Fourteenth,"March 3, 1823",192
+"Macon, Nathaniel",R/CRR/J,NC,"December 5, 1815",Fourteenth,"November 14, 1828",193
+"Mason, Armistead, T.",R,VA,"January 3, 1816",Fourteenth,"March 3, 1817",194
+"Harper, Robert, G.",F,MD,"January 29, 1816",Fourteenth,"December 6, 1816",195
+"Ashmun, Eli, P.",F,MA,"June 12, 1816",Fourteenth,"May 10, 1818",196
+"Troup, George, M.",R,GA,"November 13, 1816",Fourteenth,"September 23, 1818",197
+"Hardin, Martin, D.",F,KY,"November 13, 1816",Fourteenth,"March 3, 1817",198
+"Smith, William",R,SC,"December 4, 1816",Fourteenth,"March 3, 1823",199
+"Stokes, Montfort",R,NC,"December 4, 1816",Fourteenth,"March 3, 1823",200
+"Noble, James",R/CRR/Adams/AJ,IN,"December 11, 1816",Fourteenth,"February 26, 1831",201
+"Taylor, Waller",R/Adams-Clay R,IN,"December 11, 1816",Fourteenth,"March 3, 1825",202
+"Hanson, Alexander, Contee",F,MD,"December 20, 1816",Fourteenth,"April 23, 1819",203
+"Burrill, James, , Jr.",F,RI,"March 4, 1817",Fifteenth,"December 25, 1820",204
+"Claiborne, William, C. C.",D,LA,"March 4, 1817",Fifteenth,"November 23, 1817",205
+"Crittenden, John, J.",R,KY,"March 4, 1817",Fifteenth,"March 3, 1819",206
+"Dickerson, Mahlon",R/CRR/J,NJ,"March 4, 1817",Fifteenth,"January 30, 1829",207
+"Eppes, John, W.",R,VA,"March 4, 1817",Fifteenth,"December 4, 1819",208
+"Morril, David, L.",R,NH,"March 4, 1817",Fifteenth,"March 3, 1823",209
+"Otis, Harrison, Gray",F,MA,"March 4, 1817",Fifteenth,"May 30, 1822",210
+"Dyke, Nicholas",F/Adams-Clay F/Adams,DE,"March 4, 1817",Fifteenth,"May 21, 1826",211
+"Storer, Clement",R,NH,"June 27, 1817",Fifteenth,"March 3, 1819",212
+"Fisk, James",R,VT,"November 4, 1817",Fifteenth,"January 8, 1818",213
+"Leake, Walter",R,MS,"December 10, 1817",Fifteenth,"May 15, 1820",214
+"Williams, Thomas",R/JR/J,MS,"December 10, 1817",Fifteenth,"March 3, 1829",215
+"Johnson, Henry",R/Adams-Clay R,LA,"January 12, 1818",Fifteenth,"May 27, 1824",216
+"Mellen, Prentiss",F,MA,"June 5, 1818",Fifteenth,"May 15, 1820",217
+"Eaton, John, H.",R/JR/J,TN,"September 5, 1818",Fifteenth,"March 9, 1829",218
+"Palmer, William, A.",R/Adams-Clay R,VT,"October 20, 1818",Fifteenth,"March 3, 1825",219
+"Forsyth, John",R,GA,"November 23, 1818",Fifteenth,"February 17, 1819",220
+"Thomas, Jesse, B.",R/CRR/Adams,IL,"December 3, 1818",Fifteenth,"March 3, 1829",221
+"Edwards, Ninian",R/Adams-Clay R,IL,"December 3, 1818",Fifteenth,"March 4, 1824",222
+"Brown, James",R/Adams-Clay R,LA,"March 4, 1819",Sixteenth,"December 10, 1823",168
+"Elliott, John",R/CRR,GA,"March 4, 1819",Sixteenth,"March 3, 1825",223
+"Lanman, James",R/CRR,CT,"March 4, 1819",Sixteenth,"March 3, 1825",224
+"Logan, William",R,KY,"March 4, 1819",Sixteenth,"May 28, 1820",225
+"Lowrie, Walter",R/CRR,PA,"March 4, 1819",Sixteenth,"March 3, 1825",226
+"Parrott, John, F.",R/Adams-Clay R,NH,"March 4, 1819",Sixteenth,"March 3, 1825",227
+"Trimble, William, A.",R,OH,"March 4, 1819",Sixteenth,"December 13, 1821",228
+"Walker, Freeman",R,GA,"November 6, 1819",Sixteenth,"August 8, 1821",229
+"Johnson, Richard, M.",R/JR/J,KY,"December 10, 1819",Sixteenth,"March 3, 1829",230
+"Pleasants, James",R,VA,"December 10, 1819",Sixteenth,"December 15, 1822",231
+"King, William, R.",R/JR/J/D,AL,"December 14, 1819",Sixteenth,"April 15, 1844",232
+"Walker, John, W.",R,AL,"December 14, 1819",Sixteenth,"December 12, 1822",233
+"Pinkney, William",R,MD,"December 21, 1819",Sixteenth,"February 25, 1822",234
+"Lloyd, Edward",R/CRR/J,MD,"December 21, 1819",Sixteenth,"January 14, 1826",235
+"Mills, Elijah, H.",F/Adams-Clay F/Adams,MA,"June 12, 1820",Sixteenth,"March 3, 1827",236
+"Holmes, John",R/CRR/Adams,ME,"June 13, 1820",Sixteenth,"March 3, 1827",237
+"Chandler, John",R/CRR/J,ME,"June 14, 1820",Sixteenth,"March 3, 1829",238
+"Holmes, David",R/JR,MS,"August 30, 1820",Sixteenth,"September 25, 1825",239
+"Talbot, Isham",R/Adams-Clay R,KY,"October 19, 1820",Sixteenth,"March 3, 1825",188
+"Knight, Nehemiah, R.",R/CRR/Adams/AJ/W,RI,"January 9, 1821",Sixteenth,"March 3, 1841",240
+"Southard, Samuel, L.",R,NJ,"January 26, 1821",Sixteenth,"March 3, 1823",241
+"Boardman, Elijah",R,CT,"March 4, 1821",Seventeenth,"August 18, 1823",242
+"Wolf, James",R/CRR,RI,"March 4, 1821",Seventeenth,"October 31, 1825",243
+"Seymour, Horatio",R/Adams-Clay R/Adams/AJ,VT,"March 4, 1821",Seventeenth,"March 3, 1833",244
+"Buren, Martin",R/CRR/J,NY,"March 4, 1821",Seventeenth,"December 20, 1828",245
+"Barton, David",R/Adams-Clay R/Adams/AJ,MO,"August 10, 1821",Seventeenth,"March 3, 1831",246
+"Benton, Thomas, Hart",R/JR/J/D,MO,"August 10, 1821",Seventeenth,"March 3, 1851",247
+"Ware, Nicholas",R/CRR,GA,"November 10, 1821",Seventeenth,"September 7, 1824",248
+"Findlay, William",R/JR/J,PA,"December 10, 1821",Seventeenth,"March 3, 1827",249
+"Brown, Ethan, Allen",R/Adams-Clay R,OH,"January 3, 1822",Seventeenth,"March 3, 1825",250
+"Rodney, Caesar, A.",R,DE,"January 24, 1822",Seventeenth,"January 29, 1823",251
+"Lloyd, James",F/Adams-Clay F/Adams,MA,"June 5, 1822",Seventeenth,"May 23, 1826",144
+"Kelly, William",R/JR,AL,"December 12, 1822",Seventeenth,"March 3, 1825",252
+"Smith, Samuel",R/CRR/J,MD,"December 16, 1822",Seventeenth,"March 3, 1833",144
+"Taylor, John",R/CRR,VA,"December 18, 1822",Seventeenth,"August 20, 1824",38
+"Bell, Samuel",Adams-Clay R/Adams/AJ,NH,"March 4, 1823",Eighteenth,"March 3, 1835",253
+"Branch, John",CRR/J,NC,"March 4, 1823",Eighteenth,"March 9, 1829",254
+"Hayne, Robert, Young",JR/J/N,SC,"March 4, 1823",Eighteenth,"December 13, 1832",255
+"Jackson, Andrew",JR,TN,"March 4, 1823",Eighteenth,"October 14, 1825",71
+"Edwards, Henry, W.",JR/J,CT,"October 8, 1823",Eighteenth,"March 3, 1827",256
+"McIlvaine, Joseph",Adams-Clay R/Adams,NJ,"November 12, 1823",Eighteenth,"August 19, 1826",257
+"Clayton, Thomas",Adams-Clay F/Adams,DE,"January 8, 1824",Eighteenth,"March 3, 1827",258
+"Johnston, Josiah, S.",Adams-Clay R/Adams/AJ,LA,"January 15, 1824",Eighteenth,"May 19, 1833",259
+"Cobb, Thomas, W.",CRR/J,GA,"November 4, 1824",Eighteenth,"November 7, 1828",260
+"Bouligny, Dominique",Adams-Clay R/Adams,LA,"November 19, 1824",Eighteenth,"March 3, 1829",261
+"McLean, John",CRR,IL,"November 23, 1824",Eighteenth,"March 3, 1825",262
+"Tazewell, Littleton, W.",JR/J,VA,"December 7, 1824",Eighteenth,"July 16, 1832",263
+"Berrien, John, Macpherson",J,GA,"March 4, 1825",Nineteenth,"March 9, 1829",264
+"Chambers, Henry, H.",J,AL,"March 4, 1825",Nineteenth,"January 24, 1826",265
+"Chase, Dudley",Adams/AJ,VT,"March 4, 1825",Nineteenth,"March 3, 1831",170
+"Harrison, William, H.",Adams,OH,"March 4, 1825",Nineteenth,"May 20, 1828",266
+"Hendricks, William",Adams/AJ,IN,"March 4, 1825",Nineteenth,"March 3, 1837",267
+"Kane, Elias, K.",J,IL,"March 4, 1825",Nineteenth,"December 11, 1835",268
+"Marks, William",Adams/AJ,PA,"March 4, 1825",Nineteenth,"March 3, 1831",269
+"Rowan, John",J,KY,"March 4, 1825",Nineteenth,"March 3, 1831",270
+"Willey, Calvin",Adams/AJ,CT,"May 4, 1825",Nineteenth,"March 3, 1831",271
+"Woodbury, Levi",J,NH,"June 16, 1825",Nineteenth,"March 3, 1831",272
+"Ellis, Powhatan",J,MS,"September 28, 1825",Nineteenth,"January 28, 1826",273
+"White, Hugh, Lawson",J/AJ/W,TN,"October 28, 1825",Nineteenth,"January 13, 1840",274
+"Robbins, Asher",Adams/AJ/W,RI,"October 31, 1825",Nineteenth,"March 3, 1839",275
+"Randolph, John",J,VA,"December 9, 1825",Nineteenth,"March 3, 1827",276
+"Sanford, Nathan",Adams/AJ,NY,"January 14, 1826",Nineteenth,"March 3, 1831",190
+"Chambers, Ezekiel, F.",Adams/AJ,MD,"January 24, 1826",Nineteenth,"December 20, 1834",277
+"Reed, Thomas, B.",J,MS,"January 28, 1826",Nineteenth,"March 3, 1827",278
+"Pickens, Israel",J,AL,"February 17, 1826",Nineteenth,"November 27, 1826",279
+"Harper, William",J,SC,"March 8, 1826",Nineteenth,"November 29, 1826",280
+"Silsbee, Nathaniel",Adams/AJ,MA,"May 31, 1826",Nineteenth,"March 3, 1835",281
+"Rodney, Daniel",Adams,DE,"November 8, 1826",Nineteenth,"January 12, 1827",282
+"Bateman, Ephraim",Adams,NJ,"November 9, 1826",Nineteenth,"January 12, 1829",283
+"McKinley, John",J,AL,"November 27, 1826",Nineteenth,"March 3, 1831",284
+"Smith, William",R,SC,"November 29, 1826",Nineteenth,"March 3, 1831",199
+"Ridgely, Henry, M.",J,DE,"January 12, 1827",Nineteenth,"March 3, 1829",285
+"Barnard, Isaac, D.",J,PA,"March 4, 1827",Twentieth,"December 6, 1831",286
+"Ellis, Powhatan",J,MS,"March 4, 1827",Twentieth,"July 16, 1832",273
+"Foot, Samuel, A.",Adams/AJ,CT,"March 4, 1827",Twentieth,"March 3, 1833",287
+"McLane, Louis",J,DE,"March 4, 1827",Twentieth,"April 16, 1829",288
+"Parris, Albion, K.",J,ME,"March 4, 1827",Twentieth,"August 26, 1828",289
+"Tyler, John",J/AJ,VA,"March 4, 1827",Twentieth,"February 29, 1836",290
+"Webster, Daniel",Adams/AJ/W,MA,"December 17, 1827",Twentieth,"February 22, 1841",291
+"Prince, Oliver, H.",J,GA,"November 7, 1828",Twentieth,"March 3, 1829",292
+"Burnet, Jacob",Adams/AJ,OH,"December 10, 1828",Twentieth,"March 3, 1831",293
+"Iredell, James",J,NC,"December 15, 1828",Twentieth,"March 3, 1831",294
+"Dudley, Charles, E.",J,NY,"January 15, 1829",Twentieth,"March 3, 1833",295
+"Holmes, John",Adams/AJ,ME,"January 15, 1829",Twentieth,"March 3, 1833",237
+"Dickerson, Mahlon",R/CR/J,NJ,"January 30, 1829",Twentieth,"March 3, 1833",207
+"Bibb, George, M.",J,KY,"March 4, 1829",Twenty-First,"March 3, 1835",160
+"Clayton, John, M.",AJ,DE,"March 4, 1829",Twenty-First,"December 29, 1836",296
+"Frelinghuysen, Theodore",AJ,NJ,"March 4, 1829",Twenty-First,"March 3, 1835",297
+"Livingston, Edward",J,LA,"March 4, 1829",Twenty-First,"May 24, 1831",298
+"McLean, John",J,IL,"March 4, 1829",Twenty-First,"October 14, 1830",262
+"Reed, Thomas, B.",J,MS,"March 4, 1829",Twenty-First,"November 26, 1829",278
+"Sprague, Peleg",AJ,ME,"March 4, 1829",Twenty-First,"January 1, 1835",299
+"Troup, George, M.",J,GA,"March 4, 1829",Twenty-First,"March 2, 1833",197
+"Grundy, Felix",J/D,TN,"October 19, 1829",Twenty-First,"July 4, 1838",300
+"Forsyth, John",J,GA,"November 9, 1829",Twenty-First,"June 27, 1834",220
+"Brown, Bedford",J/D,NC,"December 9, 1829",Twenty-First,"November 11, 1840",301
+"Adams, Robert, H.",J,MS,"January 6, 1830",Twenty-First,"July 2, 1830",302
+"Naudain, Arnold",AJ,DE,"January 7, 1830",Twenty-First,"June 16, 1836",303
+"Poindexter, George",J/AJ,MS,"October 15, 1830",Twenty-First,"March 3, 1835",304
+"Baker, David, J.",D,IL,"November 12, 1830",Twenty-First,"December 11, 1830",305
+"Robinson, John, M.",J/D,IL,"December 11, 1830",Twenty-First,"March 3, 1841",306
+"Buckner, Alexander",J,MO,"March 4, 1831",Twenty-Second,"June 6, 1833",307
+"Ewing, Thomas",AJ,OH,"March 4, 1831",Twenty-Second,"March 3, 1837",308
+"Hill, Isaac",J,NH,"March 4, 1831",Twenty-Second,"May 30, 1836",309
+"Mangum, Willie, P.",J/AJ,NC,"March 4, 1831",Twenty-Second,"November 26, 1836",310
+"Marcy, William, L.",J,NY,"March 4, 1831",Twenty-Second,"January 1, 1833",311
+"Miller, Stephen, D.",N,SC,"March 4, 1831",Twenty-Second,"March 2, 1833",312
+"Moore, Gabriel",J/AJ,AL,"March 4, 1831",Twenty-Second,"March 3, 1837",313
+"Prentiss, Samuel",AJ/W,VT,"March 4, 1831",Twenty-Second,"April 11, 1842",314
+"Tomlinson, Gideon",AJ,CT,"March 4, 1831",Twenty-Second,"March 3, 1837",315
+"Wilkins, William",J,PA,"March 4, 1831",Twenty-Second,"June 30, 1834",316
+"Hanna, Robert",AJ,IN,"August 19, 1831",Twenty-Second,"January 3, 1832",317
+"Clay, Henry",AJ/W,KY,"November 10, 1831",Twenty-Second,"March 31, 1842",0
+"Waggaman, George, A.",AJ,LA,"November 15, 1831",Twenty-Second,"March 3, 1835",318
+"Dallas, George, M.",J,PA,"December 13, 1831",Twenty-Second,"March 3, 1833",319
+"Tipton, John",J/D,IN,"January 3, 1832",Twenty-Second,"March 3, 1839",320
+"Black, John",J/AJ/W,MS,"November 12, 1832",Twenty-Second,"January 22, 1838",321
+"Rives, William, C.",J,VA,"December 10, 1832",Twenty-Second,"February 22, 1834",322
+"Calhoun, John, C.",N/D,SC,"December 29, 1832",Twenty-Second,"March 3, 1843",323
+"Wright, Silas, , Jr.",J/D,NY,"January 4, 1833",Twenty-Second,"November 26, 1844",324
+"Kent, Joseph",AJ/W,MD,"March 4, 1833",Twenty-Third,"November 24, 1837",325
+"Morris, Thomas",J/D,OH,"March 4, 1833",Twenty-Third,"March 3, 1839",326
+"Shepley, Ether",J,ME,"March 4, 1833",Twenty-Third,"March 3, 1836",327
+"Smith, Nathan",AJ,CT,"March 4, 1833",Twenty-Third,"December 6, 1835",328
+"Southard, Samuel, L.",AJ/W,NJ,"March 4, 1833",Twenty-Third,"June 26, 1842",0
+"Swift, Benjamin",AJ/W,VT,"March 4, 1833",Twenty-Third,"March 3, 1839",329
+"Tallmadge, Nathaniel, P.",J/D/W,NY,"March 4, 1833",Twenty-Third,"June 17, 1844",330
+"Linn, Lewis, F.",J/D,MO,"October 25, 1833",Twenty-Third,"October 3, 1843",331
+"King, John, Pendleton",J/D,GA,"November 21, 1833",Twenty-Third,"November 1, 1837",332
+"Preston, William, C.",N/W,SC,"November 26, 1833",Twenty-Third,"November 29, 1842",333
+"McKean, Samuel",J/D,PA,"December 7, 1833",Twenty-Third,"March 3, 1839",334
+"Porter, Alexander",AJ,LA,"December 19, 1833",Twenty-Third,"January 5, 1837",335
+"Leigh, Benjamin, W.",AJ,VA,"December 19, 1833",Twenty-Third,"July 4, 1836",336
+"Buchanan, James",J/D,PA,"December 6, 1834",Twenty-Third,"March 5, 1845",337
+"Cuthbert, Alfred",J/D,GA,"January 12, 1835",Twenty-Third,"March 3, 1843",338
+"Goldsborough, Robert, H.",AJ,MD,"January 13, 1835",Twenty-Third,"October 5, 1836",0
+"Ruggles, John",J/D,ME,"January 20, 1835",Twenty-Third,"March 3, 1841",339
+"Crittenden, John, J.",AJ/W,KY,"March 4, 1835",Twenty-Fourth,"March 3, 1841",0
+"Davis, John",AJ/W,MA,"March 4, 1835",Twenty-Fourth,"January 5, 1841",340
+"Hubbard, Henry",J/D,NH,"March 4, 1835",Twenty-Fourth,"March 3, 1841",341
+"Walker, Robert, J.",J/D,MS,"March 4, 1835",Twenty-Fourth,"March 5, 1845",342
+"Wall, Garret, D.",J/D/,NJ,"March 4, 1835",Twenty-Fourth,"March 3, 1841",343
+"Niles, John, M.",J/D,CT,"December 14, 1835",Twenty-Fourth,"May 3, 1839",344
+"Ewing, William, Lee D.",J,IL,"December 30, 1835",Twenty-Fourth,"March 3, 1837",345
+"Nicholas, Robert, C.",J/D,LA,"January 13, 1836",Twenty-Fourth,"March 3, 1841",346
+"Rives, William, C.",J/D,VA,"March 4, 1836",Twenty-Fourth,"March 3, 1839",0
+"Page, John",J,NH,"June 8, 1836",Twenty-Fourth,"March 3, 1837",347
+"Bayard, Richard, H.",AJ/W,DE,"June 17, 1836",Twenty-Fourth,"September 19, 1839",348
+"Sevier, Ambrose, H.",J/D,AR,"September 18, 1836",Twenty-Fourth,"March 15, 1848",350
+"Strange, Robert",J/D,NC,"December 5, 1836",Twenty-Fourth,"November 16, 1840",351
+"Dana, Judah",J,ME,"December 7, 1836",Twenty-Fourth,"March 3, 1837",352
+"Parker, Richard, E.",J/D,VA,"December 12, 1836",Twenty-Fourth,"March 13, 1837",353
+"Spence, John, S.",AJ/W,MD,"December 31, 1836",Twenty-Fourth,"October 24, 1840",354
+"Clayton, Thomas",AJ/W,DE,"January 9, 1837",Twenty-Fourth,"March 3, 1847",0
+"Mouton, Alexander",J/D,LA,"January 12, 1837",Twenty-Fourth,"March 1, 1842",355
+"Lyon, Lucius",J/D,MI,"January 26, 1837",Twenty-Fourth,"March 3, 1839",356
+"Norvell, John",J/D,MI,"January 26, 1837",Twenty-Fourth,"March 3, 1841",357
+"Allen, William",D,OH,"March 4, 1837",Twenty-Fifth,"March 3, 1849",358
+"McKinley, John",D,AL,"March 4, 1837",Twenty-Fifth,"April 22, 1837",0
+"Pierce, Franklin",D,NH,"March 4, 1837",Twenty-Fifth,"February 28, 1842",359
+"Smith, Oliver, H.",W,IN,"March 4, 1837",Twenty-Fifth,"March 3, 1843",360
+"Smith, Perry",D,CT,"March 4, 1837",Twenty-Fifth,"March 3, 1843",361
+"Williams, Reuel",D,ME,"March 4, 1837",Twenty-Fifth,"February 15, 1843",362
+"Young, Richard, M.",D,IL,"March 4, 1837",Twenty-Fifth,"March 3, 1843",363
+"Roane, William, H.",D,VA,"March 14, 1837",Twenty-Fifth,"March 3, 1841",364
+"Clay, Clement, Comer",D,AL,"June 19, 1837",Twenty-Fifth,"November 15, 1841",365
+"Lumpkin, Wilson",D,GA,"November 22, 1837",Twenty-Fifth,"March 3, 1841",366
+"Merrick, William, D.",W,MD,"January 4, 1838",Twenty-Fifth,"March 3, 1845",367
+"Trotter, James, F.",D,MS,"January 22, 1838",Twenty-Fifth,"July 10, 1838",368
+"Foster, Ephraim, H.",W,TN,"September 17, 1838",Twenty-Fifth,"March 3, 1839",369
+"Williams, Thomas, Hickman",D,MS,"November 12, 1838",Twenty-Fifth,"March 3, 1839",370
+"Betts, Thaddeus",W,CT,"March 4, 1839",Twenty-Sixth,"April 7, 1840",371
+"Dixon, Nathan, F. 1st",W,RI,"March 4, 1839",Twenty-Sixth,"January 29, 1842",372
+"Henderson, John",W,MS,"March 4, 1839",Twenty-Sixth,"March 3, 1845",373
+"Phelps, Samuel, S.",W,VT,"March 4, 1839",Twenty-Sixth,"March 3, 1851",374
+"Tappan, Benjamin",D,OH,"March 4, 1839",Twenty-Sixth,"March 3, 1845",375
+"White, Albert, S.",W,IN,"March 4, 1839",Twenty-Sixth,"March 3, 1845",376
+"Grundy, Felix",D,TN,"December 14, 1839",Twenty-Sixth,"December 19, 1840",0
+"Sturgeon, Daniel",D,PA,"January 14, 1840",Twenty-Sixth,"March 3, 1851",377
+"Porter, Augustus, S.",W,MI,"January 20, 1840",Twenty-Sixth,"March 3, 1845",378
+"Anderson, Alexander",D,TN,"January 27, 1840",Twenty-Sixth,"March 3, 1841",379
+"Huntington, Jabez, W.",W,CT,"May 4, 1840",Twenty-Sixth,"November 2, 1847",380
+"Graham, William, A.",W,NC,"November 25, 1840",Twenty-Sixth,"March 3, 1843",381
+"Mangum, Willie",W,NC,"November 25, 1840",Twenty-Sixth,"March 3, 1853",0
+"Nicholson, Alfred, O.P.",D,TN,"December 25, 1840",Twenty-Sixth,"February 7, 1842",382
+"Kerr, John, Leeds",W,MD,"January 5, 1841",Twenty-Sixth,"March 3, 1843",383
+"Bayard, Richard, Henry",W,DE,"January 12, 1841",Twenty-Sixth,"March 3, 1845",0
+"Bates, Isaac, C.",W,MA,"January 13, 1841",Twenty-Sixth,"March 16, 1845",384
+"Rives, William, C.",W,VA,"January 18, 1841",Twenty-Sixth,"March 3, 1845",0
+"Choate, Rufus",W,MA,"February 23, 1841",Twenty-Sixth,"March 3, 1845",385
+"Archer, William, S.",W,VA,"March 4, 1841",Twenty-Seventh,"March 3, 1847",386
+"Barrow, Alexander",W,LA,"March 4, 1841",Twenty-Seventh,"December 29, 1846",387
+"Evans, George",W,ME,"March 4, 1841",Twenty-Seventh,"March 3, 1847",388
+"McRoberts, Samuel",D,IL,"March 4, 1841",Twenty-Seventh,"March 27, 1843",389
+"Miller, Jacob, W.",W,NJ,"March 4, 1841",Twenty-Seventh,"March 3, 1853",390
+"Morehead, James, T.",W,KY,"March 4, 1841",Twenty-Seventh,"March 3, 1847",391
+"Simmons, James, F.",W,RI,"March 4, 1841",Twenty-Seventh,"March 3, 1847",392
+"Woodbridge, William",W,MI,"March 4, 1841",Twenty-Seventh,"March 3, 1847",393
+"Woodbury, Levi",D,NH,"March 4, 1841",Twenty-Seventh,"November 20, 1845",0
+"Bagby, Arthur",D,AL,"November 24, 1841",Twenty-Seventh,"June 16, 1848",394
+"Sprague, William",W,RI,"February 5, 1842",Twenty-Seventh,"January 17, 1844",395
+"Wilcox, Leonard",D,NH,"March 1, 1842",Twenty-Seventh,"March 3, 1843",396
+"Crittenden, John, J.",W,KY,"March 31, 1842",Twenty-Seventh,"June 12, 1848",0
+"Conrad, Charles, M.",W,LA,"April 14, 1842",Twenty-Seventh,"March 3, 1843",397
+"Crafts, Samuel, C.",W,VT,"April 23, 1842",Twenty-Seventh,"March 3, 1843",398
+"Dayton, William, L.",W,NJ,"July 2, 1842",Twenty-Seventh,"March 3, 1851",399
+"McDuffie, George",D,SC,"December 2, 1842",Twenty-Seventh,"August 17, 1846",400
+"Atherton, Charles, G.",D,NH,"March 4, 1843",Twenty-Eighth,"March 3, 1849",401
+"Breese, Sidney",D,IL,"March 4, 1843",Twenty-Eighth,"March 3, 1849",402
+"Colquitt, Walter, T.",D,GA,"March 4, 1843",Twenty-Eighth,February 1848,403
+"Hannegan, Edward, A.",D,IN,"March 4, 1843",Twenty-Eighth,"March 3, 1849",404
+"Haywood, William, H., Jr.",D,NC,"March 4, 1843",Twenty-Eighth,"July 25, 1846",405
+"Huger, Daniel, Elliott",D,SC,"March 4, 1843",Twenty-Eighth,"March 3, 1845",406
+"Niles, John, M.",D,CT,"March 4, 1843",Twenty-Eighth,"March 3, 1849",0
+"Pearce, James, A.",W/OP/D,MD,"March 4, 1843",Twenty-Eighth,"December 20, 1862",407
+"Upham, William",W,VT,"March 4, 1843",Twenty-Eighth,"January 14, 1853",408
+"Fairfield, John",D,ME,"March 7, 1843",Twenty-Eighth,"December 24, 1847",409
+"Semple, James",D,IL,"August 16, 1843",Twenty-Eighth,"March 3, 1847",410
+"Atchison, David, R.",D,MO,"October 14, 1843",Twenty-Eighth,"March 3, 1855",411
+"Foster, Ephraim, H.",W,TN,"October 17, 1843",Twenty-Eighth,"March 3, 1845",0
+"Jarnagin, Spencer",W,TN,"October 17, 1843",Twenty-Eighth,"March 3, 1847",412
+"Francis, John, B.",LO,RI,"January 25, 1844",Twenty-Eighth,"March 3, 1845",413
+"Johnson, Henry",W,LA,"February 12, 1844",Twenty-Eighth,"March 3, 1849",0
+"Lewis, Dixon, H.",D,AL,"April 22, 1844",Twenty-Eighth,"October 25, 1848",414
+"Ashley, Chester",D,AR,"November 8, 1844",Twenty-Eighth,"April 29, 1848",415
+"Dickinson, Daniel, S.",D,NY,"November 30, 1844",Twenty-Eighth,"March 3, 1851",416
+"Foster, Henry, A.",D,NY,"November 30, 1844",Twenty-Eighth,"January 18, 1845",417
+"Dix, John, A.",D,NY,"January 18, 1845",Twenty-Eighth,"January 3, 1849",418
+"Bright, Jesse, D.",D,IN,"March 4, 1845",Twenty-Ninth,"February 5, 1862",419
+"Cass, Lewis",D,MI,"March 4, 1845",Twenty-Ninth,"May 29, 1848",420
+"Clayton, John, M.",W,DE,"March 4, 1845",Twenty-Ninth,"February 23, 1849",0
+"Corwin, Thomas",W,OH,"March 4, 1845",Twenty-Ninth,"July 20, 1850",421
+"Greene, Albert, C.",W,RI,"March 4, 1845",Twenty-Ninth,"March 3, 1851",422
+"Johnson, Reverdy",W,MD,"March 4, 1845",Twenty-Ninth,"March 7, 1849",423
+"Speight, Jesse",D,MS,"March 4, 1845",Twenty-Ninth,"May 1, 1847",424
+"Turney, Hopkins, L.",D,TN,"March 4, 1845",Twenty-Ninth,"March 3, 1851",425
+"Webster, Daniel",W,MA,"March 4, 1845",Twenty-Ninth,"July 22, 1850",0
+"Cameron, Simon",D,PA,"March 13, 1845",Twenty-Ninth,"March 3, 1849",426
+"Davis, John",W,MA,"March 24, 1845",Twenty-Ninth,"March 3, 1853",0
+"Westcott, James, D., Jr.",D,FL,"July 1, 1845",Twenty-Ninth,"March 3, 1849",427
+"Yulee, David, Levy",D,FL,"July 1, 1845",Twenty-Ninth,"March 3, 1851",428
+"Chalmers, Joseph, W.",D,MS,"November 3, 1845",Twenty-Ninth,"March 3, 1847",429
+"Berrien, John, Macpherson",W,GA,"November 14, 1845",Twenty-Ninth,"May 28, 1852",0
+"Calhoun, John, C.",D,SC,"November 26, 1845",Twenty-Ninth,"March 31, 1850",0
+"Jenness, Benning, W.",D,NH,"December 1, 1845",Twenty-Ninth,"June 13, 1846",430
+"Pennybacker, Isaac, S.",D,VA,"December 3, 1845",Twenty-Ninth,"January 12, 1847",431
+"Houston, Samuel",D/Am,TX,"February 21, 1846",Twenty-Ninth,"March 3, 1859",432
+"Rusk, Thomas, J.",D,TX,"February 21, 1846",Twenty-Ninth,"July 29, 1857",433
+"Cilley, Joseph",L,NH,"June 13, 1846",Twenty-Ninth,"March 3, 1847",434
+"Badger, George, E.",W,NC,"November 25, 1846",Twenty-Ninth,"March 3, 1855",435
+"Butler, Andrew, P.",D,SC,"December 4, 1846",Twenty-Ninth,"May 25, 1857",436
+"Soule, Pierre",D,LA,"January 21, 1847",Twenty-Ninth,"March 3, 1847",437
+"Mason, James, M.",D,VA,"January 21, 1847",Twenty-Ninth,"March 28, 1861",438
+"Bradbury, James, W.",D,ME,"March 4, 1847",Thirtieth,"March 3, 1853",439
+"Clarke, John, H.",W,RI,"March 4, 1847",Thirtieth,"March 3, 1853",440
+"Douglas, Stephen, A.",D,IL,"March 4, 1847",Thirtieth,"June 3, 1861",441
+"Downs, Solomon, W.",D,LA,"March 4, 1847",Thirtieth,March 1853,442
+"Felch, Alpheus",D,MI,"March 4, 1847",Thirtieth,"March 3, 1853",443
+"Foote, Henry, Stuart",D,MS,"March 4, 1847",Thirtieth,"January 8, 1852",444
+"Hale, John, P.",ID/FS,NH,"March 4, 1847",Thirtieth,"March 3, 1853",445
+"Hunter, Robert, M.T.",D,VA,"March 4, 1847",Thirtieth,"March 28, 1861",446
+"Spruance, Presley",W,DE,"March 4, 1847",Thirtieth,"March 3, 1853",447
+"Underwood, Joseph, R.",W,KY,"March 4, 1847",Thirtieth,"March 3, 1853",448
+"Davis, Jefferson",D,MS,"August 10, 1847",Thirtieth,"September 23, 1851",449
+"Baldwin, Roger, S.",W,CT,"November 11, 1847",Thirtieth,"March 3, 1851",450
+"Bell, John",W/OP/Am,TN,"November 22, 1847",Thirtieth,"March 3, 1859",451
+"Moor, Wyman, B.S.",D,ME,"January 5, 1848",Thirtieth,"May 26, 1848",452
+"Johnson, Herschel, V.",D,GA,"February 4, 1848",Thirtieth,"March 3, 1849",453
+"Borland, Solon",D,AR,"March 30, 1848",Thirtieth,"April 3, 1853",454
+"Sebastian, William, K.",D,AR,"May 12, 1848",Thirtieth,"July 11, 1861",455
+"Hamlin, Hannibal",D/R,ME,"June 8, 1848",Thirtieth,"January 7, 1857",456
+"Dodge, Henry",D,WI,"June 8, 1848",Thirtieth,"March 3, 1857",457
+"Walker, Isaac, P.",D,WI,"June 8, 1848",Thirtieth,"March 3, 1855",458
+"Fitzgerald, Thomas",D,MI,"June 8, 1848",Thirtieth,"March 3, 1849",459
+"Metcalfe, Thomas",W,KY,"June 23, 1848",Thirtieth,"March 3, 1849",460
+"King, William, R.",D,AL,"July 1, 1848",Thirtieth,"December 20, 1852",0
+"Fitzpatrick, Benjamin",D,AL,"November 25, 1848",Thirtieth,"November 30, 1849",461
+"Dodge, Augustus, C.",D,IA,"December 7, 1848",Thirtieth,"February 22, 1855",462
+"Jones, George, W.",D,IA,"December 7, 1848",Thirtieth,"March 3, 1859",463
+"Wales, John",W,DE,"February 23, 1849",Thirtieth,"March 3, 1851",464
+"Cass, Lewis",D,MI,"March 4, 1849",Thirty-First,"March 3, 1857",0
+"Chase, Salmon, P.",FS,OH,"March 4, 1849",Thirty-First,"March 3, 1855",465
+"Clay, Henry",W,KY,"March 4, 1849",Thirty-First,"June 29, 1852",0
+"Cooper, James",W,PA,"March 4, 1849",Thirty-First,"March 3, 1855",466
+"Dawson, William, C.",W,GA,"March 4, 1849",Thirty-First,"March 3, 1855",467
+"Morton, Jackson",W,FL,"March 4, 1849",Thirty-First,"March 3, 1855",468
+"Norris, Moses, , Jr.",D,NH,"March 4, 1849",Thirty-First,"January 11, 1855",469
+"Seward, William, H.",W/OP/R,NY,"March 4, 1849",Thirty-First,"March 3, 1861",470
+"Smith, Truman",W,CT,"March 4, 1849",Thirty-First,"May 24, 1854",471
+"Soule, Pierre",D,LA,"March 4, 1849",Thirty-First,"April 11, 1853",0
+"Whitcomb, James",D,IN,"March 4, 1849",Thirty-First,"October 4, 1852",472
+"Shields, James",D,IL,"October 27, 1849",Thirty-First,"March 3, 1855",473
+"Clemens, Jeremiah",D,AL,"November 30, 1849",Thirty-First,"March 3, 1853",474
+"Stewart, David",W,MD,"December 6, 1849",Thirty-First,"January 12, 1850",475
+"Pratt, Thomas, G.",W/OP,MD,"January 12, 1850",Thirty-First,"March 3, 1857",476
+"Elmore, Franklin, H.",D,SC,"April 11, 1850",Thirty-First,"May 29, 1850",477
+"Barnwell, Robert, W.",D,SC,"June 4, 1850",Thirty-First,"December 18, 1850",478
+"Ewing, Thomas",W,OH,"July 20, 1850",Thirty-First,"March 3, 1851",0
+"Winthrop, Robert, C.",W,MA,"July 30, 1850",Thirty-First,"February 1, 1851",479
+"Fremont, John, C.",D,CA,"September 9, 1850",Thirty-First,"March 3, 1851",480
+"Gwin, William, M.",D,CA,"September 9, 1850",Thirty-First,"March 3, 1855",481
+"Rhett, Robert, Barnwell",D,SC,"December 18, 1850",Thirty-First,"May 7, 1852",482
+"Rantoul, Robert, , Jr.",D,MA,"February 1, 1851",Thirty-First,"March 3, 1851",483
+"Asheton, Jr, .",D,DE,"March 4, 1851",Thirty-Second,"January 29, 1864",484
+"Brodhead, Richard",D,PA,"March 4, 1851",Thirty-Second,"March 3, 1857",485
+"Geyer, Henry, S.",W/OP,MO,"March 4, 1851",Thirty-Second,"March 3, 1857",486
+"Fish, Hamilton",W/OP,NY,"March 4, 1851",Thirty-Second,"March 3, 1857",487
+"Foot, Solomon",W/OP/R,VT,"March 4, 1851",Thirty-Second,"March 28, 1866",488
+"James, Charles, T.",D,RI,"March 4, 1851",Thirty-Second,"March 3, 1857",489
+"Jones, James, C.",W/OP,TN,"March 4, 1851",Thirty-Second,"March 3, 1857",490
+"Mallory, Stephen, R.",D,FL,"March 4, 1851",Thirty-Second,"January 21, 1861",491
+"Stockton, Robert, F.",D,NJ,"March 4, 1851",Thirty-Second,"January 10, 1853",492
+"Wade, Benjamin, F.",W/OP/R,OH,"March 15, 1851",Thirty-Second,"March 3, 1869",493
+"Sumner, Charles",FS/OP/R/LR,MA,"April 24, 1851",Thirty-Second,"March 11, 1874",494
+"McRae, John, J.",D,MS,"December 1, 1851",Thirty-Second,"March 17, 1852",495
+"Weller, John, B.",D,CA,"January 30, 1852",Thirty-Second,"March 3, 1857",496
+"Brooke, Walker",W,MS,"February 18, 1852",Thirty-Second,"March 3, 1853",497
+"Adams, Stephen",D,MS,"March 17, 1852",Thirty-Second,"March 3, 1857",498
+"Saussure, William, F.",D,SC,"May 10, 1852",Thirty-Second,"March 3, 1853",499
+"Toucey, Isaac",D,CT,"May 12, 1852",Thirty-Second,"March 3, 1857",500
+"Charlton, Robert, M.",D,GA,"May 31, 1852",Thirty-Second,"March 3, 1853",501
+"Meriwether, David",D,KY,"July 6, 1852",Thirty-Second,"September 1, 1852",502
+"Dixon, Archibald",W,KY,"September 1, 1852",Thirty-Second,"March 3, 1855",503
+"Cathcart, Charles, W.",D,IN,"November 23, 1852",Thirty-Second,"January 11, 1853",504
+"Pettit, John",D,IN,"January 11, 1853",Thirty-Second,"March 3, 1855",505
+"Fitzpatrick, Benjamin",D,AL,"January 14, 1853",Thirty-Second,"January 21, 1861",0
+"Phelps, Samuel, S.",W,VT,"January 17, 1853",Thirty-Second,"March 16, 1854",0
+"Allen, Philip",D,RI,"March 4, 1853",Thirty-Third,"March 3, 1859",506
+"Atherton, Charles, G.",D,NH,"March 4, 1853",Thirty-Third,"November 15, 1853",0
+"Benjamin, Judah, P.",W/OP/D,LA,"March 4, 1853",Thirty-Third,"February 4, 1861",507
+"Claiborne, Jr, .",D,AL,"March 4, 1853",Thirty-Third,"January21, 1861",508
+"Clayton, John, M.",W/OP,DE,"March 4, 1853",Thirty-Third,"November 9, 1856",0
+"Evans, Josiah, J.",D,SC,"March 4, 1853",Thirty-Third,"May 6, 1858",509
+"Everett, Edward",W,MA,"March 4, 1853",Thirty-Third,"June 1, 1854",510
+"Stuart, Charles, E.",D,MI,"March 4, 1853",Thirty-Third,"March 3, 1859",511
+"Thompson, John, B.",W/OP/Am,KY,"March 4, 1853",Thirty-Third,"March 3, 1859",512
+"Thomson, John, R.",D,NJ,"March 4, 1853",Thirty-Third,"September 12, 1862",513
+"Toombs, Robert",W/D,GA,"March 4, 1853",Thirty-Third,"February 4, 1861",514
+"Wright, William",D,NJ,"March 4, 1853",Thirty-Third,"March 3, 1859",515
+"Slidell, John",D,LA,"April 28, 1853",Thirty-Third,"February 4, 1861",516
+"Johnson, Robert, W.",D,AR,"July 6, 1853",Thirty-Third,"March 3, 1861",517
+"Williams, Jared, W.",D,NH,"November 29, 1853",Thirty-Third,"August 4, 1854",518
+"Brown, Albert, G.",D,MS,"January 7, 1854",Thirty-Third,"January 12, 1861",519
+"Fessenden, William, Pitt",W/OP/R,ME,"February 10, 1854",Thirty-Third,"July 1, 1864",520
+"Gillette, Francis",FS,CT,"May 25, 1854",Thirty-Third,"March 3, 1855",521
+"Rockwell, Julius",W,MA,"June 3, 1854",Thirty-Third,"January 31, 1855",522
+"Brainerd, Lawrence",FS,VT,"October 14, 1854",Thirty-Third,"March 16, 1855",523
+"Reid, David, S.",D,NC,"December 6, 1854",Thirty-Third,"March 3, 1859",524
+"Wells, John, S.",D,NH,"January 16, 1855",Thirty-Third,"March 3, 1855",525
+"Wilson, Henry",Am/OP/R,MA,"January 31, 1855",Thirty-Third,"March 3, 1873",526
+"Biggs, Asa",D,NC,"March 4, 1855",Thirty-Fourth,"May 5, 1858",527
+"Collamer, Jacob",OP/R,VT,"March 4, 1855",Thirty-Fourth,"November 9, 1865",528
+"Crittenden, John, J.",OP/AM,KY,"March 4, 1855",Thirty-Fourth,"March 3, 1861",0
+"Durkee, Charles",OP/R,WI,"March 4, 1855",Thirty-Fourth,"March 3, 1861",529
+"Foster, Lafayette, S.",OP/R,CT,"March 4, 1855",Thirty-Fourth,"March 3, 1867",530
+"Iverson, Alfred, , Sr.",D,GA,"March 4, 1855",Thirty-Fourth,"March 3, 1861",531
+"Pugh, George, E.",D,OH,"March 4, 1855",Thirty-Fourth,"March 3, 1861",532
+"Trumbull, Lyman",D/R,IL,"March 4, 1855",Thirty-Fourth,"March 3, 1873",533
+"Yulee, David, L.",D,FL,"March 4, 1855",Thirty-Fourth,"March 3, 1861",0
+"Hale, John, P.",OP/R,NH,"July 30, 1855",Thirty-Fourth,"March 3, 1865",0
+"Bell, James",OP/R,NH,"July 30, 1855",Thirty-Fourth,"May 26, 1857",534
+"Harlan, James",OP,IA,"December 31, 1855",Thirty-Fourth,"January 12, 1857",535
+"Bigler, William",D,PA,"January 14, 1856",Thirty-Fourth,"March 3, 1861",536
+"Comegys, Joseph, P.",OP,DE,"November 19, 1856",Thirty-Fourth,"January 14, 1857",537
+"Green, James, S.",D,MO,"January 12, 1857",Thirty-Fourth,"March 3, 1861",538
+"Gwin, William, M.",D,CA,"January 13, 1857",Thirty-Fourth,"March 3, 1861",0
+"Bates, Martin, W.",D,DE,"January 14, 1857",Thirty-Fourth,"March 3, 1859",539
+"Nourse, Amos",R,ME,"January 16, 1857",Thirty-Fourth,"March 3, 1857",540
+"Harlan, James",R,IA,"January 29, 1857",Thirty-Fourth,"May 15, 1865",0
+"Fitch, Graham, N.",D,IN,"February 4, 1857",Thirty-Fourth,"March 3, 1861",541
+"Broderick, David, C.",D,CA,"March 4, 1857",Thirty-Fifth,"September 16, 1859",542
+"Cameron, Simon",R,PA,"March 4, 1857",Thirty-Fifth,"March 4, 1861",0
+"Chandler, Zachariah",R,MI,"March 4, 1857",Thirty-Fifth,"March 3, 1875",543
+"Davis, Jefferson",D,MS,"March 4, 1857",Thirty-Fifth,"January 21, 1861",0
+"Dixon, James",R,CT,"March 4, 1857",Thirty-Fifth,"March 3, 1869",544
+"Doolittle, James, R.",R,WI,"March 4, 1857",Thirty-Fifth,"March 3, 1869",545
+"Hamlin, Hannibal",R,ME,"March 4, 1857",Thirty-Fifth,"January 17, 1861",0
+"King, Preston",R,NY,"March 4, 1857",Thirty-Fifth,"March 3, 1863",546
+"Polk, Trusten",D,MO,"March 4, 1857",Thirty-Fifth,"January 10, 1862",547
+"Simmons, James, F.",R,RI,"March 4, 1857",Thirty-Fifth,"September 5, 1862",0
+"Kennedy, Anthony",Am/U,MD,"March 4, 1857",Thirty-Fifth,"March 3, 1863",548
+"Clark, Daniel",R,NH,"June 27, 1857",Thirty-Fifth,"July 27, 1866",549
+"Johnson, Andrew",D,TN,"October 8, 1857",Thirty-Fifth,"March 4, 1862",550
+"Henderson, J, . Pinckney",D,TX,"November 9, 1857",Thirty-Fifth,"June 4, 1858",551
+"Hammond, James, H.",D,SC,"December 7, 1857",Thirty-Fifth,"November 11, 1860",552
+"Clingman, Thomas, L.",D,NC,"May 6, 1858",Thirty-Fifth,"July 11, 1861",553
+"Hayne, Arthur, P.",D,SC,"May 11, 1858",Thirty-Fifth,"December 2, 1858",554
+"Rice, Henry, M.",D,MN,"May 11, 1858",Thirty-Fifth,"March 3, 1863",555
+"Shields, James",D,MN,"May 11, 1858",Thirty-Fifth,"March 3, 1859",0
+"Ward, Matthias",D,TX,"September 27, 1858",Thirty-Fifth,"December 5, 1859",556
+"Chesnut, James, Jr.",D,SC,"December 3, 1858",Thirty-Fifth,"November 10, 1860",557
+"Lane, Joseph",D,OR,"February 14, 1859",Thirty-Fifth,"March 3, 1861",558
+"Smith, Delazon",D,OR,"February 14, 1859",Thirty-Fifth,"March 3, 1859",559
+"Anthony, Henry, B.",R,RI,"March 4, 1859",Thirty-Sixth,"September 2, 1884",560
+"Bingham, Kinsley, S.",R,MI,"March 4, 1859",Thirty-Sixth,"October 5, 1861",561
+"Bragg, Thomas",D,NC,"March 4, 1859",Thirty-Sixth,"July 11, 1861",562
+"Hemphill, John",D,TX,"March 4, 1859",Thirty-Sixth,"July 11, 1861",563
+"Grimes, James, W.",R,IA,"March 4, 1859",Thirty-Sixth,"December 6, 1869",564
+"Nicholson, Alfred, O.P.",D,TN,"March 4, 1859",Thirty-Sixth,"March 3, 1861",0
+"Powell, Lazarus, W.",D,KY,"March 4, 1859",Thirty-Sixth,"March 3, 1865",565
+"Saulsbury, Willard, , Sr.",D,DE,"March 4, 1859",Thirty-Sixth,"March 3, 1871",566
+"Eyck, John, C.",R,NJ,"March 4, 1859",Thirty-Sixth,"March 3, 1865",567
+"Wilkinson, Morton, S.",R,MN,"March 4, 1859",Thirty-Sixth,"March 3, 1865",568
+"Haun, Henry, P.",D,CA,"November 3, 1859",Thirty-Sixth,"March 4, 1860",569
+"Wigfall, Louis, T.",D,TX,"December 5, 1859",Thirty-Sixth,"July 11, 1861",570
+"Latham, Milton, S.",D,CA,"March 5, 1860",Thirty-Sixth,"March 3, 1863",571
+"Baker, Edward, D.",R,OR,"October 2, 1860",Thirty-Sixth,"October 21, 1861",572
+"Morrill, Lot, Myrick",R,ME,"January 17, 1861",Thirty-Sixth,"March 3, 1869",573
+"Breckinridge, John, C.",D,KY,"March 4, 1861",Thirty-Seventh,"December 4, 1861",574
+"Chase, Salmon, P.",R,OH,"March 4, 1861",Thirty-Seventh,"March 6, 1861",0
+"Cowan, Edgar",R,PA,"March 4, 1861",Thirty-Seventh,"March 3, 1867",575
+"Harris, Ira",R,NY,"March 4, 1861",Thirty-Seventh,"March 3, 1867",576
+"Howe, Timothy, O.",R,WI,"March 4, 1861",Thirty-Seventh,"March 3, 1879",577
+"Lane, Henry, S.",R,IN,"March 4, 1861",Thirty-Seventh,"March 3, 1867",578
+"McDougall, James, A.",D,CA,"March 4, 1861",Thirty-Seventh,"March 3, 1867",579
+"Mitchel, Charles, B.",D,AR,"March 4, 1861",Thirty-Seventh,"July 11, 1861",580
+"Nesmith, James, W.",D,OR,"March 4, 1861",Thirty-Seventh,"March 3, 1867",581
+"Stark, Benjamin",D,OR,"March 4, 1861",Thirty-Seventh,"September 12, 1862",582
+"Wilmot, David",R,PA,"March 4, 1861",Thirty-Seventh,"March 3, 1863",583
+"Johnson, Waldo, P.",D,MO,"March 17, 1861",Thirty-Seventh,"January 10, 1862",584
+"Sherman, John",R,OH,"March 21, 1861",Thirty-Seventh,"March 8, 1877",585
+"Lane, James, H.",R,KS,"April 4, 1861",Thirty-Seventh,"July 11, 1866",586
+"Pomeroy, Samuel, C.",R,KS,"April 4, 1861",Thirty-Seventh,"March 3, 1873",587
+"Browning, Orville, H.",R,IL,"June 26, 1861",Thirty-Seventh,"January 12, 1863",588
+"Willey, Waitman, T.",UU,VA,"July 9, 1861",Thirty-Seventh,"March 3, 1863",589
+"Carlile, John, S.",U,VA,"July 9, 1861",Thirty-Seventh,"March 3, 1865",590
+"Davis, Garrett",U/D,KY,"December 10, 1861",Thirty-Seventh,"September 22, 1872",591
+"Howard, Jacob, M.",R,MI,"January 4, 1862",Thirty-Seventh,"March 3, 1871",592
+"Henderson, John, B.",U/UU/R,MO,"January 17, 1862",Thirty-Seventh,"March 3, 1869",593
+"Wilson, Robert",U,MO,"January 17, 1862",Thirty-Seventh,"November 13, 1863",594
+"Wright, Joseph, A.",U,IN,"February 24, 1862",Thirty-Seventh,"January 14, 1863",595
+"Arnold, Samuel, G.",R,RI,"September 5, 1862",Thirty-Seventh,"March 3, 1863",596
+"Harding, Benjamin, F.",D,OR,"September 12, 1862",Thirty-Seventh,"March 3, 1865",597
+"Field, Richard, S.",R,NJ,"November 21, 1862",Thirty-Seventh,"January 14, 1863",598
+"Hicks, Thomas, H.",U/UU,MD,"December 29, 1862",Thirty-Seventh,"February 14, 1865",599
+"Richardson, William, A.",D,IL,"January 12, 1863",Thirty-Seventh,"March 3, 1865",600
+"Turpie, David",D,IN,"January 14, 1863",Thirty-Seventh,"March 3, 1863",601
+"Wall, James, W.",D,NJ,"January 14, 1863",Thirty-Seventh,"March 3, 1863",602
+"Bowden, Lemuel, J.",U,VA,"March 4, 1863",Thirty-Eighth,"January 2, 1864",603
+"Buckalew, Charles, R.",D,PA,"March 4, 1863",Thirty-Eighth,"March 3, 1869",604
+"Conness, John",R,CA,"March 4, 1863",Thirty-Eighth,"March 3, 1869",605
+"Hendricks, Thomas, A.",D,IN,"March 4, 1863",Thirty-Eighth,"March 3, 1869",606
+"Johnson, Reverdy",U/D,MD,"March 4, 1863",Thirty-Eighth,"July 10, 1868",0
+"Morgan, Edwin, D.",R,NY,"March 4, 1863",Thirty-Eighth,"March 3, 1869",607
+"Ramsey, Alexander",R,MN,"March 4, 1863",Thirty-Eighth,"March 3, 1875",608
+"Sprague, William, 2",R/LR,RI,"March 4, 1863",Thirty-Eighth,"March 3, 1875",609
+"Wright, William",D,NJ,"March 4, 1863",Thirty-Eighth,"November 1, 1866",0
+"Winkle, Peter, G.",UU/R,WV,"August 4, 1863",Thirty-Eighth,"March 3, 1869",610
+"Willey, Waitman, T.",UU/R,WV,"August 4, 1863",Thirty-Eighth,"March 3, 1871",0
+"Brown, B, . Gratz",UU/R,MO,"November 13, 1863",Thirty-Eighth,"March 3, 1867",611
+"Riddle, George, Read",D,DE,"January 29, 1864",Thirty-Eighth,"March 29, 1867",612
+"Farwell, Nathan, A.",R,ME,"October 27, 1864",Thirty-Eighth,"March 3, 1865",613
+"Stewart, William, M.",R,NV,"December 15, 1864",Thirty-Eighth,"March 3, 1875",614
+"Nye, James, W.",R,NV,"December 16, 1864",Thirty-Eighth,"March 3, 1873",615
+"Cragin, Aaron, H.",R,NH,"March 4, 1865",Thirty-Ninth,"March 3, 1877",616
+"Guthrie, James",D,KY,"March 4, 1865",Thirty-Ninth,"February 7, 1868",617
+"Fessenden, William, Pitt",R,ME,"March 4, 1865",Thirty-Ninth,"September 8, 1869",0
+"Norton, Daniel, S.",R/D,MN,"March 4, 1865",Thirty-Ninth,"July 13, 1870",618
+"Poland, Luke, P.",R,VT,"March 4, 1865",Thirty-Ninth,"March 3, 1867",619
+"Williams, George, Henry",R,OR,"March 4, 1865",Thirty-Ninth,"March 3, 1871",620
+"Yates, Richard",R,IL,"March 4, 1865",Thirty-Ninth,"March 3, 1871",621
+"Creswell, John, A.J.",UU,MD,"March 9, 1865",Thirty-Ninth,"March 3, 1867",622
+"Stockton, John, P.",D,NJ,"March 15, 1865",Thirty-Ninth,"March 27, 1866",623
+"Kirkwood, Samuel, J.",R,IA,"January 13, 1866",Thirty-Ninth,"March 3, 1867",624
+"Edmunds, George, F.",R,VT,"April 3, 1866",Thirty-Ninth,"November 1, 1891",625
+"Ross, Edmund, G.",R,KS,"July 19, 1866",Thirty-Ninth,"March 3, 1871",626
+"Fowler, Joseph, S.",UU/R,TN,"July 24, 1866",Thirty-Ninth,"March 3, 1871",627
+"Patterson, David, T.",U/D,TN,"July 28, 1866",Thirty-Ninth,"March 3, 1869",628
+"Fogg, George, G.",R,NH,"August 31, 1866",Thirty-Ninth,"March 3, 1867",629
+"Cattell, Alexander, G.",R,NJ,"September 19, 1866",Thirty-Ninth,"March 3, 1871",630
+"Frelinghuysen, Frederick, T.",R,NJ,"November 12, 1866",Thirty-Ninth,"March 3, 1869",631
+"Thayer, John, M.",R,NE,"March 1, 1867",Thirty-Ninth,"March 3, 1871",632
+"Tipton, Thomas",R/LR,NE,"March 1, 1867",Thirty-Ninth,"March 3, 1875",633
+"Cameron, Simon",R,PA,"March 4, 1867",Fortieth,"March 3, 1877",0
+"Cole, Cornelius",R,CA,"March 4, 1867",Fortieth,"March 3, 1873",634
+"Conkling, Roscoe",R,NY,"March 4, 1867",Fortieth,"May 16, 1881",635
+"Corbett, Henry, W.",R,OR,"March 4, 1867",Fortieth,"March 3, 1873",636
+"Drake, Charles, D.",R,MO,"March 4, 1867",Fortieth,"December 19, 1870",637
+"Ferry, Orris, S.",R/LR/R,CT,"March 4, 1867",Fortieth,"November 21, 1875",638
+"Harlan, James",R,IA,"March 4, 1867",Fortieth,"March 3, 1873",0
+"Morrill, Justin, S.",R,VT,"March 4, 1867",Fortieth,"December 28, 1898",639
+"Morton, Oliver, H.P.T.",R,IN,"March 4, 1867",Fortieth,"November 1, 1877",640
+"Patterson, James, W.",R,NH,"March 4, 1867",Fortieth,"March 3, 1873",641
+"Asheton, Jr, .",D,DE,"April 5, 1867",Fortieth,"March 3, 1869",0
+"McCreery, Thomas, C.",D,KY,"February 19, 1868",Fortieth,"March 3, 1871",642
+"Vickers, George",D,MD,"March 7, 1868",Fortieth,"March 3, 1873",643
+"McDonald, Alexander",R,AR,"June 22, 1868",Fortieth,"March 3, 1871",644
+"Rice, Benjamin, F.",R,AR,"June 23, 1868",Fortieth,"March 3, 1873",645
+"Osborn, Thomas, W.",R,FL,"June 25, 1868",Fortieth,"March 3, 1873",646
+"Welch, Adonijah, S.",R,FL,"June 25, 1868",Fortieth,"March 3, 1869",647
+"Harris, John, S.",R,LA,"July 9, 1868",Fortieth,"March 3, 1871",648
+"Kellogg, William, P.",R,LA,"July 9, 1868",Fortieth,"November 1, 1872",649
+"Whyte, William, Pinkney",D,MD,"July 13, 1868",Fortieth,"March 3, 1869",650
+"Abbott, Joseph, C.",R,NC,"July 14, 1868",Fortieth,"March 3, 1871",651
+"Pool, John",R,NC,"July 14, 1868",Fortieth,"March 3, 1873",652
+"Robertson, Thomas, J.",R,SC,"July 15, 1868",Fortieth,"March 3, 1877",653
+"Sawyer, Frederick, A.",R,SC,"July 16, 1868",Fortieth,"March 3, 1873",654
+"Spencer, George, E.",R,AL,"July 21, 1868",Fortieth,"March 3, 1879",655
+"Warner, Willard",R,AL,"July 23, 1868",Fortieth,"March 3, 1871",656
+"Bayard, Thomas, F., Sr.",D,DE,"March 4, 1869",Forty-First,"March 6, 1885",657
+"Boreman, Arthur",R,WV,"March 4, 1869",Forty-First,"March 3, 1875",658
+"Brownlow, William, G.",R,TN,"March 4, 1869",Forty-First,"March 3, 1875",659
+"Carpenter, Matthew, H.",R,WI,"March 4, 1869",Forty-First,"March 3, 1875",661
+"Casserly, Eugene",D,CA,"March 4, 1869",Forty-First,"November 29, 1873",662
+"Fenton, Reuben, E.",R/LR,NY,"March 4, 1869",Forty-First,"March 3, 1875",663
+"Gilbert, Abijah",R,FL,"March 4, 1869",Forty-First,"March 3, 1875",664
+"Hamilton, William, T.",D,MD,"March 4, 1869",Forty-First,"March 3, 1875",665
+"Hamlin, Hannibal",R,ME,"March 4, 1869",Forty-First,"March 3, 1881",0
+"Pratt, Daniel, D.",R,IN,"March 4, 1869",Forty-First,"March 3, 1875",666
+"Schurz, Carl",R/LR,MO,"March 4, 1869",Forty-First,"March 3, 1875",667
+"Scott, John",R,PA,"March 4, 1869",Forty-First,"March 3, 1875",668
+"Stockton, John, P.",D,NJ,"March 4, 1869",Forty-First,"March 3, 1875",0
+"Thurman, Allen, G.",D,OH,"March 4, 1869",Forty-First,"March 3, 1881",669
+"Morrill, Lot, Myrick",R,ME,"October 30, 1869",Forty-First,"July 7, 1876",0
+"Howell, James, B.",R,IA,"January 18, 1870",Forty-First,"March 3, 1871",670
+"Johnston, John, W.",D,VA,"January 26, 1870",Forty-First,"March 3, 1883",671
+"Lewis, John, F.",R,VA,"January 26, 1870",Forty-First,"March 3, 1875",672
+"Ames, Adelbert",R,MS,"February 23, 1870",Forty-First,"January 10, 1874",673
+"Revels, Hiram, R.",R,MS,"February 23, 1870",Forty-First,"March 3, 1871",674
+"Flanagan, J, . W.",R,TX,"March 30, 1870",Forty-First,"March 3, 1875",675
+"Hamilton, Morgan, C.",R/LR/R,TX,"March 30, 1870",Forty-First,"March 3, 1877",676
+"Windom, William",R,MN,"July 15, 1870",Forty-First,"January 22, 1871",677
+"Jewett, Daniel, T.",D,MO,"December 19, 1870",Forty-First,"January 20, 1871",678
+"Blair, Francis, P.",D,MO,"January 20, 1871",Forty-First,"March 3, 1873",679
+"Stearns, Ozora, P.",R,MN,"January 23, 1871",Forty-First,"March 3, 1871",680
+"Hill, Joshua",R,GA,"February 1, 1871",Forty-First,"March 3, 1873",681
+"Miller, Homer, V. M.",D,GA,"February 24, 1871",Forty-First,"March 3, 1871",682
+"Caldwell, Alexander",R,KS,"March 4, 1871",Forty-Second,"March 24, 1873",683
+"Cooper, Henry",D,TN,"March 4, 1871",Forty-Second,"March 3, 1877",684
+"Davis, Henry, G.",D,WV,"March 4, 1871",Forty-Second,"March 3, 1883",685
+"Ferry, Thomas, W.",R,MI,"March 4, 1871",Forty-Second,"March 3, 1883",686
+"Frelinghuysen, Frederick, T.",R,NJ,"March 4, 1871",Forty-Second,"March 3, 1877",0
+"Goldthwaite, George",D,AL,"March 4, 1871",Forty-Second,"March 3, 1877",687
+"Hitchcock, Phineas, W.",R,NE,"March 4, 1871",Forty-Second,"March 3, 1877",688
+"Kelly, James, K.",D,OR,"March 4, 1871",Forty-Second,"March 3, 1877",689
+"Logan, John, A.",R,IL,"March 4, 1871",Forty-Second,"March 3, 1877",690
+"Saulsbury, Eli",D,DE,"March 4, 1871",Forty-Second,"March 3, 1889",691
+"Stevenson, John, W.",D,KY,"March 4, 1871",Forty-Second,"March 3, 1877",692
+"West, J, . Rodman",R,LA,"March 4, 1871",Forty-Second,"March 3, 1877",693
+"Wright, George, G.",R,IA,"March 4, 1871",Forty-Second,"March 3, 1877",694
+"Windom, William",R,MN,"March 4, 1871",Forty-Second,"March 4, 1881",0
+"Clayton, Powell",R,AR,"March 14, 1871",Forty-Second,"March 3, 1877",695
+"Norwood, Thomas, M.",D,GA,"November 14, 1871",Forty-Second,"March 3, 1877",696
+"Alcorn, James, L.",R,MS,"December 4, 1871",Forty-Second,"March 3, 1877",697
+"Ransom, Matt, W.",D,NC,"January 30, 1872",Forty-Second,"March 3, 1895",698
+"Machen, Willis, B.",D,KY,"September 27, 1872",Forty-Second,"March 3, 1873",699
+"Allison, William, B.",R,IA,"March 4, 1873",Forty-Third,"August 4, 1908",700
+"Bogy, Lewis, V.",D,MO,"March 4, 1873",Forty-Third,"September 20, 1877",701
+"Conover, Simon, B.",R,FL,"March 4, 1873",Forty-Third,"March 3, 1879",702
+"Dennis, George, R.",D,MD,"March 4, 1873",Forty-Third,"March 3, 1879",703
+"Dorsey, Stephen, W.",R,AR,"March 4, 1873",Forty-Third,"March 3, 1879",704
+"Gordon, John, B.",D,GA,"March 4, 1873",Forty-Third,"May 26, 1880",705
+"Ingalls, John, J.",R,KS,"March 4, 1873",Forty-Third,"March 3, 1891",706
+"Jones, John, P.",R/S/R,NV,"March 4, 1873",Forty-Third,"March 3, 1903",707
+"McCreery, Thomas, C.",D,KY,"March 4, 1873",Forty-Third,"March 3, 1879",0
+"Merrimon, Augustus, S.",D,NC,"March 4, 1873",Forty-Third,"March 3, 1879",708
+"Mitchell, John, H.",R,OR,"March 4, 1873",Forty-Third,"March 3, 1879",709
+"Oglesby, Richard, J.",R,IL,"March 4, 1873",Forty-Third,"March 3, 1879",710
+"Patterson, John, J.",R,SC,"March 4, 1873",Forty-Third,"March 3, 1879",711
+"Sargent, Aaron, A.",R,CA,"March 4, 1873",Forty-Third,"March 3, 1879",712
+"Wadleigh, Bainbridge",R,NH,"March 4, 1873",Forty-Third,"March 3, 1879",713
+"Boutwell, George, S.",R,MA,"March 12, 1873",Forty-Third,"March 3, 1877",714
+"Crozier, Robert",R,KS,"November 24, 1873",Forty-Third,"February 12, 1874",715
+"Hager, John, S.",D,CA,"December 23, 1873",Forty-Third,"March 3, 1875",716
+"Pease, Henry, R.",R,MS,"February 3, 1874",Forty-Third,"March 3, 1875",717
+"Harvey, James, M.",R,KS,"February 12, 1874",Forty-Third,"March 3, 1877",718
+"Washburn, William, B.",R,MA,"April 17, 1874",Forty-Third,"March 3, 1875",719
+"Eaton, William, W.",D,CT,"February 5, 1875",Forty-Third,"March 3, 1881",720
+"Booth, Newton",IR/R,CA,"March 4, 1875",Forty-Fourth,"March 3, 1881",721
+"Bruce, Blanche, K.",R,MS,"March 4, 1875",Forty-Fourth,"March 3, 1881",722
+"Burnside, Ambrose",R,RI,"March 4, 1875",Forty-Fourth,"September 13, 1881",723
+"Cameron, Angus",R,WI,"March 4, 1875",Forty-Fourth,"March 3, 1881",724
+"Caperton, Allen, T.",D,WV,"March 4, 1875",Forty-Fourth,"July 26, 1876",725
+"Christiancy, Isaac, P.",R,MI,"March 4, 1875",Forty-Fourth,"February 10, 1879",726
+"Cockrell, Francis, M.",D,MO,"March 4, 1875",Forty-Fourth,"March 3, 1905",727
+"Dawes, Henry, L.",R,MA,"March 4, 1875",Forty-Fourth,"March 3, 1893",728
+"Johnson, Andrew",D,TN,"March 4, 1875",Forty-Fourth,"July 31, 1875",0
+"Jones, Charles, W.",D,FL,"March 4, 1875",Forty-Fourth,"March 3, 1887",729
+"Kernan, Francis",D,NY,"March 4, 1875",Forty-Fourth,"March 3, 1881",730
+"Maxey, Samuel, B.",D,TX,"March 4, 1875",Forty-Fourth,"March 3, 1887",731
+"McDonald, Joseph, E.",D,IN,"March 4, 1875",Forty-Fourth,"March 3, 1881",732
+"McMillan, Samuel, J.R.",R,MN,"March 4, 1875",Forty-Fourth,"March 3, 1887",733
+"Paddock, Algernon, S.",R,NE,"March 4, 1875",Forty-Fourth,"March 3, 1881",734
+"Randolph, Theodore, F.",D,NJ,"March 4, 1875",Forty-Fourth,"March 3, 1881",735
+"Sharon, William",R,NV,"March 4, 1875",Forty-Fourth,"March 3, 1881",736
+"Wallace, William, A.",D,PA,"March 4, 1875",Forty-Fourth,"March 3, 1881",737
+"Whyte, William, Pinkney",D,MD,"March 4, 1875",Forty-Fourth,"March 3, 1881",0
+"Withers, Robert, E.",D,VA,"March 4, 1875",Forty-Fourth,"March 3, 1881",738
+"Key, David, M.",D,TN,"August 18, 1875",Forty-Fourth,"January 19, 1877",739
+"English, James, E.",D,CT,"November 27, 1875",Forty-Fourth,"May 17, 1876",740
+"Eustis, James, B.",D,LA,"January 12, 1876",Forty-Fourth,"March 3, 1879",741
+"Barnum, William, H.",D,CT,"March 4, 1876",Forty-Fourth,"March 3, 1879",742
+"Blaine, James, G.",R,ME,"July 10, 1876",Forty-Fourth,"March 5, 1881",743
+"Price, Samuel",D,WV,"August 26, 1876",Forty-Fourth,"January 26, 1877",744
+"Teller, Henry, M.",R,CO,"November 15, 1876",Forty-Fourth,"April 17, 1882",745
+"Chaffee, Jerome, B.",R,CO,"November 15, 1876",Forty-Fourth,"March 3, 1879",746
+"Bailey, James, E.",D,TN,"January 19, 1877",Forty-Fourth,"March 3, 1881",747
+"Hereford, Frank",D,WV,"January 31, 1877",Forty-Fourth,"March 3, 1881",748
+"Beck, James, B.",D,KY,"March 4, 1877",Forty-Fifth,"May 3, 1890",749
+"Butler, Mathew, C.",D,SC,"March 4, 1877",Forty-Fifth,"March 3, 1895",750
+"Coke, Richard",D,TX,"March 4, 1877",Forty-Fifth,"March 3, 1895",751
+"Davis, David",I,IL,"March 4, 1877",Forty-Fifth,"March 3, 1883",752
+"Garland, Augustus, H.",D,AR,"March 4, 1877",Forty-Fifth,"March 6, 1885",753
+"Grover, La, Fayette",D,OR,"March 4, 1877",Forty-Fifth,"March 3, 1883",754
+"Harris, Isham, G.",D,TN,"March 4, 1877",Forty-Fifth,"July 8, 1897",755
+"Hill, Benjamin, H.",D,GA,"March 4, 1877",Forty-Fifth,"August 16, 1882",756
+"Hoar, George, F.",R,MA,"March 4, 1877",Forty-Fifth,"September 30, 1904",757
+"Kellogg, William, P.",R,LA,"March 4, 1877",Forty-Fifth,"March 3, 1883",0
+"Kirkwood, Samuel, J.",R,IA,"March 4, 1877",Forty-Fifth,"March 7, 1881",0
+"Lamar, Lucius, Q.C.",D,MS,"March 4, 1877",Forty-Fifth,"March 6, 1885",758
+"McPherson, John, R.",D,NJ,"March 4, 1877",Forty-Fifth,"March 3, 1895",759
+"Morgan, John, T.",D,AL,"March 4, 1877",Forty-Fifth,"June 11, 1907",760
+"Plumb, Preston, B.",R,KS,"March 4, 1877",Forty-Fifth,"December 20, 1891",761
+"Rollins, Edward, H.",R,NH,"March 4, 1877",Forty-Fifth,"March 3, 1883",762
+"Saunders, Alvin",R,NE,"March 4, 1877",Forty-Fifth,"March 3, 1883",763
+"Cameron, James, Donald",R,PA,"March 20, 1877",Forty-Fifth,"March 3, 1897",764
+"Matthews, Stanley",R,OH,"March 21, 1877",Forty-Fifth,"March 3, 1879",765
+"Armstrong, David, H.",D,MO,"September 29, 1877",Forty-Fifth,"January 26, 1879",766
+"Voorhees, Daniel, W.",D,IN,"November 6, 1877",Forty-Fifth,"March 3, 1897",767
+"Shields, James",D,MO,"January 27, 1879",Forty-Fifth,"March 3, 1879",0
+"Chandler, Zachariah",R,MI,"February 19, 1879",Forty-Fifth,"November 1, 1879",0
+"Call, Wilkinson",D,FL,"March 4, 1879",Forty-Sixth,"March 3, 1897",768
+"Carpenter, Matthew, H.",R,WI,"March 4, 1879",Forty-Sixth,"February 24, 1881",0
+"Farley, James, T.",D,CA,"March 4, 1879",Forty-Sixth,"March 3, 1885",769
+"Groome, James, B.",D,MD,"March 4, 1879",Forty-Sixth,"March 3, 1885",770
+"Hampton, Wade",D,SC,"March 4, 1879",Forty-Sixth,"March 3, 1891",771
+"Hill, Nathaniel, P.",R,CO,"March 4, 1879",Forty-Sixth,"March 3, 1885",772
+"Houston, George, S.",D,AL,"March 4, 1879",Forty-Sixth,"December 31, 1879",773
+"Jonas, Benjamin, F.",D,LA,"March 4, 1879",Forty-Sixth,"March 3, 1885",774
+"Logan, John, A.",R,IL,"March 4, 1879",Forty-Sixth,"December 26, 1886",0
+"Pendleton, George, H.",D,OH,"March 4, 1879",Forty-Sixth,"March 3, 1885",775
+"Platt, Orville, H.",R,CT,"March 4, 1879",Forty-Sixth,"April 21, 1905",776
+"Slater, James, H.",D,OR,"March 4, 1879",Forty-Sixth,"March 3, 1885",777
+"Vance, Zebulon",D,NC,"March 4, 1879",Forty-Sixth,"April 14, 1894",778
+"Vest, George, G.",D,MO,"March 4, 1879",Forty-Sixth,"March 3, 1903",779
+"Walker, James, D.",D,AR,"March 4, 1879",Forty-Sixth,"March 3, 1885",780
+"Williams, John, Stuart",D,KY,"March 4, 1879",Forty-Sixth,"March 3, 1885",781
+"Bell, Charles, H.",R,NH,"March 13, 1879",Forty-Sixth,"June 16, 1879",782
+"Blair, Henry, W.",R,NH,"June 17, 1879",Forty-Sixth,"March 3, 1891",783
+"Baldwin, Henry, P.",R,MI,"November 17, 1879",Forty-Sixth,"March 3, 1881",784
+"Pryor, Luke",D,AL,"January 7, 1880",Forty-Sixth,"November 23, 1880",785
+"Brown, Joseph, E.",D,GA,"May 26, 1880",Forty-Sixth,"March 3, 1891",786
+"Pugh, James, L.",D,AL,"November 24, 1880",Forty-Sixth,"March 3, 1897",787
+"MCamden, Johnson, N.",D,WV,"March 4, 1881",Forty-Seventh,"March 3, 1887",788
+"Conger, Omar, D.",R,MI,"March 4, 1881",Forty-Seventh,"March 3, 1887",789
+"Fair, James, G.",D,NV,"March 4, 1881",Forty-Seventh,"March 3, 1887",790
+"George, James, Z.",D,MS,"March 4, 1881",Forty-Seventh,"August 14, 1897",791
+"Gorman, Arthur, P.",D,MD,"March 4, 1881",Forty-Seventh,"March 3, 1899",792
+"Hale, Eugene",R,ME,"March 4, 1881",Forty-Seventh,"March 3, 1911",793
+"Harrison, Benjamin",R,IN,"March 4, 1881",Forty-Seventh,"March 3, 1887",794
+"Hawley, Joseph, R.",R,CT,"March 4, 1881",Forty-Seventh,"March 3, 1905",795
+"Jackson, Howell, E.",D,TN,"March 4, 1881",Forty-Seventh,"April 14, 1886",796
+"Mahone, William",RA/R,VA,"March 4, 1881",Forty-Seventh,"March 3, 1887",797
+"Miller, John, F.",R,CA,"March 4, 1881",Forty-Seventh,"March 8, 1886",798
+"Mitchell, John, I.",R,PA,"March 4, 1881",Forty-Seventh,"March 3, 1887",799
+"Platt, Thomas, C.",R,NY,"March 4, 1881",Forty-Seventh,"May 16, 1881",800
+"Sawyer, Philetus",R,WI,"March 4, 1881",Forty-Seventh,"March 3, 1893",801
+"Sewell, William, J.",R,NJ,"March 4, 1881",Forty-Seventh,"March 3, 1887",802
+"Sherman, John",R,OH,"March 4, 1881",Forty-Seventh,"March 4, 1897",0
+"Wyck, Charles, H.",R,NE,"March 4, 1881",Forty-Seventh,"March 3, 1887",803
+"McDill, James, W.",R,IA,"March 8, 1881",Forty-Seventh,"March 3, 1883",804
+"Edgerton, A, .J.",R,MN,"March 12, 1881",Forty-Seventh,"Nov. 14, 1881",805
+"Cameron, Angus",R,WI,"March 14, 1881",Forty-Seventh,"March 3, 1885",0
+"Frye, William, P.",R,ME,"March 18, 1881",Forty-Seventh,"August 8, 1911",806
+"Miller, Warner",R,NY,"July 16, 1881",Forty-Seventh,"March 3, 1887",807
+"Lapham, Elbridge, G.",R,NY,"July 22, 1881",Forty-Seventh,"March 3, 1885",808
+"Aldrich, Nelson, W.",R,RI,"October 5, 1881",Forty-Seventh,"March 3, 1911",809
+"Windom, William",R,MN,"October 5, 1881",Forty-Seventh,"March 3, 1883",0
+"Chilcott, George, M.",R,CO,"April 17, 1882",Forty-Seventh,"January 27, 1883",810
+"Barrow, Pope",D,GA,"November 15, 1882",Forty-Seventh,"March 3, 1883",811
+"Tabor, Horace, A.W.",R,CO,"January 27, 1883",Forty-Seventh,"March 3, 1883",812
+"Bowen, Thomas, M.",R,CO,"March 4, 1883",Forty-Eighth,"March 3, 1889",813
+"Cullom, Shelby, M.",R,IL,"March 4, 1883",Forty-Eighth,"March 3, 1913",814
+"Colquitt, Alfred, H.",D,GA,"March 4, 1883",Forty-Eighth,"March 26, 1894",815
+"Dolph, Joseph, N.",R,OR,"March 4, 1883",Forty-Eighth,"March 3, 1895",816
+"Gibson, Randall, L.",D,LA,"March 4, 1883",Forty-Eighth,"December 15, 1892",817
+"Kenna, John, E.",D,WV,"March 4, 1883",Forty-Eighth,"January 11, 1893",818
+"Manderson, Charles, F.",R,NE,"March 4, 1883",Forty-Eighth,"March 3, 1895",819
+"Palmer, Thomas, W.",R,MI,"March 4, 1883",Forty-Eighth,"March 3, 1889",820
+"Pike, Austin, F.",R,NH,"March 4, 1883",Forty-Eighth,"October 8, 1886",821
+"Riddleberger, Harrison, H.",RA/R,VA,"March 4, 1883",Forty-Eighth,"March 3, 1889",822
+"Sabin, Dwight, M.",R,MN,"March 4, 1883",Forty-Eighth,"March 3, 1889",823
+"Wilson, James, F.",R,IA,"March 4, 1883",Forty-Eighth,"March 3, 1895",824
+"Sheffield, William, P.",R,RI,"November 19, 1884",Forty-Eighth,"January 20, 1885",825
+"Chace, Jonathan",R,RI,"January 20, 1885",Forty-Eighth,"April 9, 1889",826
+"Blackburn, Joseph, C.S.",D,KY,"March 4, 1885",Forty-Ninth,"March 3, 1897",827
+"Eustis, James, B.",D,LA,"March 4, 1885",Forty-Ninth,"March 3, 1891",0
+"Evarts, William, M.",R,NY,"March 4, 1885",Forty-Ninth,"March 3, 1891",828
+"Jones, James, K.",D,AR,"March 4, 1885",Forty-Ninth,"March 3, 1903",829
+"Payne, Henry, B.",D,OH,"March 4, 1885",Forty-Ninth,"March 3, 1891",830
+"Spooner, John, Coit",R,WI,"March 4, 1885",Forty-Ninth,"March 3, 1891",831
+"Stanford, Leland",R,CA,"March 4, 1885",Forty-Ninth,"June 21, 1893",832
+"Teller, Henry, M.",R/SR/D,CO,"March 4, 1885",Forty-Ninth,"March 3, 1909",0
+"Wilson, Ephraim, King",D,MD,"March 4, 1885",Forty-Ninth,"February 24, 1891",833
+"Walthall, Edward, C.",D,MS,"March 9, 1885",Forty-Ninth,"January 24, 1894",834
+"Gray, George",D,DE,"March 18, 1885",Forty-Ninth,"March 3, 1899",835
+"Berry, James, H.",D,AR,"March 20, 1885",Forty-Ninth,"March 3, 1907",836
+"Mitchell, John, H.",R,OR,"November 18, 1885",Forty-Ninth,"March 3, 1897",0
+"Hearst, George",D,CA,"March 23, 1886",Forty-Ninth,"August 4, 1886",837
+"Whitthorne, Washington, C.",D,TN,"April 16, 1886",Forty-Ninth,"March 3, 1887",838
+"Williams, Abram, P.",R,CA,"August 4, 1886",Forty-Ninth,"March 3, 1887",839
+"Cheney, Person, C.",R,NH,"November 24, 1886",Forty-Ninth,"June 14, 1887",840
+"Farwell, Charles, B.",R,IL,"January 19, 1887",Forty-Ninth,"March 3, 1891",841
+"Bate, William, B.",D,TN,"March 4, 1887",Fiftieth,"March 9, 1905",842
+"Blodgett, Rufus",D,NJ,"March 4, 1887",Fiftieth,"March 3, 1893",843
+"Daniel, John, W.",D,VA,"March 4, 1887",Fiftieth,"June 29, 1910",844
+"Davis, Cushman, K.",R,MN,"March 4, 1887",Fiftieth,"November 27, 1900",845
+"Faulkner, Charles, J.",D,WV,"March 4, 1887",Fiftieth,"March 3, 1899",846
+"Hearst, George",D,CA,"March 4, 1887",Fiftieth,"February 28, 1891",0
+"Hiscock, Frank",R,NY,"March 4, 1887",Fiftieth,"March 3, 1893",847
+"Paddock, Algernon, S.",R,NE,"March 4, 1887",Fiftieth,"March 3, 1893",0
+"Quay, Matthew, S.",R,PA,"March 4, 1887",Fiftieth,"March 3, 1899",848
+"Reagan, John, H.",D,TX,"March 4, 1887",Fiftieth,"June 10, 1891",849
+"Stewart, William, M.",R/S/R,NV,"March 4, 1887",Fiftieth,"March 3, 1905",0
+"Stockbridge, Francis, B.",R,MI,"March 4, 1887",Fiftieth,"April 30, 1894",850
+"Turpie, David",D,IN,"March 4, 1887",Fiftieth,"March 3, 1899",0
+"Pasco, Samuel",D,FL,"May 19, 1887",Fiftieth,"April 18, 1899",851
+"Chandler, William, E.",R,NH,"June 14, 1887",Fiftieth,"March 3, 1889",852
+"Barbour, John, S., Jr.",D,VA,"March 4, 1889",Fifty-First,"May 14, 1892",853
+"Higgins, Anthony",R,DE,"March 4, 1889",Fifty-First,"March 3, 1895",854
+"Marston, Gilman",R,NH,"March 4, 1889",Fifty-First,"June 18, 1889",855
+"McMillan, James",R,MI,"March 4, 1889",Fifty-First,"August 10, 1902",856
+"Washburn, William, D.",R,MN,"March 4, 1889",Fifty-First,"March 3, 1895",857
+"Wolcott, Edward, O.",R,CO,"March 4, 1889",Fifty-First,"March 3, 1901",858
+"Dixon, Nathan, F.",R,RI,"April 10, 1889",Fifty-First,"March 3, 1895",859
+"Chandler, William, E.",R,NH,"June 18, 1889",Fifty-First,"March 3, 1901",0
+"Moody, Gideon, C.",R,SD,"November 2, 1889",Fifty-First,"March 3, 1891",860
+"Pettigrew, Richard, F.",R/SR,SD,"November 2, 1889",Fifty-First,"March 3, 1901",861
+"Allen, John, B.",R,WA,"November 20, 1889",Fifty-First,"March 3, 1893",862
+"Squire, Watson, C.",R,WA,"November 20, 1889",Fifty-First,"March 3, 1897",863
+"Pierce, Gilbert, A.",R,ND,"November 21, 1889",Fifty-First,"March 3, 1891",864
+"Casey, Lyman, R.",R,ND,"November 25, 1889",Fifty-First,"March 3, 1893",865
+"Sanders, Wilbur, F.",R,MT,"January 1, 1890",Fifty-First,"March 3, 1893",866
+"Power, Thomas, C.",R,MT,"January 2, 1890",Fifty-First,"March 3, 1895",867
+"Carlisle, John, G.",D,KY,"May 17, 1890",Fifty-First,"February 4, 1893",868
+"Carey, Joseph, M.",R,WY,"November 15, 1890",Fifty-First,"March 3, 1895",869
+"Warren, Francis, E.",R,WY,"November 18, 1890",Fifty-First,"March 3, 1893",870
+"McConnell, William, J.",R,ID,"December 18, 1890",Fifty-First,"March 3, 1891",871
+"Shoup, George, L.",R,ID,"December 18, 1890",Fifty-First,"March 3, 1901",872
+"Brice, Calvin, S.",D,OH,"March 4, 1891",Fifty-Second,"March 3, 1897",873
+"Dubois, Fred, T.",R,ID,"March 4, 1891",Fifty-Second,"March 3, 1897",874
+"Gallinger, Jacob, H.",R,NH,"March 4, 1891",Fifty-Second,"August 17, 1918",875
+"Gordon, John, B.",D,GA,"March 4, 1891",Fifty-Second,"March 3, 1897",0
+"Hansbrough, Henry, C.",R,ND,"March 4, 1891",Fifty-Second,"March 3, 1909",876
+"Irby, John, L.M.",D,SC,"March 4, 1891",Fifty-Second,"March 3, 1897",877
+"Kyle, James, H.",PO/R,SD,"March 4, 1891",Fifty-Second,"July 1, 1901",878
+"Palmer, John, M.",D,IL,"March 4, 1891",Fifty-Second,"March 3, 1897",879
+"Peffer, William, A.",FA,KS,"March 4, 1891",Fifty-Second,"March 3, 1897",880
+"Vilas, William, F.",D,WI,"March 4, 1891",Fifty-Second,"March 3, 1897",881
+"White, Edward, D.",D,LA,"March 4, 1891",Fifty-Second,"March 12, 1894",882
+"Felton, Charles, N.",R,CA,"March 19, 1891",Fifty-Second,"March 3, 1893",883
+"Chilton, Horace",D,TX,"June 10, 1891",Fifty-Second,"March 22, 1892",884
+"Proctor, Redfield",R,VT,"November 2, 1891",Fifty-Second,"March 4, 1908",885
+"Gibson, Charles, H.",D,MD,"November 19, 1891",Fifty-Second,"March 3, 1897",886
+"Perkins, Bishop, W.",R,KS,"January 1, 1892",Fifty-Second,"March 3, 1893",887
+"Hill, David, B.",D,NY,"January 7, 1892",Fifty-Second,"March 3, 1897",888
+"Mills, Roger, Q.",D,TX,"March 29, 1892",Fifty-Second,"March 3, 1899",889
+"Hunton, Eppa",D,VA,"May 28, 1892",Fifty-Second,"March 3, 1895",890
+"Caffery, Donelson",D,LA,"December 31, 1892",Fifty-Second,"March 3, 1901",891
+"Camden, Johnson, N.",D,WV,"January 25, 1893",Fifty-Second,"March 3, 1895",0
+"Lindsay, William",D,KY,"February 15, 1893",Fifty-Second,"March 3, 1901",892
+"Roach, William, N.",D,ND,"March 4, 1893",Fifty-Third,"March 3, 1899",893
+"White, Stephen, M.",D,CA,"March 4, 1893",Fifty-Third,"March 3, 1899",894
+"Allen, William, V.",PO,NE,"March 4, 1893",Fifty-Third,"March 3, 1899",895
+"Lodge, Henry, Cabot",R,MA,"March 4, 1893",Fifty-Third,"November 9, 1924",896
+"Martin, John",D,KS,"March 4, 1893",Fifty-Third,"March 3, 1895",897
+"Mitchell, John, L.",D,WI,"March 4, 1893",Fifty-Third,"March 3, 1899",898
+"Murphy, Edward, , Jr.",D,NY,"March 4, 1893",Fifty-Third,"March 3, 1899",899
+"Smith, James, , Jr.",D,NJ,"March 4, 1893",Fifty-Third,"March 3, 1899",900
+"Perkins, George, C.",R,CA,"July 26, 1893",Fifty-Third,"March 3, 1915",901
+"McLaurin, Anselm, J.",D,MS,"February 7, 1894",Fifty-Third,"March 3, 1895",902
+"Blanchard, Newton",D,LA,"March 12, 1894",Fifty-Third,"March 3, 1897",903
+"Walsh, Patrick",D,GA,"April 2, 1894",Fifty-Third,"March 3, 1895",904
+"Jarvis, Thomas, J.",D,NC,"April 19, 1894",Fifty-Third,"January 23, 1895",905
+"Patton, John, , Jr.",R,MI,"May 5, 1894",Fifty-Third,"January 14, 1895",906
+"Mantle, Lee",R/SR,MT,"January 16, 1895",Fifty-Third,"March 3, 1899",907
+"Burrows, Julius, C.",R,MI,"January 23, 1895",Fifty-Third,"March 3, 1911",908
+"Pritchard, Jeter, C.",R,NC,"January 24, 1895",Fifty-Third,"March 3, 1903",909
+"Clark, Clarence, D.",R,WY,"January 24, 1895",Fifty-Third,"March 3, 1917",910
+"Wilson, John, L.",R,WA,"February 19, 1895",Fifty-Third,"March 3, 1899",911
+"Bacon, Augustus, O.",D,GA,"March 4, 1895",Fifty-Fourth,"February 14, 1914",912
+"Baker, Lucien",R,KS,"March 4, 1895",Fifty-Fourth,"March 3, 1901",913
+"Butler, Marion",PO,NC,"March 4, 1895",Fifty-Fourth,"March 3, 1901",914
+"Carter, Thomas, H.",R,MT,"March 4, 1895",Fifty-Fourth,"March 3, 1901",915
+"Chilton, Horace",D,TX,"March 4, 1895",Fifty-Fourth,"March 3, 1901",0
+"Elkins, Stephen, B.",R,WV,"March 4, 1895",Fifty-Fourth,"January 4, 1911",916
+"Gear, John, H.",R,IA,"March 4, 1895",Fifty-Fourth,"July 14, 1900",917
+"Martin, Thomas, S.",D,VA,"March 4, 1895",Fifty-Fourth,"November 12, 1919",918
+"McBride, George, W.",R,OR,"March 4, 1895",Fifty-Fourth,"March 3, 1901",919
+"Nelson, Knute",R,MN,"March 4, 1895",Fifty-Fourth,"April 28, 1923",920
+"Sewell, William, J.",R,NJ,"March 4, 1895",Fifty-Fourth,"December 27, 1901",0
+"Thurston, John, M.",R,NE,"March 4, 1895",Fifty-Fourth,"March 3, 1901",921
+"Tillman, Benjamin, R.",D,SC,"March 4, 1895",Fifty-Fourth,"July 3, 1918",922
+"Warren, Francis, E.",R,WY,"March 4, 1895",Fifty-Fourth,"November 24, 1929",0
+"Walthall, Edward, C.",D,MS,"March 4, 1895",Fifty-Fourth,"April 21, 1898",0
+"Wetmore, George, P.",R,RI,"March 4, 1895",Fifty-Fourth,"March 3, 1907",923
+"Brown, Arthur",R,UT,"January 22, 1896",Fifty-Fourth,"March 3, 1897",924
+"Cannon, Frank, J.",R/SR,UT,"January 22, 1896",Fifty-Fourth,"March 3, 1899",925
+"Kenney, Richard, R.",D,DE,"January 19, 1897",Fifty-Fourth,"March 3, 1901",926
+"Clay, Alexander, S.",D,GA,"March 4, 1897",Fifty-Fifth,"November 13, 1910",927
+"Deboe, William, J.",R,KY,"March 4, 1897",Fifty-Fifth,"March 3, 1903",928
+"Earle, Joseph, H.",D,SC,"March 4, 1897",Fifty-Fifth,"May 20, 1897",929
+"Fairbanks, Charles, W.",R,IN,"March 4, 1897",Fifty-Fifth,"March 3, 1905",930
+"Foraker, Joseph, B.",R,OH,"March 4, 1897",Fifty-Fifth,"March 3, 1909",931
+"Harris, William, A.",PO,KS,"March 4, 1897",Fifty-Fifth,"March 3, 1903",932
+"Heitfeld, Henry",PO/D,ID,"March 4, 1897",Fifty-Fifth,"March 3, 1903",933
+"Mason, William, E.",R,IL,"March 4, 1897",Fifty-Fifth,"March 3, 1903",934
+"McEnery, Samuel, D.",D,LA,"March 4, 1897",Fifty-Fifth,"June 28, 1910",935
+"Penrose, Boies",R,PA,"March 4, 1897",Fifty-Fifth,"December 31, 1921",936
+"Pettus, Edmund, W.",D,AL,"March 4, 1897",Fifty-Fifth,"July 27, 1907",937
+"Platt, Thomas, C.",R,NY,"March 4, 1897",Fifty-Fifth,"March 3, 1909",0
+"Rawlins, Joseph, L.",D,UT,"March 4, 1897",Fifty-Fifth,"March 3, 1903",938
+"Spooner, John, C.",R,WI,"March 4, 1897",Fifty-Fifth,"April 30, 1907",0
+"Turner, George",SR/D,WA,"March 4, 1897",Fifty-Fifth,"March 3, 1903",939
+"Wellington, George, L.",R,MD,"March 4, 1897",Fifty-Fifth,"March 3, 1903",940
+"Hanna, Marcus, A.",R,OH,"March 5, 1897",Fifty-Fifth,"February 15, 1904",941
+"Mallory, Stephen",D,FL,"May 15, 1897",Fifty-Fifth,"December 23, 1907",942
+"McLaurin, John, L.",D,SC,"June 1, 1897",Fifty-Fifth,"March 3, 1903",943
+"Turley, Thomas, B.",D,TN,"July 20, 1897",Fifty-Fifth,"March 3, 1901",944
+"Money, Hernando, D.",D,MS,"October 8, 1897",Fifty-Fifth,"March 3, 1911",945
+"Sullivan, William, Van Amberg",D,MS,"May 31, 1898",Fifty-Fifth,"March 3, 1901",946
+"Simon, Joseph",R,OR,"October 8, 1898",Fifty-Fifth,"March 3, 1903",947
+"Ross, Jonathan",R,VT,"January 11, 1899",Fifty-Fifth,"October 18, 1900",948
+"Beveridge, Albert, J.",R,IN,"March 4, 1899",Fifty-Sixth,"March 3, 1911",949
+"Clark, William, A.",D,MT,"March 4, 1899",Fifty-Sixth,"May 15, 1900",950
+"Culberson, Charles, A.",D,TX,"March 4, 1899",Fifty-Sixth,"March 3, 1923",951
+"Depew, Chauncey, M.",R,NY,"March 4, 1899",Fifty-Sixth,"March 3, 1911",952
+"Foster, Addison, G.",R,WA,"March 4, 1899",Fifty-Sixth,"March 3, 1905",953
+"Kean, John",R,NJ,"March 4, 1899",Fifty-Sixth,"March 3, 1911",954
+"McComas, Louis, E.",R,MD,"March 4, 1899",Fifty-Sixth,"March 3, 1905",955
+"McCumber, Porter, J.",R,ND,"March 4, 1899",Fifty-Sixth,"March 3, 1923",956
+"Quarles, Joseph, V.",R,WI,"March 4, 1899",Fifty-Sixth,"March 3, 1905",957
+"Scott, Nathan, B.",R,WV,"March 4, 1899",Fifty-Sixth,"March 3, 1911",958
+"Taliaferro, James, P.",D,FL,"April 19, 1899",Fifty-Sixth,"March 3, 1911",960
+"Allen, William, V.",PO,NE,"December 13, 1899",Fifty-Sixth,"March 28, 1901",0
+"Bard, Thomas, R.",R,CA,"February 7, 1900",Fifty-Sixth,"March 3, 1905",961
+"Dolliver, Jonathan, P.",R,IA,"August 22, 1900",Fifty-Sixth,"October 15, 1910",962
+"Dillingham, William, P.",R,VT,"October 18, 1900",Fifty-Sixth,"July 12, 1923",963
+"Towne, Charles, A.",D,MN,"December 5, 1900",Fifty-Sixth,"January 28, 1901",964
+"Quay, Matthew, S.",R,PA,"January 16, 1901",Fifty-Sixth,"May 28, 1904",0
+"Kearns, Thomas",R,UT,"January 23, 1901",Fifty-Sixth,"March 3, 1905",965
+"Clapp, Moses, E.",R,MN,"January 28, 1901",Fifty-Sixth,"March 3, 1917",966
+"Bailey, Joseph, W.",D,TX,"March 4, 1901",Fifty-Seventh,"January 3, 1913",967
+"Blackburn, Joseph, C.S.",D,KY,"March 4, 1901",Fifty-Seventh,"March 3, 1907",0
+"Burnham, Henry, E.",R,NH,"March 4, 1901",Fifty-Seventh,"March 3, 1913",968
+"Burton, Joseph, R.",R,KS,"March 4, 1901",Fifty-Seventh,"June 4, 1906",969
+"Carmack, Edward, W.",D,TN,"March 4, 1901",Fifty-Seventh,"March 3, 1907",970
+"Clark, William, A.",D,MT,"March 4, 1901",Fifty-Seventh,"March 3, 1907",0
+"Dubois, Fred, T.",D,ID,"March 4, 1901",Fifty-Seventh,"March 3, 1907",0
+"Foster, Murphy, J.",D,LA,"March 4, 1901",Fifty-Seventh,"March 3, 1913",971
+"Gamble, Robert, J.",R,SD,"March 4, 1901",Fifty-Seventh,"March 3, 1913",972
+"McLaurin, Anselm, J.",D,MS,"March 4, 1901",Fifty-Seventh,"December 22, 1909",0
+"Mitchell, John, H.",R,OR,"March 4, 1901",Fifty-Seventh,"December 8, 1905",0
+"Patterson, Thomas, M.",D,CO,"March 4, 1901",Fifty-Seventh,"March 3, 1907",973
+"Simmons, Furnifold, M.",D,NC,"March 4, 1901",Fifty-Seventh,"March 3, 1931",974
+"Gibson, Paris",D,MT,"March 7, 1901",Fifty-Seventh,"March 3, 1905",975
+"Dietrich, Charles, H.",R,NE,"March 28, 1901",Fifty-Seventh,"March 3, 1905",976
+"Millard, Joseph, H.",R,NE,"March 28, 1901",Fifty-Seventh,"March 3, 1907",977
+"Kittredge, Alfred, B.",R,SD,"July 1, 1901",Fifty-Seventh,"March 3, 1909",978
+"Dryden, John, F.",R,NJ,"January 29, 1902",Fifty-Seventh,"March 3, 1907",979
+"Alger, Russell, A.",R,MI,"September 27, 1902",Fifty-Seventh,"January 24, 1907",980
+"Allee, J, . Frank",R,DE,"March 2, 1903",Fifty-Seventh,"March 3, 1907",981
+"Ball, L, . Heisler",R,DE,"March 2, 1903",Fifty-Seventh,"March 3, 1905",982
+"Ankeny, Levi",R,WA,"March 4, 1903",Fifty-Eighth,"March 3, 1909",983
+"Clarke, James, P.",D,AR,"March 4, 1903",Fifty-Eighth,"October 1, 1916",984
+"Fulton, Charles, W.",R,OR,"March 4, 1903",Fifty-Eighth,"March 3, 1909",985
+"Gorman, Arthur, P.",D,MD,"March 4, 1903",Fifty-Eighth,"June 4, 1906",0
+"Heyburn, Weldon, B.",R,ID,"March 4, 1903",Fifty-Eighth,"October 17, 1912",986
+"Hopkins, Albert, J.",R,IL,"March 4, 1903",Fifty-Eighth,"March 3, 1909",987
+"Latimer, Asbury, C.",D,SC,"March 4, 1903",Fifty-Eighth,"February 20, 1908",988
+"Long, Chester, I.",R,KS,"March 4, 1903",Fifty-Eighth,"March 3, 1909",989
+"McCreary, James, B.",D,KY,"March 4, 1903",Fifty-Eighth,"March 3, 1909",990
+"Newlands, Francis, G.",D,NV,"March 4, 1903",Fifty-Eighth,"December 24, 1917",991
+"Overman, Lee, S.",D,NC,"March 4, 1903",Fifty-Eighth,"December 12, 1930",992
+"Smoot, Reed",R,UT,"March 4, 1903",Fifty-Eighth,"March 3, 1933",993
+"Stone, William, J.",D,MO,"March 4, 1903",Fifty-Eighth,"April 14, 1918",994
+"Dick, Charles, W.F.",R,OH,"March 2, 1904",Fifty-Eighth,"March 3, 1911",995
+"Knox, Philander, C.",R,PA,"June 10, 1904",Fifty-Eighth,"March 4, 1909",996
+"Crane, Winthrop, Murray",R,MA,"October 12, 1904",Fifty-Eighth,"March 3, 1913",997
+"Bulkeley, Morgan, G.",R,CT,"March 4, 1905",Fifty-Ninth,"March 3, 1911",998
+"Burkett, Elmer, J.",R,NE,"March 4, 1905",Fifty-Ninth,"March 3, 1911",999
+"Carter, Thomas, H.",R,MT,"March 4, 1905",Fifty-Ninth,"March 3, 1911",0
+"Flint, Frank, P.",R,CA,"March 4, 1905",Fifty-Ninth,"March 3, 1911",1000
+"Hemenway, James, A.",R,IN,"March 4, 1905",Fifty-Ninth,"March 3, 1909",1001
+"Nixon, George, S.",R,NV,"March 4, 1905",Fifty-Ninth,"June 5, 1912",1002
+"Piles, Samuel, H.",R,WA,"March 4, 1905",Fifty-Ninth,"March 3, 1911",1003
+"Rayner, Isidor",D,MD,"March 4, 1905",Fifty-Ninth,"November 25, 1912",1004
+"Sutherland, George",R,UT,"March 4, 1905",Fifty-Ninth,"March 3, 1917",1005
+"Warner, William",R,MO,"March 18, 1905",Fifty-Ninth,"March 3, 1911",1006
+"Frazier, James, B.",D,TN,"March 21, 1905",Fifty-Ninth,"March 3, 1911",1007
+"Gearin, John, M.",D,OR,"December 9, 1905",Fifty-Ninth,"January 23, 1907",1009
+"Follette, Robert, M.",R,WI,"January 4, 1906",Fifty-Ninth,"June 18, 1925",1010
+"Whyte, William, Pinkney",D,MD,"June 8, 1906",Fifty-Ninth,"March 17, 1908",0
+"Benson, Alfred, W.",R,KS,"June 11, 1906",Fifty-Ninth,"January 23, 1907",1011
+"Pont, Henry, A.",R,DE,"June 13, 1906",Fifty-Ninth,"March 3, 1917",1012
+"Mulkey, Frederick, W.",R,OR,"January 23, 1907",Fifty-Ninth,"March 3, 1907",1013
+"Curtis, Charles",R,KS,"January 29, 1907",Fifty-Ninth,"March 3, 1913",1014
+"Smith, William, Alden",R,MI,"February 9, 1907",Fifty-Ninth,"March 3, 1919",1015
+"Borah, William, E.",R,ID,"March 4, 1907",Sixtieth,"January 19, 1940",1016
+"Bourne, Jonathan, , Jr.",R,OR,"March 4, 1907",Sixtieth,"January 3, 1913",1017
+"Briggs, Frank, O.",R,NJ,"March 4, 1907",Sixtieth,"March 3, 1913",1018
+"Brown, Norris",R,NE,"March 4, 1907",Sixtieth,"March 3, 1913",1019
+"Davis, Jeff",D,AR,"March 4, 1907",Sixtieth,"January 3, 1913",1020
+"Dixon, Joseph, M.",R,MT,"March 4, 1907",Sixtieth,"March 3, 1913",1021
+"Guggenheim, Simon",R,CO,"March 4, 1907",Sixtieth,"March 3, 1913",1022
+"Paynter, Thomas, H.",D,KY,"March 4, 1907",Sixtieth,"March 3, 1913",1023
+"Richardson, Harry, A.",R,DE,"March 4, 1907",Sixtieth,"March 3, 1913",1024
+"Taylor, Robert, L.",D,TN,"March 4, 1907",Sixtieth,"March 31, 1912",1025
+"Stephenson, Isaac",R,WI,"May 17, 1907",Sixtieth,"March 3, 1915",1026
+"Bankhead, John, H.",D,AL,"June 18, 1907",Sixtieth,"March 1, 1920",1027
+"Johnston, Joseph, F.",D,AL,"August 6, 1907",Sixtieth,"August 8, 1913",1028
+"Gore, Thomas, P.",D,OK,"December 11, 1907",Sixtieth,"March 3, 1921",1029
+"Owen, Robert, L.",D,OK,"December 11, 1907",Sixtieth,"March 3, 1925",1030
+"Bryan, William, J.",D,FL,"December 26, 1907",Sixtieth,"March 22, 1908",1031
+"Wetmore, George, Peabody",R,RI,"January 22, 1908",Sixtieth,"March 3, 1913",0
+"Gary, Frank, B.",D,SC,"March 6, 1908",Sixtieth,"March 3, 1909",1032
+"Stewart, John, W.",R,VT,"March 24, 1908",Sixtieth,"October 20, 1908",1033
+"Smith, John, Walter",D,MD,"March 25, 1908",Sixtieth,"March 3, 1921",1034
+"Milton, William, H.",D,FL,"March 27, 1908",Sixtieth,"March 3, 1909",1035
+"Page, Carroll, S.",R,VT,"October 21, 1908",Sixtieth,"March 3, 1923",1036
+"Cummins, Albert, B.",R,IA,"November 24, 1908",Sixtieth,"July 30, 1926",1037
+"Bradley, William, O.",R,KY,"March 4, 1909",Sixty-First,"March 23, 1914",1038
+"Bristow, Joseph, L.",R,KS,"March 4, 1909",Sixty-First,"March 3, 1915",1039
+"Burton, Theodore, E.",R,OH,"March 4, 1909",Sixty-First,"March 3, 1915",1040
+"Chamberlain, George, E.",D,OR,"March 4, 1909",Sixty-First,"March 3, 1921",1041
+"Crawford, Coe, I.",R,SD,"March 4, 1909",Sixty-First,"March 3, 1915",1042
+"Fletcher, Duncan, U.",D,FL,"March 4, 1909",Sixty-First,"June 17, 1936",1043
+"James, Jr, .",D,CO,"March 4, 1909",Sixty-First,"January 11, 1911",1044
+"Johnson, Martin, N.",R,ND,"March 4, 1909",Sixty-First,"October 21, 1909",1045
+"Jones, Wesley, L.",R,WA,"March 4, 1909",Sixty-First,"November 19, 1932",1046
+"Root, Elihu",R,NY,"March 4, 1909",Sixty-First,"March 3, 1915",1047
+"Shively, Benjamin, F.",D,IN,"March 4, 1909",Sixty-First,"March 14, 1916",1048
+"Smith, Ellison, D.",D,SC,"March 4, 1909",Sixty-First,"November 17, 1944",1049
+"Oliver, George, T.",R,PA,"March 17, 1909",Sixty-First,"March 3, 1917",1050
+"Lorimer, William",D,IL,"June 18, 1909",Sixty-First,"July 13, 1912",1051
+"Thompson, Fountain, L.",D,ND,"November 10, 1909",Sixty-First,"January 31, 1910",1052
+"Gordon, James",D,MS,"December 27, 1909",Sixty-First,"February 22, 1910",1053
+"Purcell, William, E.",D,ND,"February 1, 1910",Sixty-First,"February 1, 1911",1054
+"Percy, Le, Roy",D,MS,"February 24, 1910",Sixty-First,"March 3, 1913",1055
+"Swanson, Claude, A.",D,VA,"August 1, 1910",Sixty-First,"March 3, 1933",1056
+"Young, Lafayette",R,IA,"November 12, 1910",Sixty-First,"April 11, 1911",1057
+"Terrell, Joseph, M.",D,GA,"November 17, 1910",Sixty-First,"July 14, 1911",1058
+"Thornton, John, R.",D,LA,"December 7, 1910",Sixty-First,"March 3, 1915",1059
+"Elkins, Davis",R,WV,"January 9, 1911",Sixty-First,"January 31, 1911",1060
+"Gronna, Asle, J.",R,ND,"February 2, 1911",Sixty-First,"March 3, 1921",1061
+"Watson, Clarence, W.",D,WV,"February 2, 1911",Sixty-First,"March 3, 1913",1062
+"Bryan, Nathan, P.",D,FL,"March 4, 1911",Sixty-Second,"March 3, 1917",1063
+"Chilton, William, E.",D,WV,"March 4, 1911",Sixty-Second,"March 3, 1917",1064
+"Lea, Luke",D,TN,"March 4, 1911",Sixty-Second,"March 3, 1917",1065
+"Lippitt, Henry, F.",R,RI,"March 4, 1911",Sixty-Second,"March 3, 1917",1066
+"Hitchcock, Gilbert, M.",D,NE,"March 4, 1911",Sixty-Second,"March 3, 1923",1067
+"Johnson, Charles, F.",D,ME,"March 4, 1911",Sixty-Second,"March 3, 1917",1068
+"Kern, John, W.",D,IN,"March 4, 1911",Sixty-Second,"March 3, 1917",1069
+"McLean, George, P.",R,CT,"March 4, 1911",Sixty-Second,"March 3, 1929",1070
+"Martine, James, E.",D,NJ,"March 4, 1911",Sixty-Second,"March 3, 1917",1071
+"Myers, Henry, L.",D,MT,"March 4, 1911",Sixty-Second,"March 3, 1923",1072
+"Poindexter, Miles",R/PR/R,WA,"March 4, 1911",Sixty-Second,"March 3, 1923",1073
+"Pomerene, Atlee",D,OH,"March 4, 1911",Sixty-Second,"March 3, 1923",1074
+"Reed, James, A.",D,MO,"March 4, 1911",Sixty-Second,"March 3, 1929",1075
+"Townsend, Charles",R,MI,"March 4, 1911",Sixty-Second,"March 3, 1923",1076
+"Williams, John, Sharp",D,MS,"March 4, 1911",Sixty-Second,"March 3, 1923",1077
+"Works, John, D.",R,CA,"March 4, 1911",Sixty-Second,"March 3, 1917",1078
+"Gorman, James, A.",D,NY,"March 31, 1911",Sixty-Second,"March 3, 1917",1079
+"Kenyon, William, S.",R,IA,"April 12, 1911",Sixty-Second,"February 24, 1922",1080
+"Gardner, Obadiah",D,ME,"September 23, 1911",Sixty-Second,"March 3, 1913",1081
+"Smith, Hoke",D,GA,"November 16, 1911",Sixty-Second,"March 3, 1921",1082
+"Catron, Thomas, B.",R,NM,"March 27, 1912",Sixty-Second,"March 3, 1917",1084
+"Fall, Albert, B.",R,NM,"March 27, 1912",Sixty-Second,"March 4, 1921",1085
+"Smith, Marcus, A.",D,AZ,"March 27, 1912",Sixty-Second,"March 3, 1921",1086
+"Sanders, Newell",R,TN,"April 8, 1912",Sixty-Second,"January 24, 1913",1087
+"Massey, William, A.",R,NV,"July 1, 1912",Sixty-Second,"January 29, 1913",1088
+"Perky, Kirtland, I.",D,ID,"November 18, 1912",Sixty-Second,"February 5, 1913",1089
+"Jackson, William, P.",R,MD,"November 29, 1912",Sixty-Second,"January 28, 1914",1090
+"Johnston, Rienzi",D,TX,"January 4, 1913",Sixty-Second,"January 29, 1913",1091
+"Heiskell, John, N.",D,AR,"January 6, 1913",Sixty-Second,"January 29, 1913",1092
+"Thomas, Charles, S.",D,CO,"January 15, 1913",Sixty-Second,"March 3, 1921",1093
+"Webb, William, R.",D,TN,"January 24, 1913",Sixty-Second,"March 3, 1913",1094
+"Kavanaugh, William, M.",D,AR,"January 29, 1913",Sixty-Second,"March 3, 1913",1095
+"Pittman, Key",D,NV,"January 29, 1913",Sixty-Second,"November 10, 1940",1096
+"Sheppard, Morris, 4",D,TX,"January 29, 1913",Sixty-Second,"April 9, 1941",1097
+"Brady, James, H.",R,ID,"February 6, 1913",Sixty-Second,"January 13, 1918",1098
+"Burleigh, Edwin, C.",R,ME,"March 4, 1913",Sixty-Third,"June 16, 1916",1099
+"Colt, LeBaron, B.",R,RI,"March 4, 1913",Sixty-Third,"August 18, 1924",1100
+"Goff, Nathan",R,WV,"March 4, 1913",Sixty-Third,"March 3, 1919",1101
+"Hughes, William",D,NJ,"March 4, 1913",Sixty-Third,"January 30, 1918",1102
+"James, Ollie, M.",D,KY,"March 4, 1913",Sixty-Third,"August 28, 1918",1103
+"Lane, Harry",D,OR,"March 4, 1913",Sixty-Third,"May 23, 1917",1104
+"Norris, George, W.",R/I,NE,"March 4, 1913",Sixty-Third,"January 3, 1943",1105
+"Ransdell, Joseph, E.",D,LA,"March 4, 1913",Sixty-Third,"March 3, 1931",1106
+"Robinson, Joseph, T.",D,AR,"March 4, 1913",Sixty-Third,"July 14, 1937",1107
+"Saulsbury, Willard, , Jr.",D,DE,"March 4, 1913",Sixty-Third,"March 3, 1919",1108
+"Shafroth, John, F.",D,CO,"March 4, 1913",Sixty-Third,"March 3, 1919",1109
+"Shields, John, K.",D,TN,"March 4, 1913",Sixty-Third,"March 3, 1925",1110
+"Sterling, Thomas",R,SD,"March 4, 1913",Sixty-Third,"March 3, 1925",1111
+"Thompson, William, H.",D,KS,"March 4, 1913",Sixty-Third,"March 3, 1919",1112
+"Vardaman, James, K.",D,MS,"March 4, 1913",Sixty-Third,"March 3, 1919",1113
+"Walsh, Thomas, J.",D,MT,"March 4, 1913",Sixty-Third,"March 2, 1933",1114
+"Weeks, John, W.",R,MA,"March 4, 1913",Sixty-Third,"March 3, 1919",1115
+"Hollis, Henry, F.",D,NH,"March 13, 1913",Sixty-Third,"March 3, 1919",1116
+"Lewis, James, Hamilton",D,IL,"March 23, 1913",Sixty-Third,"March 3, 1919",1117
+"Sherman, Lawrence, Y.",R,IL,"March 26, 1913",Sixty-Third,"March 3, 1921",1118
+"Lee, Blair",D,MD,"January 29, 1914",Sixty-Third,"March 3, 1917",1119
+"West, William, S.",D,GA,"March 2, 1914",Sixty-Third,"November 3, 1914",1120
+"White, Francis, S.",D,AL,"May 11, 1914",Sixty-Third,"March 3, 1915",1121
+"Camden, Johnson, N., Jr.",D,KY,"June 16, 1914",Sixty-Third,"March 3, 1915",1122
+"Hardwick, Thomas, W.",D,GA,"November 4, 1914",Sixty-Third,"March 3, 1919",1123
+"Beckham, John, C.W.",D,KY,"March 4, 1915",Sixty-Fourth,"March 3, 1921",1124
+"Broussard, Robert, F.",D,LA,"March 4, 1915",Sixty-Fourth,"April 12, 1918",1125
+"Curtis, Charles",R,KS,"March 4, 1915",Sixty-Fourth,"March 3, 1929",0
+"Harding, Warren, G.",R,OH,"March 4, 1915",Sixty-Fourth,"January 13, 1921",1126
+"Husting, Paul, O.",D,WI,"March 4, 1915",Sixty-Fourth,"October 21, 1917",1127
+"Johnson, Edwin, S.",D,SD,"March 4, 1915",Sixty-Fourth,"March 3, 1921",1128
+"Phelan, James, D.",D,CA,"March 4, 1915",Sixty-Fourth,"March 3, 1921",1129
+"Underwood, Oscar, W.",D,AL,"March 4, 1915",Sixty-Fourth,"March 3, 1927",1130
+"Wadsworth, James, W., Jr.",R,NY,"March 4, 1915",Sixty-Fourth,"March 3, 1927",1131
+"Taggart, Thomas",D,IN,"March 20, 1916",Sixty-Fourth,"November 7, 1916",1132
+"Fernald, Bert, M.",R,ME,"September 12, 1916",Sixty-Fourth,"August 23, 1926",1133
+"Kirby, William, F.",D,AR,"November 8, 1916",Sixty-Fourth,"March 3, 1921",1134
+"Watson, James, E.",R,IN,"November 8, 1916",Sixty-Fourth,"March 3, 1933",1135
+"Calder, William, M.",R,NY,"March 4, 1917",Sixty-Fifth,"March 3, 1923",1136
+"France, Joseph, I.",R,MD,"March 4, 1917",Sixty-Fifth,"March 3, 1923",1137
+"Frelinghuysen, Joseph, S.",R,NJ,"March 4, 1917",Sixty-Fifth,"March 3, 1923",1138
+"Gerry, Peter, G.",D,RI,"March 4, 1917",Sixty-Fifth,"March 3, 1929",1139
+"Hale, Frederick",R,ME,"March 4, 1917",Sixty-Fifth,"January 3, 1941",1140
+"Jones, Andrieus, A.",D,NM,"March 4, 1917",Sixty-Fifth,"December 20, 1927",1141
+"Kellogg, Frank, B.",R,MN,"March 4, 1917",Sixty-Fifth,"March 3, 1923",1142
+"Kendrick, John, B.",D,WY,"March 4, 1917",Sixty-Fifth,"November 3, 1933",1143
+"King, William, H.",D,UT,"March 4, 1917",Sixty-Fifth,"January 3, 1941",1144
+"Knox, Philander, C.",R,PA,"March 4, 1917",Sixty-Fifth,"October 12, 1921",0
+"McKellar, Kenneth",D,TN,"March 4, 1917",Sixty-Fifth,"January 3, 1953",1145
+"New, Harry, S.",R,IN,"March 4, 1917",Sixty-Fifth,"March 3, 1923",1146
+"Sutherland, Howard",R,WV,"March 4, 1917",Sixty-Fifth,"March 3, 1923",1147
+"Trammel, Park",D,FL,"March 4, 1917",Sixty-Fifth,"May 8, 1936",1148
+"Wolcott, Josiah, O.",D,DE,"March 4, 1917",Sixty-Fifth,"July 2, 1921",1149
+"Johnson, Hiram, W.",R,CA,"March 16, 1917",Sixty-Fifth,"August 6, 1945",1150
+"McNary, Charles, L.",R,OR,"May 29, 1917",Sixty-Fifth,"November 5, 1918",1151
+"Henderson, Charles, B.",D,NV,"January 1, 1918",Sixty-Fifth,"March 3, 1921",1152
+"Nugent, John, F.",D,ID,"January 22, 1918",Sixty-Fifth,"January 14, 1921",1153
+"Baird, David",R,NJ,"February 23, 1918",Sixty-Fifth,"March 3, 1919",1154
+"Lenroot, Irvine, L.",R,WI,"April 18, 1918",Sixty-Fifth,"March 3, 1927",1155
+"Guion, Walter",D,LA,"April 22, 1918",Sixty-Fifth,"November 5, 1918",1156
+"Wilfley, Xenophon, P.",D,MO,"April 30, 1918",Sixty-Fifth,"November 5, 1918",1157
+"Benet, Christie",D,SC,"July 6, 1918",Sixty-Fifth,"November 5, 1918",1158
+"Drew, Irving, W.",R,NH,"September 2, 1918",Sixty-Fifth,"November 5, 1918",1159
+"Martin, George, B.",D,KY,"September 7, 1918",Sixty-Fifth,"March 3, 1919",1160
+"Gay, Edward, J.",D,LA,"November 6, 1918",Sixty-Fifth,"March 3, 1921",1161
+"Moses, George, H.",R,NH,"November 6, 1918",Sixty-Fifth,"March 3, 1933",1162
+"Mulkey, Frederick, W.",R,OR,"November 6, 1918",Sixty-Fifth,"December 17, 1918",0
+"Pollock, William, P.",D,SC,"November 6, 1918",Sixty-Fifth,"March 3, 1919",1163
+"Spencer, Selden, P.",R,MO,"November 6, 1918",Sixty-Fifth,"May 16, 1925",1164
+"McNary, Charles, L.",R,OR,"December 18, 1918",Sixty-Fifth,"February 25, 1944",0
+"Ball, L, . Heisler",R,DE,"March 4, 1919",Sixty-Sixth,"March 3, 1925",0
+"Capper, Arthur",R,KS,"March 4, 1919",Sixty-Sixth,"March 3, 1949",1165
+"Dial, Nathaniel, B.",D,SC,"March 4, 1919",Sixty-Sixth,"March 3, 1925",1166
+"Edge, Walter, E.",R,NJ,"March 4, 1919",Sixty-Sixth,"November 21, 1929",1167
+"Elkins, Davis",R,WV,"March 4, 1919",Sixty-Sixth,"March 3, 1925",0
+"Harris, William, J.",D,GA,"March 4, 1919",Sixty-Sixth,"April 18, 1932",1168
+"Harrison, Pat",D,MS,"March 4, 1919",Sixty-Sixth,"June 22, 1941",1169
+"Keyes, Henry, W.",R,NH,"March 4, 1919",Sixty-Sixth,"January 3, 1937",1170
+"McCormick, J, . Medill",R,IL,"March 4, 1919",Sixty-Sixth,"February 25, 1925",1171
+"Newberry, Truman, H.",R,MI,"March 4, 1919",Sixty-Sixth,"November 18, 1922",1172
+"Phipps, Lawrence, C.",R,CO,"March 4, 1919",Sixty-Sixth,"March 3, 1931",1173
+"Stanley, A, . Owsley",D,KY,"March 4, 1919",Sixty-Sixth,"March 3, 1925",1174
+"Walsh, David, I.",D,MA,"March 4, 1919",Sixty-Sixth,"March 3, 1925",1175
+"Glass, Carter",D,VA,"February 2, 1920",Sixty-Sixth,"May 28, 1946",1176
+"Comer, Braxton, B.",D,AL,"March 5, 1920",Sixty-Sixth,"November 2, 1920",1177
+"Heflin, J, . Thomas",D,AL,"November 3, 1920",Sixty-Sixth,"March 3, 1931",1178
+"Willis, Frank, B.",R,OH,"January 14, 1921",Sixty-Sixth,"March 30, 1928",1179
+"Gooding, Frank, R.",R,ID,"January 15, 1921",Sixty-Sixth,"June 24, 1928",1180
+"Broussard, Edwin, S.",D,LA,"March 4, 1921",Sixty-Seventh,"March 3, 1933",1181
+"Cameron, Ralph, H.",R,AZ,"March 4, 1921",Sixty-Seventh,"March 3, 1927",1182
+"Caraway, T, .H.",D,AR,"March 4, 1921",Sixty-Seventh,"November 6, 1931",1183
+"Ernst, Richard, P.",R,KY,"March 4, 1921",Sixty-Seventh,"March 3, 1927",1184
+"Harreld, John, W.",R,OK,"March 4, 1921",Sixty-Seventh,"March 3, 1927",1185
+"Ladd, Edwin, F.",R,ND,"March 4, 1921",Sixty-Seventh,"June 22, 1925",1186
+"McKinley, William, B.",R,IL,"March 4, 1921",Sixty-Seventh,"December 7, 1926",1187
+"Nicholson, Samuel, D.",D,CO,"March 4, 1921",Sixty-Seventh,"March 24, 1923",1188
+"Norbeck, Peter",R,SD,"March 4, 1921",Sixty-Seventh,"December 20, 1936",1189
+"Oddie, Tasker, L.",R,NV,"March 4, 1921",Sixty-Seventh,"March 3, 1933",1190
+"Shortridge, Samuel, M.",R,CA,"March 4, 1921",Sixty-Seventh,"March 3, 1933",1191
+"Stanfield, Robert, Nelson",R,OR,"March 4, 1921",Sixty-Seventh,"March 3, 1927",1192
+"Watson, Thomas, E.",D,GA,"March 4, 1921",Sixty-Seventh,"September 26, 1922",1193
+"Weller, Ovington, E.",R,MD,"March 4, 1921",Sixty-Seventh,"March 3, 1927",1194
+"Bursum, Holm, O.",R,NM,"March 11, 1921",Sixty-Seventh,"March 3, 1925",1195
+"Pont, T, . Coleman",R,DE,"July 7, 1921",Sixty-Seventh,"November 6, 1922",1196
+"Crow, William, E.",R,PA,"October 24, 1921",Sixty-Seventh,"August 2, 1922",1197
+"Pepper, George, Wharton",R,PA,"January 9, 1922",Sixty-Seventh,"March 3, 1927",1198
+"Rawson, Charles, A.",R,IA,"February 24, 1922",Sixty-Seventh,"December 1, 1922",1199
+"Reed, David, A.",R,PA,"August 8, 1922",Sixty-Seventh,"January 3, 1935",1200
+"Felton, Rebecca, L.",D,GA,"October 3, 1922",Sixty-Seventh,"November 21, 1922",1201
+"Bayard, Thomas, F., Jr.",D,DE,"November 8, 1922",Sixty-Seventh,"March 3, 1929",1202
+"George, Walter, F.",D,GA,"November 22, 1922",Sixty-Seventh,"January 3, 1957",1203
+"Couzens, James",R,MI,"November 29, 1922",Sixty-Seventh,"October 22, 1936",1204
+"Brookhart, Smith, W.",R,IA,"December 2, 1922",Sixty-Seventh,"April 12, 1926",1205
+"Bruce, William, Cabell",D,MD,"March 4, 1923",Sixty-Eighth,"March 3, 1929",1206
+"Copeland, Royal, S.",D,NY,"March 4, 1923",Sixty-Eighth,"June 17, 1938",1207
+"Dill, Clarence, C.",D,WA,"March 4, 1923",Sixty-Eighth,"January 3, 1935",1208
+"Edwards, Edward, I.",D,NJ,"March 4, 1923",Sixty-Eighth,"March 3, 1929",1209
+"Ferris, Woodbridge, N.",D,MI,"March 4, 1923",Sixty-Eighth,"March 23, 1928",1210
+"Fess, Simeon, D.",R,OH,"March 4, 1923",Sixty-Eighth,"January 3, 1935",1211
+"Frazier, Lynn, J.",R,ND,"March 4, 1923",Sixty-Eighth,"January 3, 1941",1212
+"Greene, Frank, L.",R,VT,"March 4, 1923",Sixty-Eighth,"December 17, 1930",1213
+"Howell, Robert, B.",R,NE,"March 4, 1923",Sixty-Eighth,"March 11, 1933",1214
+"Mayfield, Earle, B.",D,TX,"March 4, 1923",Sixty-Eighth,"March 3, 1929",1215
+"Neely, Matthew, M.",D,WV,"March 4, 1923",Sixty-Eighth,"March 3, 1929",1216
+"Ralston, Samuel, Moffet",D,IN,"March 4, 1923",Sixty-Eighth,"October 14, 1925",1217
+"Shipstead, Henrik",FL/R,MN,"March 4, 1923",Sixty-Eighth,"January 3, 1947",1218
+"Stephens, Hubert, D.",D,MS,"March 4, 1923",Sixty-Eighth,"January 3, 1935",1219
+"Wheeler, Burton, K.",D,MT,"March 4, 1923",Sixty-Eighth,"January 3, 1947",1220
+"Adams, Alva, B.",D,CO,"May 17, 1923",Sixty-Eighth,"November 30, 1924",1221
+"Johnson, Magnus",FL,MN,"July 17, 1923",Sixty-Eighth,"March 3, 1925",1222
+"Dale, Porter, H.",R,VT,"November 7, 1923",Sixty-Eighth,"October 6, 1933",1223
+"Metcalf, Jesse, H.",R,RI,"November 5, 1924",Sixty-Eighth,"January 3, 1937",1224
+"Butler, William, M.",R,MA,"November 13, 1924",Sixty-Eighth,"December 6, 1926",1225
+"Means, Rice, W.",R,CO,"December 1, 1924",Sixty-Eighth,"March 3, 1927",1226
+"Bingham, Hiram",R,CT,"January 8, 1925",Sixty-Eighth,"March 3, 1933",1227
+"Deneen, Charles, S.",R,IL,"February 26, 1925",Sixty-Eighth,"March 3, 1931",1228
+"Blease, Coleman, L.",D,SC,"March 4, 1925",Sixty-Ninth,"March 3, 1931",1229
+"Bratton, Sam, G.",D,NM,"March 4, 1925",Sixty-Ninth,"June 24, 1933",1230
+"Pont, T, . Coleman",R,DE,"March 4, 1925",Sixty-Ninth,"December 9, 1928",0
+"Gillett, Frederick, H.",R,MA,"March 4, 1925",Sixty-Ninth,"March 3, 1931",1231
+"Goff, Guy, D.",R,WV,"March 4, 1925",Sixty-Ninth,"March 3, 1931",1232
+"McMaster, William, H.",R,SD,"March 4, 1925",Sixty-Ninth,"March 3, 1931",1233
+"Pine, William, B.",R,OK,"March 4, 1925",Sixty-Ninth,"March 3, 1931",1234
+"Sackett, Frederic, M.",R,KY,"March 4, 1925",Sixty-Ninth,"January 9, 1930",1235
+"Schall, Thomas, D.",R,MN,"March 4, 1925",Sixty-Ninth,"December 22, 1935",1236
+"Tyson, Lawrence, D.",D,TN,"March 4, 1925",Sixty-Ninth,"August 24, 1929",1237
+"Williams, George, H.",R,MO,"May 25, 1925",Sixty-Ninth,"December 5, 1926",1238
+"Robinson, Arthur, R.",R,IN,"October 20, 1925",Sixty-Ninth,"January 3, 1935",1240
+"Nye, Gerald, P.",R,ND,"November 14, 1925",Sixty-Ninth,"January 3, 1945",1241
+"Steck, Daniel, F.",D,IA,"April 12, 1926",Sixty-Ninth,"March 3, 1931",1242
+"Stewart, David, W.",R,IA,"August 7, 1926",Sixty-Ninth,"March 3, 1927",1243
+"Gould, Arthur, R.",R,ME,"November 30, 1926",Sixty-Ninth,"March 3, 1931",1244
+"Hawes, Harry, B.",D,MO,"December 6, 1926",Sixty-Ninth,"February 3, 1933",1245
+"Walsh, David, I.",D,MA,"December 6, 1926",Sixty-Ninth,"January 3, 1947",0
+"Barkley, Alben, W.",D,KY,"March 4, 1927",Seventieth,"January 19, 1949",1247
+"Blaine, John, J.",R,WI,"March 4, 1927",Seventieth,"March 3, 1933",1249
+"Brookhart, Smith, W.",R,IA,"March 4, 1927",Seventieth,"March 3, 1933",0
+"Hayden, Carl",D,AZ,"March 4, 1927",Seventieth,"January 3, 1969",1250
+"Steiwer, Frederick",R,OR,"March 4, 1927",Seventieth,"January 31, 1938",1251
+"Thomas, J, .W. Elmer",D,OK,"March 4, 1927",Seventieth,"January 3, 1951",1252
+"Tydings, Millard, E.",D,MD,"March 4, 1927",Seventieth,"January 3, 1951",1253
+"Vare, William, S.",R,PA,"March 4, 1927",Seventieth,"December 6, 1929",1254
+"Wagner, Robert, F.",D,NY,"March 4, 1927",Seventieth,"June 28, 1949",1255
+"Waterman, Charles, W.",R,CO,"March 4, 1927",Seventieth,"August 27, 1932",1256
+"Cutting, Bronson",R,NM,"December 29, 1927",Seventieth,"December 6, 1928",1257
+"Vandenberg, Arthur, H.",R,MI,"March 31, 1928",Seventieth,"April 18, 1951",1258
+"Locher, Cyrus",D,OH,"April 4, 1928",Seventieth,"December 14, 1928",1259
+"Thomas, John",R,ID,"June 30, 1928",Seventieth,"March 3, 1933",1260
+"Glenn, Otis, F.",R,IL,"November 7, 1928",Seventieth,"March 3, 1933",1261
+"Larrazolo, Octaviano, A.",R,NM,"December 7, 1928",Seventieth,"March 3, 1929",1262
+"Hastings, Daniel, O.",R,DE,"December 10, 1928",Seventieth,"January 3, 1937",1263
+"Burton, Theodore, E.",R,OH,"December 15, 1928",Seventieth,"October 28, 1929",0
+"Connally, Tom",D,TX,"March 4, 1929",Seventy-First,"January 3, 1953",1264
+"Cutting, Bronson",R,NM,"March 4, 1929",Seventy-First,"May 6, 1935",0
+"Goldsborough, Phillips, Lee",R,MD,"March 4, 1929",Seventy-First,"January 3, 1935",1265
+"Hatfield, Henry, D.",R,WV,"March 4, 1929",Seventy-First,"January 3, 1935",1266
+"Hebert, Felix",R,RI,"March 4, 1929",Seventy-First,"January 3, 1935",1267
+"Kean, Hamilton",R,NJ,"March 4, 1929",Seventy-First,"January 3, 1935",1268
+"Patterson, Roscoe, C.",R,MO,"March 4, 1929",Seventy-First,"January 3, 1935",1269
+"Townsend, John, G., Jr.",R,DE,"March 4, 1929",Seventy-First,"January 3, 1941",1270
+"Walcott, Frederic, C.",R,CT,"March 4, 1929",Seventy-First,"January 3, 1935",1271
+"Allen, Henry, J.",R,KS,"April 1, 1929",Seventy-First,"November 30, 1930",1272
+"Brock, William, E.",D,TN,"September 2, 1929",Seventy-First,"March 3, 1931",1273
+"McCulloch, Roscoe, C.",R,OH,"November 5, 1929",Seventy-First,"November 30, 1930",1274
+"Baird, David, , Jr.",R,NJ,"November 30, 1929",Seventy-First,"December 2, 1930",1275
+"Sullivan, Patrick, J.",R,WY,"December 5, 1929",Seventy-First,"November 20, 1930",1276
+"Robsion, John, M.",R,KY,"January 11, 1930",Seventy-First,"November 30, 1930",1278
+"Bulkley, Robert, J.",D,OH,"December 1, 1930",Seventy-First,"January 3, 1939",1279
+"Carey, Robert, D.",R,WY,"December 1, 1930",Seventy-First,"January 3, 1937",1280
+"McGill, George",D,KS,"December 1, 1930",Seventy-First,"January 3, 1939",1281
+"Williamson, Ben, M.",D,KY,"December 1, 1930",Seventy-First,"March 3, 1931",1282
+"Davis, James, J.",R,PA,"December 2, 1930",Seventy-First,"January 3, 1945",1283
+"Morrow, Dwight, W.",R,NJ,"December 3, 1930",Seventy-First,"October 5, 1931",1284
+"Morrison, Cameron, A.",D,NC,"December 13, 1930",Seventy-First,"December 4, 1932",1285
+"Partridge, Frank, C.",R,VT,"December 23, 1930",Seventy-First,"March 31, 1931",1286
+"Bailey, Josiah, W.",D,NC,"March 4, 1931",Seventy-Second,"December 15, 1946",1287
+"Bankhead, John, H., 2d",D,AL,"March 4, 1931",Seventy-Second,"June 12, 1946",1288
+"Bulow, William, J.",D,SD,"March 4, 1931",Seventy-Second,"January 3, 1943",1289
+"Byrnes, James, F.",D,SC,"March 4, 1931",Seventy-Second,"July 8, 1941",1290
+"Coolidge, Marcus, A.",D,MA,"March 4, 1931",Seventy-Second,"January 3, 1937",1291
+"Costigan, Edward, P.",D,CO,"March 4, 1931",Seventy-Second,"January 3, 1937",1292
+"Dickinson, L, .J.",R,IA,"March 4, 1931",Seventy-Second,"January 3, 1937",1293
+"Gore, Thomas, P.",D,OK,"March 4, 1931",Seventy-Second,"January 3, 1937",0
+"Hull, Cordell",D,TN,"March 4, 1931",Seventy-Second,"March 3, 1933",1294
+"Logan, Marvel, M.",D,KY,"March 4, 1931",Seventy-Second,"October 3, 1939",1295
+"Neely, Matthew, M.",D,WV,"March 4, 1931",Seventy-Second,"January 12, 1941",0
+"White, Wallace, H., Jr.",R,ME,"March 4, 1931",Seventy-Second,"January 3, 1949",1296
+"Austin, Warren, R.",R,VT,"April 1, 1931",Seventy-Second,"August 2, 1946",1297
+"Caraway, Hattie, W.",D,AR,"November 13, 1931",Seventy-Second,"January 3, 1945",1298
+"Barbour, W, . Warren",D,NJ,"December 1, 1931",Seventy-Second,"January 3, 1937",1299
+"Long, Huey, P.",D,LA,"January 25, 1932",Seventy-Second,"September 10, 1935",1300
+"Cohen, John, S.",D,GA,"April 25, 1932",Seventy-Second,"January 11, 1933",1301
+"Walker, Walter",D,CO,"September 26, 1932",Seventy-Second,"December 6, 1932",1302
+"Grammer, Elijah, S.",R,WA,"November 22, 1932",Seventy-Second,"March 3, 1933",1303
+"Reynolds, Robert, R.",D,NC,"December 5, 1932",Seventy-Second,"January 3, 1945",1304
+"Schuyler, Karl, C.",R,CO,"December 7, 1932",Seventy-Second,"March 3, 1933",1305
+"Russell, Richard, B., Jr.",D,GA,"January 12, 1933",Seventy-Second,"January 21, 1971",1306
+"Clark, Joel, Bennett (Champ)",D,MO,"February 4, 1933",Seventy-Second,"January 3, 1945",1307
+"Bachman, Nathan, L.",D,TN,"February 28, 1933",Seventy-Second,"April 23, 1937",1308
+"Adams, Alva, B.",D,CO,"March 4, 1933",Seventy-Third,"December 1, 1941",0
+"Bone, Homer, T.",D,WA,"March 4, 1933",Seventy-Third,"November 13, 1944",1309
+"Brown, Fred, H.",D,NH,"March 4, 1933",Seventy-Third,"January 3, 1939",1310
+"Byrd, Harry, Flood",D,VA,"March 4, 1933",Seventy-Third,"November 10, 1965",1311
+"Dieterich, William, H.",D,IL,"March 4, 1933",Seventy-Third,"January 3, 1939",1312
+"Lonergan, Augustine",D,CT,"January 3, 1933",Seventy-Third,"January 3, 1939",1314
+"McAdoo, William, Gibbs",D,CA,"January 3, 1933",Seventy-Third,"November 8, 1938",1315
+"McCarran, Patrick, A. (Pat)",,NV,"January 3, 1933",Seventy-Third,"September 28, 1954",1316
+"Murphy, Richard, Louis",D,IA,"January 3, 1933",Seventy-Third,"July 16, 1936",1317
+"Overton, John, H.",D,LA,"January 3, 1933",Seventy-Third,"May 14, 1948",1318
+"Pope, James, P.",D,ID,"January 3, 1933",Seventy-Third,"January 3, 1939",1319
+"Thomas, Elbert, D.",D,UT,"January 3, 1933",Seventy-Third,"January 3, 1951",1320
+"Nuys, Frederick",D,IN,"January 3, 1933",Seventy-Third,"January 25, 1944",1321
+"Erickson, John, E.",D,MT,"March 13, 1933",Seventy-Third,"November 6, 1934",1322
+"Thompson, William, H.",D,NE,"May 24, 1933",Seventy-Third,"November 6, 1934",1323
+"Hatch, Carl, A.",D,NM,"October 10, 1933",Seventy-Third,"January 3, 1949",1324
+"Gibson, Ernest, W.",R,VT,"November 21, 1933",Seventy-Third,"June 20, 1940",1325
+"Mahoney, Joseph, C.",D,WY,"January 1, 1934",Seventy-Third,"January 3, 1953",1326
+"Murray, James, E.",D,MT,"November 7, 1934",Seventy-Third,"January 3, 1961",1327
+"Hunter, Richard, C.",D,NE,"November 7, 1934",Seventy-Third,"January 3, 1935",1328
+"Bilbo, Theodore, G.",D,MS,"January 3, 1935",Seventy-Fourth,"August 21, 1947",1329
+"Burke, Edward, R.",D,NE,"January 3, 1935",Seventy-Fourth,"January 3, 1941",1330
+"Donahey, Vic",D,OH,"January 3, 1935",Seventy-Fourth,"January 3, 1941",1331
+"Gerry, Peter, G.",D,RI,"January 3, 1935",Seventy-Fourth,"January 3, 1947",0
+"Guffey, Joseph, F.",D,PA,"January 3, 1935",Seventy-Fourth,"January 3, 1947",1332
+"Maloney, Francis, T.",D,CT,"January 3, 1935",Seventy-Fourth,"January 16, 1945",1333
+"Minton, Sherman",D,IN,"January 3, 1935",Seventy-Fourth,"January 3, 1941",1334
+"Moore, A, . Harry",D,NJ,"January 3, 1935",Seventy-Fourth,"January 17, 1938",1335
+"Radcliffe, George, L.P.",D,MD,"January 3, 1935",Seventy-Fourth,"January 3, 1947",1336
+"Schwellenbach, Lewis, B.",D,WA,"January 3, 1935",Seventy-Fourth,"December 16, 1940",1337
+"Truman, Harry, S.",D,MO,"January 3, 1935",Seventy-Fourth,"January 17, 1945",1338
+"Chavez, Dennis",D,NM,"May 11, 1935",Seventy-Fourth,"November 18, 1962",1339
+"Holt, Rush, D.",D,WV,"June 21, 1935",Seventy-Fourth,"January 3, 1941",1340
+"Benson, Elmer, A.",FL,MN,"December 27, 1935",Seventy-Fourth,"November 3, 1936",1341
+"Long, Rose, McConnell",D,LA,"January 31, 1936",Seventy-Fourth,"January 3, 1937",1342
+"Loftin, Scott, M.",D,FL,"May 26, 1936",Seventy-Fourth,"November 3, 1936",1343
+"Hill, William, L.",D,FL,"July 1, 1936",Seventy-Fourth,"November 3, 1936",1344
+"Andrews, Charles, O.",D,FL,"November 4, 1936",Seventy-Fourth,"September 18, 1946",1345
+"Gillette, Guy, M.",D,IA,"November 4, 1936",Seventy-Fourth,"January 3, 1945",1346
+"Howard, Guy, V.",R,MN,"November 4, 1936",Seventy-Fourth,"January 3, 1937",1347
+"Pepper, Claude",D,FL,"November 4, 1936",Seventy-Fourth,"January 3, 1951",1348
+"Brown, Prentiss, M.",D,MI,"November 19, 1936",Seventy-Fourth,"January 3, 1943",1349
+"Hitchcock, Herbert, E.",D,SD,"December 29, 1936",Seventy-Fourth,"November 8, 1938",1350
+"Bridges, Styles",R,NH,"January 3, 1937",Seventy-Fifth,"November 26, 1961",1351
+"Ellender, Allen, J.",D,LA,"January 3, 1937",Seventy-Fifth,"July 27, 1972",1352
+"Green, Theodore, F.",D,RI,"January 3, 1937",Seventy-Fifth,"January 3, 1961",1353
+"Hughes, James, H.",D,DE,"January 3, 1937",Seventy-Fifth,"January 3, 1943",1354
+"Johnson, Edwin, C.",D,CO,"January 3, 1937",Seventy-Fifth,"January 3, 1955",1355
+"Lee, Joshua, B.",D,OK,"January 3, 1937",Seventy-Fifth,"January 3, 1943",1356
+"Cabot, Jr, .",R,MA,"January 3, 1937",Seventy-Fifth,"February 3, 1944",1357
+"Lundeen, Ernest",FL,MN,"January 3, 1937",Seventy-Fifth,"August 31, 1940",1358
+"Schwartz, Henry, H.",D,WY,"January 3, 1937",Seventy-Fifth,"January 3, 1943",1359
+"Herring, Clyde, L.",D,IA,"January 3, 1937",Seventy-Fifth,"January 3, 1943",1360
+"Smathers, William, H.",D,NJ,"April 15, 1937",Seventy-Fifth,"January 3, 1943",1361
+"Berry, George, L.",D,TN,"May 6, 1937",Seventy-Fifth,"November 8, 1938",1362
+"Graves, Dixie, Bibb",D,AL,"August 20, 1937",Seventy-Fifth,"January 10, 1938",1363
+"Miller, John, E.",D,AR,"November 15, 1937",Seventy-Fifth,"March 31, 1941",1364
+"Hill, J, . Lister",D,AL,"January 11, 1938",Seventy-Fifth,"January 3, 1969",1365
+"Milton, John",D,NJ,"January 18, 1938",Seventy-Fifth,"November 8, 1938",1366
+"Reames, Alfred, Evan",D,OR,"February 1, 1938",Seventy-Fifth,"November 8, 1938",1367
+"Barry, Alexander, G.",R,OR,"November 9, 1938",Seventy-Fifth,"January 3, 1939",1368
+"Barbour, W, . Warren",R,NJ,"November 9, 1938",Seventy-Fifth,"November 22, 1943",0
+"Pyle, Gladys",R,SD,"November 9, 1938",Seventy-Fifth,"January 3, 1939",1369
+"Storke, Thomas, M.",D,CA,"November 9, 1938",Seventy-Fifth,"January 3, 1939",1370
+"Mead, James, M.",D,NY,"December 3, 1938",Seventy-Fifth,"January 3, 1947",1371
+"Clark, D, . Worth",D,ID,"January 3, 1939",Seventy-Sixth,"January 3, 1945",1372
+"Danaher, John, A.",R,CT,"January 3, 1939",Seventy-Sixth,"January 3, 1945",1373
+"Downey, Sheridan",D,CA,"January 3, 1939",Seventy-Sixth,"November 30, 1950",1374
+"Gurney, J, . Chandler",R,SD,"January 3, 1939",Seventy-Sixth,"January 3, 1951",1375
+"Holman, Rufus, C.",R,OR,"January 3, 1939",Seventy-Sixth,"January 3, 1945",1376
+"Lucas, Scott, W.",D,IL,"January 3, 1939",Seventy-Sixth,"January 3, 1951",1377
+"Reed, Clyde, M.",R,KS,"January 3, 1939",Seventy-Sixth,"November 8, 1949",1378
+"Taft, Robert, A.",R,OH,"January 3, 1939",Seventy-Sixth,"July 31, 1953",1379
+"Tobey, Charles, W.",R,NH,"January 3, 1939",Seventy-Sixth,"July 24, 1953",1380
+"Wiley, Alexander",R,WI,"January 3, 1939",Seventy-Sixth,"January 3, 1963",1381
+"Stewart, A.T. (Tom)",D,TN,"January 16, 1939",Seventy-Sixth,"January 3, 1949",1382
+"Slattery, James, M.",D,IL,"April 14, 1939",Seventy-Sixth,"November 21, 1940",1383
+"Chandler, Albert, B.",D,KY,"October 10, 1939",Seventy-Sixth,"November 1, 1945",1384
+"Thomas, John",R,ID,"January 27, 1940",Seventy-Sixth,"November 10, 1945",0
+"Gibson, Ernest, W., Jr.",R,VT,"June 24, 1940",Seventy-Sixth,"January 3, 1941",1385
+"Ball, Joseph, H.",R,MN,"October 14, 1940",Seventy-Sixth,"November 17, 1942",1386
+"Brooks, C, . Wayland",R,IL,"November 22, 1940",Seventy-Sixth,"January 3, 1949",1387
+"Bunker, Berkeley, L.",D,NV,"November 27, 1940",Seventy-Sixth,"December 6, 1942",1388
+"Wallgren, Monrad, C.",D,WA,"December 19, 1940",Seventy-Sixth,"January 9, 1945",1389
+"Brewster, Ralph, O.",R,ME,"January 3, 1941",Seventy-Seventh,"December 31, 1952",1390
+"Burton, Harold, H.",R,OH,"January 3, 1941",Seventy-Seventh,"September 30, 1945",1391
+"Butler, Hugh, A.",R,NE,"January 3, 1941",Seventy-Seventh,"July 1, 1954",1392
+"Kilgore, Harley, M.",D,WV,"January 3, 1941",Seventy-Seventh,"February 28, 1956",1393
+"Langer, William",R,ND,"January 3, 1941",Seventy-Seventh,"November 8, 1959",1394
+"McFarland, Ernest, W.",D,AZ,"January 3, 1941",Seventy-Seventh,"January 3, 1953",1395
+"Murdock, Abe",D,UT,"January 3, 1941",Seventy-Seventh,"January 3, 1947",1396
+"Tunnell, James, M.",D,DE,"January 3, 1941",Seventy-Seventh,"January 3, 1947",1397
+"Willis, Raymond, E.",R,IN,"January 3, 1941",Seventy-Seventh,"January 3, 1947",1398
+"Aiken, George, D.",R,VT,"January 10, 1941",Seventy-Seventh,"January 3, 1975",1399
+"Rosier, Joseph",D,WV,"January 13, 1941",Seventy-Seventh,"November 17, 1942",1400
+"Spencer, G, . Lloyd",D,AR,"April 1, 1941",Seventy-Seventh,"January 3, 1943",1401
+"Houston, Andrew, Jackson",D,TX,"April 21, 1941",Seventy-Seventh,"June 26, 1941",1402
+"Eastland, James, O.",D,MS,"June 30, 1941",Seventy-Seventh,"September 28, 1941",1403
+"Lumpkin, Alva, M.",D,SC,"July 22, 1941",Seventy-Seventh,"August 1, 1941",1404
+"Daniel, W, . Lee",D,TX,"August 4, 1941",Seventy-Seventh,"January 3, 1949",1405
+"Peace, Roger, C.",D,SC,"August 5, 1941",Seventy-Seventh,"November 4, 1941",1406
+"Doxey, Wall",D,MS,"September 29, 1941",Seventy-Seventh,"January 3, 1943",1407
+"Maybank, Burnet, R.",D,SC,"November 5, 1941",Seventy-Seventh,"September 1, 1954",1408
+"Millikin, Eugene, D.",R,CO,"December 20, 1941",Seventy-Seventh,"January 3, 1957",1409
+"Nelson, Arthur, E.",R,MN,"November 18, 1942",Seventy-Seventh,"January 3, 1943",1410
+"Shott, Hugh, I.",R,WV,"November 18, 1942",Seventy-Seventh,"January 3, 1943",1411
+"Scrugham, James, G.",D,NV,"December 7, 1942",Seventy-Seventh,"June 23, 1945",1412
+"Ball, Joseph, H.",R,MN,"January 3, 1943",Seventy-Eighth,"January 3, 1949",0
+"Buck, C, . Douglass",R,DE,"January 3, 1943",Seventy-Eighth,"January 3, 1949",1413
+"Bushfield, Harlan, J.",R,SD,"January 3, 1943",Seventy-Eighth,"September 27, 1948",1414
+"Eastland, James, O.",D,MS,"January 3, 1943",Seventy-Eighth,"December 27, 1978",0
+"Ferguson, Homer",R,MI,"January 3, 1943",Seventy-Eighth,"January 3, 1955",1415
+"Hawkes, Albert, W.",R,NJ,"January 3, 1943",Seventy-Eighth,"January 3, 1949",1416
+"McClellan, John, L.",D,AR,"January 3, 1943",Seventy-Eighth,"November 28, 1977",1417
+"Moore, Edward, H.",R,OK,"January 3, 1943",Seventy-Eighth,"January 3, 1949",1418
+"Revercomb, Chapman",R,WV,"January 3, 1943",Seventy-Eighth,"January 3, 1949",1419
+"Robertson, Edward, V.",R,WY,"January 3, 1943",Seventy-Eighth,"January 3, 1949",1420
+"Wherry, Kenneth, S.",R,NE,"January 3, 1943",Seventy-Eighth,"November 29, 1951",1421
+"Wilson, George, A.",R,IA,"January 14, 1943",Seventy-Eighth,"January 3, 1949",1422
+"Walsh, Arthur",D,NJ,"November 26, 1943",Seventy-Eighth,"December 7, 1944",1423
+"Jackson, Samuel, D.",D,IN,"January 28, 1944",Seventy-Eighth,"November 13, 1944",1424
+"Weeks, Sinclair",R,MA,"February 8, 1944",Seventy-Eighth,"December 19, 1944",1425
+"Cordon, Guy",R,OR,"March 4, 1944",Seventy-Eighth,"January 3, 1955",1426
+"Jenner, William, E.",R,IN,"November 19, 1944",Seventy-Eighth,"January 3, 1945",1427
+"Hall, Wilton, E.",D,SC,"November 20, 1944",Seventy-Eighth,"January 3, 1945",1428
+"Smith, H, . Alexander",R,NJ,"December 7, 1944",Seventy-Eighth,"January 3, 1959",1429
+"Magnuson, Warren, G.",D,WA,"December 14, 1944",Seventy-Eighth,"January 3, 1981",1430
+"Capehart, Homer, E.",R,IN,"January 3, 1945",Seventy-Ninth,"January 3, 1963",1431
+"Hickenlooper, Bourke, B.",R,IA,"January 3, 1945",Seventy-Ninth,"January 3, 1969",1433
+"Hoey, Clyde, R.",D,NC,"January 3, 1945",Seventy-Ninth,"May 12, 1954",1434
+"Johnston, Olin, D.",D,SC,"January 3, 1945",Seventy-Ninth,"April 18, 1965",1435
+"McMahon, Brien",D,CT,"January 3, 1945",Seventy-Ninth,"July 28, 1952",1436
+"Morse, Wayne, L.",R/I/D,OR,"January 3, 1945",Seventy-Ninth,"January 3, 1969",1437
+"Moses, John",D,ND,"January 3, 1945",Seventy-Ninth,"March 3, 1945",1438
+"Myers, Francis, J.",D,PA,"January 3, 1945",Seventy-Ninth,"January 3, 1951",1439
+"Taylor, Glen, H.",D,ID,"January 3, 1945",Seventy-Ninth,"January 3, 1951",1440
+"Saltonstall, Leverett",R,MA,"January 4, 1945",Seventy-Ninth,"January 3, 1967",1441
+"Donnell, Forrest, C.",R,MO,"January 10, 1945",Seventy-Ninth,"January 3, 1951",1442
+"Mitchell, Hugh, B.",D,WA,"January 10, 1945",Seventy-Ninth,"December 25, 1946",1443
+"Briggs, Frank, P.",D,MO,"January 18, 1945",Seventy-Ninth,"January 3, 1947",1444
+"Hart, Thomas, C.",R,CT,"February 15, 1945",Seventy-Ninth,"November 5, 1946",1445
+"Young, Milton, R.",R,ND,"March 12, 1945",Seventy-Ninth,"January 3, 1981",1446
+"Carville, Edward, P.",D,NV,"July 25, 1945",Seventy-Ninth,"January 3, 1947",1447
+"Knowland, William, F.",R,CA,"August 26, 1945",Seventy-Ninth,"January 3, 1959",1448
+"Huffman, James, W.",D,OH,"October 8, 1945",Seventy-Ninth,"November 5, 1946",1449
+"Gossett, Charles",D,ID,"November 17, 1945",Seventy-Ninth,"November 6, 1946",1450
+"Stanfill, William, A.",R,KY,"November 19, 1945",Seventy-Ninth,"November 5, 1946",1451
+"Burch, Thomas, G.",D,VA,"May 31, 1946",Seventy-Ninth,"November 5, 1946",1452
+"Swift, George, R.",D,AL,"June 15, 1946",Seventy-Ninth,"November 5, 1946",1453
+"Holland, Spessard, L.",D,FL,"September 25, 1946",Seventy-Ninth,"January 3, 1971",1454
+"Flanders, Ralph, E.",R,VT,"November 1, 1946",Seventy-Ninth,"January 3, 1959",1455
+"Cooper, John, Sherman",R,KY,"November 6, 1946",Seventy-Ninth,"January 3, 1949",1456
+"Dworshak, Henry, C.",R,ID,"November 6, 1946",Seventy-Ninth,"January 3, 1949",1457
+"Robertson, A, . Willis",D,VA,"November 6, 1946",Seventy-Ninth,"December 30, 1966",1458
+"Sparkman, John, J.",D,AL,"November 6, 1946",Seventy-Ninth,"January 3, 1979",1459
+"Taft, Kingsley, A.",R,OH,"November 6, 1946",Seventy-Ninth,"January 3, 1947",1460
+"Umstead, William, B.",D,NC,"December 18, 1946",Seventy-Ninth,"December 30, 1948",1461
+"Cain, Harry, P.",R,WA,"December 26, 1946",Seventy-Ninth,"January 3, 1953",1462
+"Baldwin, Raymond, E.",R,CT,"December 27, 1946",Seventy-Ninth,"December 16, 1949",1463
+"Bricker, John, W.",R,OH,"January 3, 1947",Eightieth,"January 3, 1959",1464
+"Ecton, Zales, N.",R,MT,"January 3, 1947",Eightieth,"January 3, 1953",1465
+"Ives, Irving, M.",R,NY,"January 3, 1947",Eightieth,"January 3, 1959",1466
+"Jenner, William, E.",R,IN,"January 3, 1947",Eightieth,"January 3, 1959",0
+"Kem, James, P.",R,MO,"January 3, 1947",Eightieth,"January 3, 1953",1467
+"Cabot, Jr, .",R,MA,"January 3, 1947",Eightieth,"January 3, 1953",0
+"Malone, George, W.",R,NV,"January 3, 1947",Eightieth,"January 3, 1959",1468
+"Martin, Edward",R,PA,"January 3, 1947",Eightieth,"January 3, 1959",1469
+"McCarthy, Joseph, R.",R,WI,"January 3, 1947",Eightieth,"May 2, 1957",1470
+"McGrath, J, . Howard",D,RI,"January 3, 1947",Eightieth,"August 23, 1949",1471
+"Conor, Herbert, R.",D,MD,"January 3, 1947",Eightieth,"January 3, 1953",1472
+"Thye, Edward, J.",R,MN,"January 3, 1947",Eightieth,"January 3, 1959",1473
+"Watkins, Arthur, V.",R,UT,"January 3, 1947",Eightieth,"January 3, 1959",1474
+"Williams, John, J.",R,DE,"January 3, 1947",Eightieth,"December 31, 1970",1475
+"Stennis, John, C.",D,MS,"November 17, 1947",Eightieth,"January 3, 1989",1476
+"Feazel, William, C.",D,LA,"May 18, 1948",Eightieth,"December 30, 1948",1477
+"Bushfield, Vera, C.",R,SD,"October 6, 1948",Eightieth,"December 26, 1948",1478
+"Broughton, J, . Melville",D,NC,"December 31, 1948",Eightieth,"March 6, 1949",1479
+"Long, Russell, B.",D,LA,"December 31, 1948",Eightieth,"January 3, 1987",1480
+"Mundt, Karl, E.",R,SD,"December 31, 1948",Eightieth,"January 3, 1973",1481
+"Anderson, Clinton, P.",D,NM,"January 3, 1949",Eighty-First,"January 3, 1973",1482
+"Chapman, Virgil, M.",D,KY,"January 3, 1949",Eighty-First,"March 8, 1951",1483
+"Douglas, Paul, H.",D,IL,"January 3, 1949",Eighty-First,"January 3, 1967",1484
+"Allan, Jr, .",D,DE,"January 3, 1949",Eighty-First,"January 3, 1961",1485
+"Gillette, Guy, M.",D,IA,"January 3, 1949",Eighty-First,"January 3, 1955",0
+"Hendrickson, Robert, C.",R,NJ,"January 3, 1949",Eighty-First,"January 3, 1955",1486
+"Humphrey, Hubert, H.",D,MN,"January 3, 1949",Eighty-First,"December 29, 1964",1487
+"Hunt, Lester, C.",D,WY,"January 3, 1949",Eighty-First,"June 19, 1954",1488
+"Johnson, Lyndon, B.",D,TX,"January 3, 1949",Eighty-First,"January 3, 1961",1489
+"Kefauver, Estes",D,TN,"January 3, 1949",Eighty-First,"August 10, 1963",1490
+"Kerr, Robert, S.",D,OK,"January 3, 1949",Eighty-First,"January 1, 1963",1491
+"Miller, Bert, H.",D,ID,"January 3, 1949",Eighty-First,"October 8, 1949",1492
+"Neely, Mathew, M.",D,WV,"January 3, 1949",Eighty-First,"January 18, 1958",0
+"Schoeppel, Andrew, F.",R,KS,"January 3, 1949",Eighty-First,"January 21, 1962",1493
+"Smith, Margaret, Chase",R,ME,"January 3, 1949",Eighty-First,"January 3, 1973",1494
+"Withers, Garrett, L.",D,KY,"January 20, 1949",Eighty-First,"November 26, 1950",1495
+"Graham, Frank, P.",D,NC,"March 29, 1949",Eighty-First,"November 26, 1950",1496
+"Dulles, John, Foster",R,NY,"July 7, 1949",Eighty-First,"November 8, 1949",1497
+"Leahy, Edward, L.",D,RI,"August 24, 1949",Eighty-First,"December 18, 1950",1498
+"Dworshak, Henry, C.",R,ID,"October 14, 1949",Eighty-First,"July 23, 1962",0
+"Lehman, Herbert, H.",D,NY,"November 9, 1949",Eighty-First,"January 3, 1957",1499
+"Darby, Harry",R,KS,"December 2, 1949",Eighty-First,"November 28, 1950",1500
+"Benton, William",D,CT,"December 17, 1949",Eighty-First,"January 3, 1953",1501
+"Clements, Earle, C.",D,KY,"November 27, 1950",Eighty-First,"January 3, 1957",1502
+"Smith, Willis",D,NC,"November 27, 1950",Eighty-First,"June 26, 1953",1503
+"Carlson, Frank",R,KS,"November 27, 1950",Eighty-First,"January 3, 1969",1504
+"Nixon, Richard, M.",R,CA,"December 1, 1950",Eighty-First,"January 1, 1953",1505
+"Pastore, John, O.",D,RI,"December 19, 1950",Eighty-First,"December 28, 1976",1506
+"Bennett, Wallace, F.",R,UT,"January 3, 1951",Eighty-Second,"December 20, 1974",1507
+"Butler, John, M.",R,MD,"January 3, 1951",Eighty-Second,"January 3, 1963",1508
+"Case, Francis",R,SD,"January 3, 1951",Eighty-Second,"June 22, 1962",1509
+"Dirksen, Everett, M.",R,IL,"January 3, 1951",Eighty-Second,"September 7, 1969",1510
+"Hennings, Thomas, C., Jr.",D,MO,"January 3, 1951",Eighty-Second,"September 13, 1960",1511
+"Monroney, A, .S. Mike",D,OK,"January 3, 1951",Eighty-Second,"January 3, 1969",1512
+"Smathers, George, A.",D,FL,"January 3, 1951",Eighty-Second,"January 3, 1969",1513
+"Welker, Herman",R,ID,"January 3, 1951",Eighty-Second,"January 3, 1957",1514
+"Duff, James, H.",R,PA,"January 16, 1951",Eighty-Second,"January 3, 1957",1515
+"Underwood, Thomas, R.",D,KY,"March 19, 1951",Eighty-Second,"November 4, 1952",1516
+"Moody, Blair",D,MI,"April 23, 1951",Eighty-Second,"November 4, 1952",1517
+"Seaton, Fred, A.",R,NE,"December 10, 1951",Eighty-Second,"November 4, 1952",1518
+"Purtell, William, A.",R,CT,"August 29, 1952",Eighty-Second,"November 4, 1952",1519
+"Bush, Prescott",R,CT,"November 5, 1952",Eighty-Second,"January 3, 1963",1520
+"Cooper, John, Sherman",R,KY,"November 5, 1952",Eighty-Second,"January 3, 1955",0
+"Griswold, Dwight",R,NE,"November 5, 1952",Eighty-Second,"April 12, 1954",1521
+"Potter, Charles, E.",R,MI,"November 5, 1952",Eighty-Second,"January 3, 1959",1522
+"Kuchel, Thomas, H.",R,CA,"January 2, 1953",Eighty-Second,"January 3, 1969",1523
+"Barrett, Frank, A.",R,WY,"January 3, 1953",Eighty-Third,"January 3, 1959",1524
+"Beall, J, . Glenn",R,MD,"January 3, 1953",Eighty-Third,"January 3, 1965",1525
+"Daniel, M, . Price",D,TX,"January 3, 1953",Eighty-Third,"January 14, 1957",1526
+"Goldwater, Barry",R,AZ,"January 3, 1953",Eighty-Third,"January 3, 1965",1527
+"Gore, Albert",D,TN,"January 3, 1953",Eighty-Third,"January 3, 1971",1528
+"Jackson, Henry, M.",D,WA,"January 3, 1953",Eighty-Third,"September 1, 1983",1529
+"Kennedy, John, F.",D,MA,"January 3, 1953",Eighty-Third,"December 22, 1960",1530
+"Mansfield, Mike",D,MT,"January 3, 1953",Eighty-Third,"January 3, 1977",1531
+"Payne, Frederick, G.",R,ME,"January 3, 1953",Eighty-Third,"January 3, 1959",1532
+"Purtell, William, A.",R,CT,"January 3, 1953",Eighty-Third,"January 3, 1959",0
+"Symington, Stuart",D,MO,"January 3, 1953",Eighty-Third,"December 27, 1976",1533
+"Lennon, Alton, A.",D,NC,"July 10, 1953",Eighty-Third,"November 28, 1954",1534
+"Upton, Robert, W.",R,NH,"August 14, 1953",Eighty-Third,"November 7, 1954",1535
+"Burke, Thomas, A.",D,OH,"November 10, 1953",Eighty-Third,"December 2, 1954",1536
+"Bowring, Eva",R,NE,"April 16, 1954",Eighty-Third,"November 7, 1954",1537
+"Ervin, Samuel, J., Jr.",D,NC,"June 5, 1954",Eighty-Third,"December 31, 1974",1538
+"Crippa, Edward, D.",R,WY,"June 24, 1954",Eighty-Third,"November 28, 1954",1539
+"Reynolds, Samuel, W.",R,NE,"July 3, 1954",Eighty-Third,"November 7, 1954",1540
+"Daniel, Charles, E.",D,SC,"September 6, 1954",Eighty-Third,"December 23, 1954",1541
+"Brown, Ernest, S.",R,NV,"October 1, 1954",Eighty-Third,"December 1, 1954",1542
+"Abel, Hazel, H.",R,NE,"November 8, 1954",Eighty-Third,"December 31, 1954",1543
+"Cotton, Norris",R,NH,"November 8, 1954",Eighty-Third,"December 31, 1974",1544
+"Hruska, Roman, L.",R,NE,"November 8, 1954",Eighty-Third,"December 27, 1976",1545
+"Mahoney, Joseph, C.",D,WY,"November 29, 1954",Eighty-Third,"January 3, 1961",0
+"Scott, W, . Kerr",D,NC,"November 29, 1954",Eighty-Third,"April 16, 1958",1546
+"Bible, Alan",D,NV,"December 2, 1954",Eighty-Third,"December 17, 1974",1547
+"Bender, George, H.",R,OH,"December 16, 1954",Eighty-Third,"January 3, 1957",1548
+"Thurmond, Strom",I,SC,"December 24, 1954",Eighty-Third,"April 4, 1956",1549
+"Curtis, Carl, T.",R,NE,"January 1, 1955",Eighty-Third,"January 3, 1979",1550
+"Allott, Gordon",R,CO,"January 3, 1955",Eighty-Fourth,"January 3, 1973",1551
+"Barkley, Alben, W.",D,KY,"January 3, 1955",Eighty-Fourth,"April 30, 1956",0
+"Case, Clifford, P.",R,NJ,"January 3, 1955",Eighty-Fourth,"January 3, 1979",1552
+"Martin, Thomas, E.",R,IA,"January 3, 1955",Eighty-Fourth,"January 3, 1961",1553
+"Neuberger, Richard, L.",D,OR,"January 3, 1955",Eighty-Fourth,"March 9, 1960",1555
+"Laird, William, R., III",D,WV,"March 13, 1956",Eighty-Fourth,"November 6, 1956",1556
+"Wofford, Thomas, A.",D,SC,"April 5, 1956",Eighty-Fourth,"November 6, 1956",1557
+"Humphreys, Robert",D,KY,"June 21, 1956",Eighty-Fourth,"November 6, 1956",1558
+"Cooper, John, Sherman",R,KY,"November 7, 1956",Eighty-Fourth,"January 3, 1973",0
+"Revercomb, Chapman",R,WV,"November 7, 1956",Eighty-Fourth,"January 3, 1959",0
+"Thurmond, Strom",D/R,SC,"November 7, 1956",Eighty-Fourth,"January 3, 2003",0
+"Carroll, John, A.",D,CO,"January 3, 1957",Eighty-Fifth,"January 3, 1963",1559
+"Church, Frank",D,ID,"January 3, 1957",Eighty-Fifth,"January 3, 1981",1560
+"Clark, Joseph, S.",D,PA,"January 3, 1957",Eighty-Fifth,"January 3, 1969",1561
+"Lausche, Frank, J.",D,OH,"January 3, 1957",Eighty-Fifth,"January 3, 1969",1562
+"Morton, Thruston, B.",R,KY,"January 3, 1957",Eighty-Fifth,"December 16, 1968",1563
+"Talmadge, Herman, E.",D,GA,"January 3, 1957",Eighty-Fifth,"January 3, 1981",1564
+"Javits, Jacob, K.",R,NY,"January 9, 1957",Eighty-Fifth,"January 3, 1981",1565
+"Blakley, William, A.",D,TX,"January 15, 1957",Eighty-Fifth,"April 28, 1957",1566
+"Yarborough, Ralph, W.",D,TX,"April 29, 1957",Eighty-Fifth,"January 3, 1971",1567
+"Proxmire, William",D,WI,"August 28, 1957",Eighty-Fifth,"January 3, 1989",1568
+"Hoblitzell, John, D., Jr.",R,WV,"January 25, 1958",Eighty-Fifth,"November 4, 1958",1569
+"Jordan, B, . Everett",D,NC,"April 19, 1958",Eighty-Fifth,"January 3, 1973",1570
+"Randolph, Jennings",D,WV,"November 5, 1958",Eighty-Fifth,"January 3, 1985",1571
+"Young, Stephen, M.",D,OH,"January 3, 1959",Eighty-Sixth,"January 3, 1971",1572
+"Scott, Hugh, D.",R,PA,"January 3, 1959",Eighty-Sixth,"January 3, 1977",1573
+"Engle, Clair",D,CA,"January 3, 1959",Eighty-Sixth,"July 30, 1964",1574
+"Keating, Kenneth, B.",R,NY,"January 3, 1959",Eighty-Sixth,"January 3, 1965",1575
+"McCarthy, Eugene, J.",D,MN,"January 3, 1959",Eighty-Sixth,"January 3, 1971",1576
+"Prouty, Winston, L.",R,VT,"January 3, 1959",Eighty-Sixth,"September 10, 1971",1577
+"Dodd, Thomas, J.",D,CT,"January 3, 1959",Eighty-Sixth,"January 3, 1971",1578
+"Byrd, Robert, C.",D,WV,"January 3, 1959",Eighty-Sixth,"June 28, 2010",1579
+"Williams, Harrison, A., Jr.",D,NJ,"January 3, 1959",Eighty-Sixth,"March 11, 1982",1580
+"Bartlett, Edward, L.",D,AK,"January 3, 1959",Eighty-Sixth,"December 11, 1968",1581
+"Muskie, Edmund, S.",D,ME,"January 3, 1959",Eighty-Sixth,"May 7, 1980",1582
+"Gruening, Ernest",D,AK,"January 3, 1959",Eighty-Sixth,"January 3, 1969",1583
+"Hart, Philip, A.",D,MI,"January 3, 1959",Eighty-Sixth,"December 26, 1976",1584
+"Hartke, Vance",D,IN,"January 3, 1959",Eighty-Sixth,"January 3, 1977",1585
+"Moss, Frank, E.",D,UT,"January 3, 1959",Eighty-Sixth,"January 3, 1977",1586
+"McGee, Gale, W.",D,WY,"January 3, 1959",Eighty-Sixth,"January 3, 1977",1587
+"Cannon, Howard, W.",D,NV,"January 3, 1959",Eighty-Sixth,"January 3, 1983",1588
+"Long, Oren, E.",D,HI,"August 21, 1959",Eighty-Sixth,"January 3, 1963",1589
+"Fong, Hiram, L.",R,HI,"August 21, 1959",Eighty-Sixth,"January 3, 1977",1590
+"Brunsdale, C, . Norman",R,ND,"November 19, 1959",Eighty-Sixth,"August 7, 1960",1591
+"Lusk, Hall, S.",D,OR,"March 16, 1960",Eighty-Sixth,"November 8, 1960",1592
+"Burdick, Quentin, N.",D,ND,"August 8, 1960",Eighty-Sixth,"September 8, 1992",1593
+"Long, Edward, V.",D,MO,"September 23, 1960",Eighty-Sixth,"December 27, 1968",1594
+"Neuberger, Maurine, B.",D,OR,"November 9, 1960",Eighty-Sixth,"January 3, 1967",1595
+"Smith, Benjamin",D,MA,"December 27, 1960",Eighty-Sixth,"November 6, 1962",1596
+"Blakley, William, A.",D,TX,"January 3, 1961",Eighty-Seventh,"June 14, 1961",0
+"Boggs, J, . Caleb",R,DE,"January 3, 1961",Eighty-Seventh,"January 3, 1973",1597
+"Metcalf, Lee",D,MT,"January 3, 1961",Eighty-Seventh,"January 12, 1978",1598
+"Hickey, J, . J.",D,WY,"January 3, 1961",Eighty-Seventh,"November 6, 1962",1599
+"Miller, Jack",R,IA,"January 3, 1961",Eighty-Seventh,"January 3, 1973",1600
+"Pell, Claiborne",D,RI,"January 3, 1961",Eighty-Seventh,"January 3, 1997",1601
+"Tower, John, G.",R,TX,"June 15, 1961",Eighty-Seventh,"January 3, 1985",1602
+"Murphy, Maurice, J., Jr.",R,NH,"December 7, 1961",Eighty-Seventh,"November 6, 1962",1603
+"Pearson, James, B.",R,KS,"January 31, 1962",Eighty-Seventh,"December 23, 1978",1604
+"Bottum, Joe, H.",R,SD,"July 9, 1962",Eighty-Seventh,"January 3, 1963",1605
+"Jordan, Leonard, B.",R,ID,"August 6, 1962",Eighty-Seventh,"January 3, 1973",1606
+"Simpson, Milward, L.",R,WY,"November 7, 1962",Eighty-Seventh,"January 3, 1967",1607
+"Kennedy, Edward, M.",D,MA,"November 7, 1962",Eighty-Seventh,"August 25, 2009",1608
+"McIntyre, Thomas, J.",D,NH,"November 7, 1962",Eighty-Seventh,"January 3, 1979",1609
+"Mechem, Edwin, L.",R,NM,"November 30, 1962",Eighty-Seventh,"November 3, 1964",1610
+"Ribicoff, Abraham, A.",D,CT,"January 3, 1963",Eighty-Eighth,"January 3, 1981",1611
+"McGovern, George",D,SD,"January 3, 1963",Eighty-Eighth,"January 3, 1981",1612
+"Brewster, Daniel, B.",D,MD,"January 3, 1963",Eighty-Eighth,"January 3, 1969",1613
+"Inouye, Daniel, K.",D,HI,"January 3, 1963",Eighty-Eighth,"December 17, 2012",1614
+"Dominick, Peter, H.",R,CO,"January 3, 1963",Eighty-Eighth,"January 3, 1975",1615
+"Bayh, Birch",D,IN,"January 3, 1963",Eighty-Eighth,"January 3, 1981",1616
+"Edmondson, J, . Howard",D,OK,"January 7, 1963",Eighty-Eighth,"November 3, 1964",1617
+"Nelson, Gaylord",D,WI,"January 8, 1963",Eighty-Eighth,"January 3, 1981",1618
+"Walters, Herbert, S.",D,TN,"August 20, 1963",Eighty-Eighth,"November 3, 1964",1619
+"Salinger, Pierre",D,CA,"August 4, 1964",Eighty-Eighth,"December 31, 1964",1620
+"Bass, Ross",D,TN,"November 4, 1964",Eighty-Eighth,"January 3, 1967",1621
+"Montoya, Joseph, M.",D,NM,"November 4, 1964",Eighty-Eighth,"January 3, 1977",1622
+"Harris, Fred, R.",D,OK,"November 4, 1964",Eighty-Eighth,"January 3, 1973",1623
+"Mondale, Walter, F.",D,MN,"December 30, 1964",Eighty-Eighth,"December 30, 1976",1624
+"Murphy, George",R,CA,"January 1, 1965",Eighty-Eighth,"January 1, 1971",1625
+"Kennedy, Robert, F.",D,NY,"January 3, 1965",Eighty-Ninth,"June 6, 1968",1626
+"Fannin, Paul, J.",R,AZ,"January 3, 1965",Eighty-Ninth,"January 3, 1977",1627
+"Tydings, Joseph, D.",D,MD,"January 3, 1965",Eighty-Ninth,"January 3, 1971",1628
+"Russell, Donald",D,SC,"April 22, 1965",Eighty-Ninth,"November 8, 1966",1629
+"Byrd, Harry, F., Jr.",I,VA,"November 12, 1965",Eighty-Ninth,"January 3, 1983",1630
+"Griffin, Robert",R,MI,"May 11, 1966",Eighty-Ninth,"January 3, 1979",1631
+"Hollings, Ernest, F.",D,SC,"November 9, 1966",Eighty-Ninth,"January 3, 2005",1632
+"Spong, William, B., Jr.",D,VA,"December 31, 1966",Eighty-Ninth,"January 3, 1973",1633
+"Hansen, Clifford, P.",R,WY,"January 3, 1967",Ninetieth,"December 31, 1978",1634
+"Percy, Charles, H.",R,IL,"January 3, 1967",Ninetieth,"January 3, 1985",1635
+"Brooke, Edward, W.",R,MA,"January 3, 1967",Ninetieth,"January 3, 1979",1636
+"Baker, Howard, H., Jr.",R,TN,"January 3, 1967",Ninetieth,"January 3, 1985",1637
+"Hatfield, Mark, O.",R,OR,"January 10, 1967",Ninetieth,"January 3, 1997",1638
+"Goodell, Charles, E.",R,NY,"September 10, 1968",Ninetieth,"January 3, 1971",1639
+"Cook, Marlow",R,KY,"December 17, 1968",Ninetieth,"December 27, 1974",1640
+"Stevens, Ted",R,AK,"December 24, 1968",Ninetieth,"January 3, 2009",1641
+"Eagleton, Thomas, F.",D,MO,"December 28, 1968",Ninetieth,"January 3, 1987",1642
+"Goldwater, Barry, M.",R,AZ,"January 3, 1969",Ninety-First,"January 3, 1987",0
+"Schweiker, Richard, S.",R,PA,"January 3, 1969",Ninety-First,"January 3, 1981",1643
+"Mathias, Charles, McC., Jr.",R,MD,"January 3, 1969",Ninety-First,"January 3, 1987",1644
+"Dole, Robert",R,KS,"January 3, 1969",Ninety-First,"June 11, 1996",1645
+"Gurney, Edward, J.",R,FL,"January 3, 1969",Ninety-First,"December 31, 1974",1646
+"Hughes, Harold, E.",D,IA,"January 3, 1969",Ninety-First,"January 3, 1975",1647
+"Bellmon, Henry, L.",R,OK,"January 3, 1969",Ninety-First,"January 3, 1981",1648
+"Cranston, Alan",D,CA,"January 3, 1969",Ninety-First,"January 3, 1993",1649
+"Saxbe, William, B.",R,OH,"January 3, 1969",Ninety-First,"January 3, 1974",1650
+"Allen, James, B.",D,AL,"January 3, 1969",Ninety-First,"June 1, 1978",1651
+"Packwood, Robert, W.",R,OR,"January 3, 1969",Ninety-First,"October 1, 1995",1652
+"Gravel, Mike",D,AK,"January 3, 1969",Ninety-First,"January 3, 1981",1653
+"Smith, Ralph, T.",R,IL,"September 17, 1969",Ninety-First,"November 16, 1970",1654
+"Stevenson, Adlai, E., III",D,IL,"November 17, 1970",Ninety-First,"January 3, 1981",1655
+"Roth, William, V., Jr.",R,DE,"January 1, 1971",Ninety-First,"January 3, 2001",1656
+"Tunney, John, V.",D,CA,"January 2, 1971",Ninety-First,"January 1, 1977",1657
+"Bentsen, Lloyd, M.",D,TX,"January 3, 1971",Ninety-Second,"January 20, 1993",1658
+"Taft, Robert, , Jr.",R,OH,"January 3, 1971",Ninety-Second,"December 28, 1976",1659
+"Brock, William, E., III",R,TN,"January 3, 1971",Ninety-Second,"January 3, 1977",1660
+"Glenn, Jr, .",R,MD,"January 3, 1971",Ninety-Second,"January 3, 1977",1661
+"Weicker, Lowell, P., Jr.",R,CT,"January 3, 1971",Ninety-Second,"January 3, 1989",1662
+"Buckley, James, L.",C/R,NY,"January 3, 1971",Ninety-Second,"January 3, 1977",1663
+"Chiles, Lawton, M., Jr.",D,FL,"January 3, 1971",Ninety-Second,"January 3, 1989",1664
+"Humphrey, Hubert, H.",D,MN,"January 3, 1971",Ninety-Second,"January 13, 1978",0
+"Gambrell, David, H.",D,GA,"February 1, 1971",Ninety-Second,"November 7, 1972",1665
+"Stafford, Robert, T.",R,VT,"September 16, 1971",Ninety-Second,"January 3, 1989",1666
+"Edwards, Elaine, S.",D,LA,"August 1, 1972",Ninety-Second,"November 13, 1972",1667
+"Nunn, Samuel, A.",D,GA,"November 8, 1972",Ninety-Second,"January 3, 1997",1668
+"Bennett, Jr, .",D,LA,"November 14, 1972",Ninety-Second,"January 3, 1997",1669
+"Hathaway, William, D.",D,ME,"January 3, 1973",Ninety-Third,"January 3, 1979",1670
+"Scott, William, L.",R,VA,"January 3, 1973",Ninety-Third,"January 1, 1979",1671
+"McClure, James, A.",R,ID,"January 3, 1973",Ninety-Third,"January 3, 1991",1672
+"Abourezk, James",D,SD,"January 3, 1973",Ninety-Third,"January 3, 1979",1673
+"Bartlett, Dewey, F.",R,OK,"January 3, 1973",Ninety-Third,"January 3, 1979",1674
+"Helms, Jesse",R,NC,"January 3, 1973",Ninety-Third,"January 3, 2003",1675
+"Huddleston, Walter",D,KY,"January 3, 1973",Ninety-Third,"January 3, 1985",1676
+"Clark, Dick",D,IA,"January 3, 1973",Ninety-Third,"January 3, 1979",1677
+"Haskell, Floyd, K.",D,CO,"January 3, 1973",Ninety-Third,"January 3, 1979",1678
+"Domenici, Pete, V.",R,NM,"January 3, 1973",Ninety-Third,"January 3, 2009",1679
+"Biden, Joseph, R., Jr.",D,DE,"January 3, 1973",Ninety-Third,"January 15, 2009",1680
+"Metzenbaum, Howard, M.",D,OH,"January 4, 1974",Ninety-Third,"December 23, 1974",1681
+"Laxalt, Paul, D.",R,NV,"December 18, 1974",Ninety-Third,"January 3, 1987",1682
+"Garn, E, . J. ""Jake""",R,UT,"December 21, 1974",Ninety-Third,"January 3, 1993",1683
+"Glenn, John, H., Jr.",D,OH,"December 24, 1974",Ninety-Third,"January 3, 1999",1684
+"Ford, Wendell, H.",D,KY,"December 28, 1974",Ninety-Third,"January 3, 1999",1685
+"Wyman, Louis, C.",R,NH,"December 31, 1974",Ninety-Third,"January 3, 1975",1686
+"Stone, Richard",D,FL,"January 1, 1975",Ninety-Third,"December 31, 1980",1687
+"Culver, John, C.",D,IA,"January 3, 1975",Ninety-Fourth,"January 3, 1981",1688
+"Bumpers, Dale",D,AR,"January 3, 1975",Ninety-Fourth,"January 3, 1999",1689
+"Morgan, Robert",D,NC,"January 3, 1975",Ninety-Fourth,"January 3, 1981",1690
+"Hart, Gary",D,CO,"January 3, 1975",Ninety-Fourth,"January 3, 1987",1691
+"Leahy, Patrick",D,VT,"January 3, 1975",Ninety-Fourth,,1692
+"Cotton, Norris",R,NH,"August 8, 1975",Ninety-Fourth,"September 18, 1975",0
+"Durkin, John, A.",D,NH,"September 18, 1975",Ninety-Fourth,"December 29, 1980",1693
+"Danforth, John, C.",R,MO,"December 27, 1976",Ninety-Fourth,"January 3, 1995",1694
+"Zorinsky, Edward",D,NE,"December 28, 1976",Ninety-Fourth,"March 6, 1987",1695
+"Chafee, John, H.",R,RI,"December 29, 1976",Ninety-Fourth,"October 24, 1999",1696
+"Metzenbaum, Howard",D,OH,"December 29, 1976",Ninety-Fourth,"January 3, 1995",0
+"Riegle, Donald, W., Jr.",D,MI,"December 30, 1976",Ninety-Fourth,"January 3, 1995",1697
+"Anderson, Wendell, R.",D,MN,"December 30, 1976",Ninety-Fourth,"December 29, 1978",1698
+"Hayakawa, S, . I.",R,CA,"January 2, 1977",Ninety-Fourth,"January 3, 1983",1699
+"Matsunaga, Spark, M.",D,HI,"January 3, 1977",Ninety-Fifth,"April 15, 1990",1700
+"Melcher, John",D,MT,"January 3, 1977",Ninety-Fifth,"January 3, 1989",1701
+"John, III",R,PA,"January 3, 1977",Ninety-Fifth,"April 4, 1991",1702
+"Sarbanes, Paul, S.",D,MD,"January 3, 1977",Ninety-Fifth,"January 3, 2007",1703
+"Moynihan, Daniel, P.",D,NY,"January 3, 1977",Ninety-Fifth,"January 3, 2001",1704
+"Lugar, Richard, G.",R,IN,"January 3, 1977",Ninety-Fifth,"January 3, 2013",1705
+"Sasser, James, R.",D,TN,"January 3, 1977",Ninety-Fifth,"January 3, 1995",1706
+"DeConcini, Dennis",D,AZ,"January 3, 1977",Ninety-Fifth,"January 3, 1995",1707
+"Hatch, Orrin, G.",R,UT,"January 3, 1977",Ninety-Fifth,"January 3, 2019",1708
+"Schmitt, Harrison, H.",R,NM,"January 3, 1977",Ninety-Fifth,"January 3, 1983",1709
+"Wallop, Malcolm",R,WY,"January 3, 1977",Ninety-Fifth,"January 3, 1995",1710
+"Hodges, Kaneaster, , Jr.",D,AR,"December 10, 1977",Ninety-Fifth,"January 3, 1979",1711
+"Hatfield, Paul, G.",D,MT,"January 22, 1978",Ninety-Fifth,"December 14, 1978",1712
+"Humphrey, Muriel",D,MN,"January 25, 1978",Ninety-Fifth,"November 7, 1978",1713
+"Allen, Maryon",D,AL,"June 8, 1978",Ninety-Fifth,"November 7, 1978",1714
+"Stewart, Donald, W.",D,AL,"November 8, 1978",Ninety-Fifth,"January 1, 1981",1715
+"Durenberger, David, F.",R,MN,"November 8, 1978",Ninety-Fifth,"January 3, 1995",1716
+"Baucus, Max",D,MT,"December 15, 1978",Ninety-Fifth,"February 6, 2014",1717
+"Kassebaum, Nancy, L.",R,KS,"December 23, 1978",Ninety-Fifth,"January 3, 1997",1718
+"Cochran, Thad",R,MS,"December 27, 1978",Ninety-Fifth,"April 1, 2018",1719
+"Boschwitz, Rudy",R,MN,"December 30, 1978",Ninety-Fifth,"January 3, 1991",1720
+"Simpson, Alan, K.",R,WY,"January 1, 1979",Ninety-Fifth,"January 3, 1997",1721
+"Warner, John, W.",R,VA,"January 2, 1979",Ninety-Fifth,"January 3, 2009",1722
+"Pryor, David, H.",D,AR,"January 3, 1979",Ninety-Sixth,"January 3, 1997",1723
+"Armstrong, William, L.",R,CO,"January 3, 1979",Ninety-Sixth,"January 3, 1991",1724
+"Cohen, William, S.",R,ME,"January 3, 1979",Ninety-Sixth,"January 3, 1997",1725
+"Tsongas, Paul, E.",D,MA,"January 3, 1979",Ninety-Sixth,"January 2, 1985",1726
+"Pressler, Larry",R,SD,"January 3, 1979",Ninety-Sixth,"January 3, 1997",1727
+"Boren, David, L.",D,OK,"January 3, 1979",Ninety-Sixth,"November 15, 1994",1728
+"Exon, J, . James",D,NE,"January 3, 1979",Ninety-Sixth,"January 3, 1997",1729
+"Levin, Carl, M.",D,MI,"January 3, 1979",Ninety-Sixth,"January 3, 2015",1730
+"Bradley, Bill",D,NJ,"January 3, 1979",Ninety-Sixth,"January 3, 1997",1731
+"Heflin, Howell, T.",D,AL,"January 3, 1979",Ninety-Sixth,"January 3, 1997",1732
+"Jepsen, Roger, W.",R,IA,"January 3, 1979",Ninety-Sixth,"January 3, 1985",1733
+"Humphrey, Gordon, J.",R,NH,"January 3, 1979",Ninety-Sixth,"December 4, 1990",1734
+"Mitchell, George, J.",D,ME,"May 17, 1980",Ninety-Sixth,"January 3, 1995",1735
+"Rudman, Warren, B.",R,NH,"December 30, 1980",Ninety-Sixth,"January 3, 1993",1736
+"Hawkins, Paula",R,FL,"January 1, 1981",Ninety-Sixth,"January 3, 1987",1737
+"Denton, Jeremiah, A.",R,AL,"January 2, 1981",Ninety-Sixth,"January 3, 1987",1738
+"Andrews, Mark",R,ND,"January 3, 1981",Ninety-Seventh,"January 3, 1987",1739
+"Symms, Steven, D.",R,ID,"January 3, 1981",Ninety-Seventh,"January 3, 1993",1740
+"Abdnor, James",R,SD,"January 3, 1981",Ninety-Seventh,"January 3, 1987",1741
+"Dodd, Christopher, J.",D,CT,"January 3, 1981",Ninety-Seventh,"January 3, 2011",1742
+"Grassley, Charles, E.",R,IA,"January 3, 1981",Ninety-Seventh,,1743
+"Quayle, J, . Danforth",R,IN,"January 3, 1981",Ninety-Seventh,"January 3, 1989",1744
+"Kasten, Robert, W., Jr.",R,WI,"January 3, 1981",Ninety-Seventh,"January 3, 1993",1745
+"Amato, Alfonse, M.",R,NY,"January 3, 1981",Ninety-Seventh,"January 3, 1999",1746
+"Specter, Arlen",R/D,PA,"January 3, 1981",Ninety-Seventh,"January 3, 2011",1747
+"Dixon, Alan, J.",D,IL,"January 3, 1981",Ninety-Seventh,"January 3, 1993",1748
+"East, John, P.",R,NC,"January 3, 1981",Ninety-Seventh,"June 29, 1986",1749
+"Mattingly, Mack, F.",R,GA,"January 3, 1981",Ninety-Seventh,"January 3, 1987",1750
+"Gorton, Slade",R,WA,"January 3, 1981",Ninety-Seventh,"January 3, 1987",1751
+"Nickles, Don",R,OK,"January 3, 1981",Ninety-Seventh,"January 3, 2005",1752
+"Murkowski, Frank, H.",R,AK,"January 3, 1981",Ninety-Seventh,"December 2, 2002",1753
+"Brady, Nicholas, F.",R,NJ,"April 12, 1982",Ninety-Seventh,"December 27, 1982",1754
+"Lautenberg, Frank, R.",D,NJ,"December 27, 1982",Ninety-Seventh,"January 3, 2001",1755
+"Trible, Paul, S., Jr.",R,VA,"January 3, 1983",Ninety-Eighth,"January 3, 1989",1756
+"Bingaman, Jeff",D,NM,"January 3, 1983",Ninety-Eighth,"January 3, 2013",1757
+"Hecht, Chic",R,NV,"January 3, 1983",Ninety-Eighth,"January 3, 1989",1758
+"Wilson, Pete",R,CA,"January 3, 1983",Ninety-Eighth,"January 7, 1991",1759
+"Evans, Daniel, J.",R,WA,"September 8, 1983",Ninety-Eighth,"January 3, 1989",1760
+"Kerry, John, F.",D,MA,"January 2, 1985",Ninety-Eighth,"February 1, 2013",1761
+"Simon, Paul",D,IL,"January 3, 1985",Ninety-Ninth,"January 3, 1997",1762
+"Harkin, Tom",D,IA,"January 3, 1985",Ninety-Ninth,"January 3, 2015",1763
+"Gore, Albert, , Jr.",D,TN,"January 3, 1985",Ninety-Ninth,"January 2, 1993",1764
+"Gramm, Phil",R,TX,"January 3, 1985",Ninety-Ninth,"November 30, 2002",1765
+"McConnell, Mitch",R,KY,"January 3, 1985",Ninety-Ninth,,1766
+"Rockefeller, John, D. IV",D,WV,"January 15, 1985",Ninety-Ninth,"January 3, 2015",1767
+"Broyhill, James, T.",R,NC,"July 14, 1986",Ninety-Ninth,"November 4, 1986",1768
+"Sanford, Terry",D,NC,"November 5, 1986",Ninety-Ninth,"January 3, 1993",1769
+"Breaux, John",D,LA,"January 3, 1987",Hundredth,"January 3, 2005",1770
+"Adams, Brock",D,WA,"January 3, 1987",Hundredth,"January 3, 1993",1771
+"Wirth, Timothy, E.",D,CO,"January 3, 1987",Hundredth,"January 3, 1993",1772
+"Mikulski, Barbara",D,MD,"January 3, 1987",Hundredth,"January 3, 2017",1773
+"Fowler, Wyche",D,GA,"January 3, 1987",Hundredth,"January 3, 1993",1774
+"Shelby, Richard",D/R,AL,"January 3, 1987",Hundredth,,1775
+"Daschle, Tom",D,SD,"January 3, 1987",Hundredth,"January 3, 2005",1776
+"McCain, John",R,AZ,"January 3, 1987",Hundredth,"August 25, 2018",1777
+"Reid, Harry",D,NV,"January 3, 1987",Hundredth,"January 3, 2017",1778
+"Graham, Bob",D,FL,"January 3, 1987",Hundredth,"January 3, 2005",1779
+"Bond, Kit",R,MO,"January 3, 1987",Hundredth,"January 3, 2011",1780
+"Conrad, Kent",D,ND,"January 3, 1987",Hundredth,"December 14, 1992",1781
+"Karnes, David",R,NE,"March 11, 1987",Hundredth,"January 3, 1989",1782
+"Gorton, Slade",R,WA,"January 3, 1989",101St,"January 3, 2001",0
+"Lott, Trent",R,MS,"January 3, 1989",101St,"December 18, 2007",1783
+"Jeffords, Jim",R/I,VT,"January 3, 1989",101St,"January 3, 2007",1784
+"Coats, Dan",R,IN,"January 3, 1989",101St,"January 3, 1999",1785
+"Mack, Connie",R,FL,"January 3, 1989",101St,"January 3, 2001",1786
+"Bryan, Richard",D,NV,"January 3, 1989",101St,"January 3, 2001",1787
+"Robb, Charles",D,VA,"January 3, 1989",101St,"January 3, 2001",1788
+"Kerrey, Bob",D,NE,"January 3, 1989",101St,"January 3, 2001",1789
+"Kohl, Herbert",D,WI,"January 3, 1989",101St,"January 3, 2013",1790
+"Lieberman, Joseph",D,CT,"January 3, 1989",101St,"January 3, 2013",1791
+"Burns, Conrad",R,MT,"January 3, 1989",101St,"January 3, 2007",1792
+"Akaka, Daniel",D,HI,"May 16, 1990",101St,"January 3, 2013",1793
+"Smith, Robert, C.",R,NH,"December 7, 1990",101St,"January 3, 2003",1794
+"Brown, George Hanks (Hank)",R,CO,"January 3, 1991",102Nd,"January 3, 1997",1795
+"Craig, Larry, E.",R,ID,"January 3, 1991",102Nd,"January 3, 2009",1796
+"Wellstone, Paul",D,MN,"January 3, 1991",102Nd,"October 25, 2002",1797
+"Seymour, John",R,CA,"January 7, 1991",102Nd,"November 3, 1992",1798
+"Wofford, Harris",D,PA,"May 8, 1991",102Nd,"January 3, 1995",1799
+"Burdick, Jocelyn",D,ND,"September 12, 1992",102Nd,"December 14, 1992",1800
+"Feinstein, Dianne",D,CA,"November 4, 1992",102Nd,,1801
+"Conrad, Kent",D,ND,"December 14, 1992",102Nd,"January 3, 2013",0
+"Dorgan, Byron, L.",D,ND,"December 14, 1992",102Nd,"January 3, 2011",1802
+"Mathews, Harlan",D,TN,"January 2, 1993",102Nd,"December 1, 1994",1803
+"Boxer, Barbara",D,CA,"January 3, 1993",103Rd,"January 3, 2017",1804
+"Gregg, Judd",R,NH,"January 3, 1993",103Rd,"January 3, 2011",1805
+"Campbell, Ben, Nighthorse",D/R,CO,"January 3, 1993",103Rd,"January 3, 2005",1806
+"Braun, Carol",D,IL,"January 3, 1993",103Rd,"January 3, 1999",1807
+"Faircloth, D, . M. ""Lauch""",R,NC,"January 3, 1993",103Rd,"January 3, 1999",1808
+"Coverdell, Paul",R,GA,"January 3, 1993",103Rd,"July 18, 2000",1809
+"Murray, Patty",D,WA,"January 3, 1993",103Rd,,1810
+"Feingold, Russell",D,WI,"January 3, 1993",103Rd,"January 3, 2011",1811
+"Bennett, Robert",R,UT,"January 3, 1993",103Rd,"January 3, 2011",1812
+"Kempthorne, Dirk",R,ID,"January 3, 1993",103Rd,"January 3, 1999",1813
+"Krueger, Robert, C.",D,TX,"January 21, 1993",103Rd,"June 14, 1993",1814
+"Hutchison, Kathryn, Ann Bailey",R,TX,"June 14, 1993",103Rd,"January 3, 2013",1815
+"Inhofe, James",R,OK,"November 16, 1994",103Rd,,1816
+"Thompson, Fred",R,TN,"December 2, 1994",103Rd,"January 3, 2003",1817
+"Snowe, Olympia",R,ME,"January 3, 1995",104Th,"January 3, 2013",1818
+"Kyl, Jon",R,AZ,"January 3, 1995",104Th,"January 3, 2013",1819
+"DeWine, Mike",R,OH,"January 3, 1995",104Th,"January 3, 2007",1820
+"Thomas, Craig",R,WY,"January 3, 1995",104Th,"June 4, 2007",1821
+"Santorum, Rick",R,PA,"January 3, 1995",104Th,"January 3, 2007",1822
+"Grams, Rod",R,MN,"January 3, 1995",104Th,"January 3, 2001",1823
+"Ashcroft, John",R,MO,"January 3, 1995",104Th,"January 3, 2001",1824
+"Abraham, Spencer",R,MI,"January 3, 1995",104Th,"January 3, 2001",1825
+"Frist, Bill",R,TN,"January 3, 1995",104Th,"January 3, 2007",1826
+"Wyden, Ron",D,OR,"February 6, 1996",104Th,,1827
+"Frahm, Sheila",R,KS,"June 11, 1996",104Th,"November 6, 1996",1828
+"Roberts, Pat",R,KS,"January 3, 1997",105Th,,1830
+"Durbin, Richard",D,IL,"January 3, 1997",105Th,,1831
+"Torricelli, Robert",D,NJ,"January 3, 1997",105Th,"January 3, 2003",1832
+"Johnson, Tim",D,SD,"January 3, 1997",105Th,"January 3, 2015",1833
+"Allard, Wayne",R,CO,"January 3, 1997",105Th,"January 3, 2009",1834
+"Reed, Jack",D,RI,"January 3, 1997",105Th,,1835
+"Hutchinson, Tim",R,AR,"January 3, 1997",105Th,"January 3, 2003",1836
+"Cleland, Max",D,GA,"January 3, 1997",105Th,"January 3, 2003",1837
+"Landrieu, Mary",D,LA,"January 3, 1997",105Th,"January 3, 2015",1838
+"Sessions, Jeff",R,AL,"January 3, 1997",105Th,"February 8, 2017",1839
+"Smith, Gordon",R,OR,"January 3, 1997",105Th,"January 3, 2009",1840
+"Hagel, Chuck",R,NE,"January 3, 1997",105Th,"January 3, 2009",1841
+"Collins, Susan",R,ME,"January 3, 1997",105Th,,1842
+"Enzi, Michael",R,WY,"January 3, 1997",105Th,,1843
+"Schumer, Charles",D,NY,"January 3, 1999",106Th,,1844
+"Bunning, Jim",R,KY,"January 3, 1999",106Th,"January 3, 2011",1845
+"Crapo, Mike",R,ID,"January 3, 1999",106Th,,1846
+"Lincoln, Blanche, L.",D,AR,"January 3, 1999",106Th,"January 3, 2011",1847
+"Voinovich, George",R,OH,"January 3, 1999",106Th,"January 3, 2011",1848
+"Bayh, Evan",D,IN,"January 3, 1999",106Th,"January 3, 2011",1849
+"Fitzgerald, Peter",R,IL,"January 3, 1999",106Th,"January 3, 2005",1850
+"Edwards, John",D,NC,"January 3, 1999",106Th,"January 3, 2005",1851
+"Chafee, Lincoln, D.",R,RI,"November 2, 1999",106Th,"January 3, 2007",1852
+"Miller, Zell, B.",D,GA,"July 24, 2000",106Th,"January 3, 2005",1853
+"Nelson, Bill",D,FL,"January 3, 2001",107Th,"January 3, 2019",1854
+"Carper, Tom",D,DE,"January 3, 2001",107Th,,1855
+"Stabenow, Debbie",D,MI,"January 3, 2001",107Th,,1856
+"Ensign, John",R,NV,"January 3, 2001",107Th,"May 3, 2011",1857
+"Allen, George",R,VA,"January 3, 2001",107Th,"January 3, 2007",1858
+"Cantwell, Maria",D,WA,"January 3, 2001",107Th,,1859
+"Nelson, Ben",D,NE,"January 3, 2001",107Th,"January 3, 2013",1860
+"Clinton, Hillary, Rodham",D,NY,"January 3, 2001",107Th,"January 21, 2009",1861
+"Corzine, Jon",D,NJ,"January 3, 2001",107Th,"January 17, 2006",1862
+"Carnahan, Jean",D,MO,"January 3, 2001",107Th,"November 23, 2002",1863
+"Dayton, Mark",D,MN,"January 3, 2001",107Th,"January 3, 2007",1864
+"Barkley, Dean",I,MN,"November 4, 2002",107Th,"January 3, 2003",1865
+"Talent, James",R,MO,"November 23, 2002",107Th,"January 3, 2007",1866
+"Cornyn, John",R,TX,"December 2, 2002",107Th,,1867
+"Murkowski, Lisa",R,AK,"December 20, 2002",107Th,,1868
+"Lautenberg, Frank",D,NJ,"January 3, 2003",108Th,"June 3, 2013",0
+"Chambliss, Saxby",R,GA,"January 3, 2003",108Th,"January 3, 2015",1869
+"Graham, Lindsey",R,SC,"January 3, 2003",108Th,,1870
+"Sununu, John",R,NH,"January 3, 2003",108Th,"January 3, 2009",1871
+"Alexander, Lamar",R,TN,"January 3, 2003",108Th,,1872
+"Dole, Elizabeth",R,NC,"January 3, 2003",108Th,"January 3, 2009",1873
+"Coleman, Norm",R,MN,"January 3, 2003",108Th,"January 3, 2009",1874
+"Pryor, Mark",D,AR,"January 3, 2003",108Th,"January 3, 2015",1875
+"Burr, Richard",R,NC,"January 3, 2005",109Th,,1876
+"DeMint, James",R,SC,"January 3, 2005",109Th,"January 1, 2013",1877
+"Coburn, Tom",R,OK,"January 3, 2005",109Th,"January 3, 2015",1878
+"Thune, John",R,SD,"January 3, 2005",109Th,,1879
+"Isakson, Johnny",R,GA,"January 3, 2005",109Th,"December 31, 2019",1880
+"Vitter, David",R,LA,"January 3, 2005",109Th,"January 3, 2017",1881
+"Martinez, Mel",R,FL,"January 3, 2005",109Th,"September 9, 2009",1882
+"Obama, Barack",D,IL,"January 3, 2005",109Th,"November 16, 2008",1883
+"Salazar, Ken",D,CO,"January 3, 2005",109Th,"January 20, 2009",1884
+"Menendez, Robert",D,NJ,"January 17, 2006",109Th,,1885
+"Cardin, Ben",D,MD,"January 3, 2007",110Th,,1886
+"Sanders, Bernie",I,VT,"January 3, 2007",110Th,,1887
+"Brown, Sherrod",D,OH,"January 3, 2007",110Th,,1888
+"Webb, Jim",D,VA,"January 3, 2007",110Th,"January 3, 2013",1889
+"Casey, Robert",D,PA,"January 3, 2007",110Th,,1890
+"Corker, Robert",R,TN,"January 3, 2007",110Th,"January 3, 2019",1891
+"McCaskill, Claire",D,MO,"January 3, 2007",110Th,"January 3, 2019",1892
+"Klobuchar, Amy",D,MN,"January 3, 2007",110Th,,1893
+"Whitehouse, Sheldon",D,RI,"January 3, 2007",110Th,,1894
+"Tester, Jon",D,MT,"January 3, 2007",110Th,,1895
+"Barrasso, John",R,WY,"June 22, 2007",110Th,,1896
+"Wicker, Roger, F.",R,MS,"December 31, 2007",110Th,,1897
+"Udall, Mark",D,CO,"January 3, 2009",111Th,"January 3, 2015",1898
+"Udall, Tom",D,NM,"January 3, 2009",111Th,,1899
+"Johanns, Mike",R,NE,"January 3, 2009",111Th,"January 3, 2015",1900
+"Shaheen, Jeanne",D,NH,"January 3, 2009",111Th,,1901
+"Warner, Mark",D,VA,"January 3, 2009",111Th,,1902
+"Risch, Jim",R,ID,"January 3, 2009",111Th,,1903
+"Hagan, Kay",D,NC,"January 3, 2009",111Th,"January 3, 2015",1904
+"Merkley, Jeff",D,OR,"January 3, 2009",111Th,,1905
+"Begich, Mark",D,AK,"January 3, 2009",111Th,"January 3, 2015",1906
+"Burris, Roland, 8",D,IL,"January 12, 2009",111Th,"November 29, 2010",1907
+"Kaufman, Edward",D,DE,"January 15, 2009",111Th,"November 15, 2010",1908
+"Bennet, Michael",D,CO,"January 21, 2009",111Th,,1909
+"Gillibrand, Kirsten, 9",D,NY,"January 26, 2009",111Th,,1910
+"Franken, Al, 10",D,MN,"July 7, 2009",111Th,"January 2, 2018",1911
+"LeMieux, George",R,FL,"September 9, 2009",111Th,"January 3, 2011",1912
+"G, Jr, .",D,MA,"September 24, 2009",111Th,"February 4, 2010",1913
+"Brown, Scott, P.",R,MA,"February 4, 2010",111Th,"January 3, 2013",1914
+"Goodwin, Carte, P.",D,WV,"July 16, 2010",111Th,"November 15, 2010",1915
+"Manchin, Joe",D,WV,"November 15, 2010",111Th,,1916
+"Coons, Christopher",D,DE,"November 15, 2010",111Th,,1917
+"Kirk, Mark, 11",R,IL,"November 29, 2010",111Th,"January 3, 2017",1918
+"Coats, Daniel",R,IN,"January 3, 2011",112Th,"January 3, 2017",0
+"Blunt, Roy",R,MO,"January 3, 2011",112Th,,1919
+"Moran, Jerry",R,KS,"January 3, 2011",112Th,,1920
+"Portman, Rob",R,OH,"January 3, 2011",112Th,,1921
+"Boozman, John",R,AR,"January 3, 2011",112Th,,1922
+"Toomey, Pat",R,PA,"January 3, 2011",112Th,,1931
+"Hoeven, John",R,ND,"January 3, 2011",112Th,,1924
+"Rubio, Marco",R,FL,"January 3, 2011",112Th,,1925
+"Johnson, Ron",R,WI,"January 3, 2011",112Th,,1926
+"Paul, Rand",R,KY,"January 3, 2011",112Th,,1927
+"Blumenthal, Richard",D,CT,"January 3, 2011",112Th,,1928
+"Lee, Mike",R,UT,"January 3, 2011",112Th,,1929
+"Ayotte, Kelly",R,NH,"January 3, 2011",112Th,"January 3, 2017",1930
+"Heller, Dean",R,NV,"May 9, 2011",112Th,"January 3, 2019",1931
+"Schatz, Brian, E.",D,HI,"December 26, 2012",112Th,,1932
+"Scott, Tim, 12",R,SC,"January 2, 2013",112Th,,1933
+"Baldwin, Tammy",D,WI,"January 3, 2013",113Th,,1934
+"Flake, Jeff",R,AZ,"January 3, 2013",113Th,"January 3, 2019",1935
+"Donnelly, Joe",D,IN,"January 3, 2013",113Th,"January 3, 2019",1936
+"Murphy, Chris",D,CT,"January 3, 2013",113Th,,1937
+"Hirono, Mazie",D,HI,"January 3, 2013",113Th,,1938
+"Heinrich, Martin",D,NM,"January 3, 2013",113Th,,1939
+"King, Angus",I,ME,"January 3, 2013",113Th,,1940
+"Kaine, Tim",D,VA,"January 3, 2013",113Th,,1941
+"Cruz, Ted",R,TX,"January 3, 2013",113Th,,1942
+"Warren, Elizabeth",D,MA,"January 3, 2013",113Th,,1943
+"Fischer, Deb",R,NE,"January 3, 2013",113Th,,1944
+"Heitkamp, Heidi",D,ND,"January 3, 2013",113Th,"January 3, 2019",1945
+"Cowan, William, ﬁMoﬂ",D,MA,"February 1, 2013",113Th,"July 15, 2013",1946
+"Chiesa, Jeffrey, S.",R,NJ,"June 6, 2013",113Th,"October 30, 2013",1947
+"Markey, Edward, J.",D,MA,"July 16, 2013",113Th,,1948
+"Booker, Cory",D,NJ,"October 31, 2013",113Th,,1949
+"Walsh, John, 13",D,MT,"February 9, 2014",113Th,"January 3, 2015",1950
+"Capito, Shelley, Moore",R,WV,"January 3, 2015",114Th,,1951
+"Peters, Gary",D,MI,"January 3, 2015",114Th,,1952
+"Cassidy, Bill",R,LA,"January 3, 2015",114Th,,1953
+"Gardner, Cory",R,CO,"January 3, 2015",114Th,,1954
+"Lankford, James",R,OK,"January 3, 2015",114Th,,1955
+"Cotton, Tom",R,AR,"January 3, 2015",114Th,,1956
+"Daines, Steve",R,MT,"January 3, 2015",114Th,,1957
+"Rounds, Mike",R,SD,"January 3, 2015",114Th,,1958
+"Perdue, David",R,GA,"January 3, 2015",114Th,,1959
+"Tillis, Thom",R,NC,"January 3, 2015",114Th,,1960
+"Ernst, Joni",R,IA,"January 3, 2015",114Th,,1961
+"Sasse, Ben",R,NE,"January 3, 2015",114Th,,1962
+"Sullivan, Dan",R,AK,"January 3, 2015",114Th,,1963
+"Hollen, Chris",D,MD,"January 3, 2017",115Th,,1964
+"Young, Todd",R,IN,"January 3, 2017",115Th,,1965
+"Duckworth, Tammy",D,IL,"January 3, 2017",115Th,,1966
+"Hassan, Maggie",D,NH,"January 3, 2017",115Th,,1967
+"Harris, Kamala",D,CA,"January 3, 2017",115Th,,1968
+"Kennedy, John",R,LA,"January 3, 2017",115Th,,1969
+"Masto, Catherine",D,NV,"January 3, 2017",115Th,,1970
+"Strange, Luther",R,AL,"February 9, 2017",115Th,"January 3, 2018",1971
+"Smith, Tina, 14",D,MN,"January 3, 2018",115Th,,1972
+"Jones, Doug",D,AL,"January 3, 2018",115Th,,1973
+"Smith, Cindy, 15",R,MS,"April 2, 2018",115Th,,1988
+"Blackburn, Marsha",R,TN,"January 3, 2019",116Th,,1975
+"Sinema, Kyrsten",D,AZ,"January 3, 2019",116Th,,1976
+"Cramer, Kevin",R,ND,"January 3, 2019",116Th,,1977
+"McSally, Martha",R,AZ,"January 3, 2019",116Th,,1978
+"Rosen, Jacky",D,NV,"January 3, 2019",116Th,,1979
+"Romney, Mitt",R,UT,"January 3, 2019",116Th,,1980
+"Braun, Mike",R,IN,"January 3, 2019",116Th,,1981
+"Hawley, Josh",R,MO,"January 3, 2019",116Th,,1982
+"Scott, Rick",R,FL,"January 8, 2019",116Th,,1983
+"Loeffler, Kelly",R,GA,"January 6, 2020",116Th,,1984
